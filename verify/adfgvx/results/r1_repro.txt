@@ -1,0 +1,12 @@
+part5 w=18 rows=8 n= 132 colLens [7, 8]
+ interim pairs: XD VD FF XX VF VD AG VD AV XA VD VX FF FX FA AD XA VD GD GD AD XA VD VD XX DV VA DV GA XA GV AX XA VG XA VD XV XD GG GG XA VD GG FF FD XA AX AD VD FF FV VG VD AX FV VG AD AV XA GG FV VG XA VG XA VD
+ decrypt (claimed square, no corrections): ANORDNUNGENVOM2TEN11TENNR858BEZIEHENLASSENSOWEITNOCHNICHTGESCHEHEN
+part6 w=18 rows=6 n= 108 colLens [6]
+ interim pairs: FX A- VD A- AD A- FF VD GG GA X- GG A- XD V- VF VF XA XX VD XD F- VG V- AG AD XD XX AD AX X- AV X- XX AX XA FX XA XV V- AA V- AF DV AF AV AF XX A- -V A- GA AF XD
+ decrypt (claimed square, no corrections): M?N?T?ONSB?S?A?DDERNA?H?UTARTI?G?RIEMEL???X8XGXR???BXA
+part5 match with claimed reading: 66 / 66 diff idx []
+part6 match: 37 known-decrypt letters of 54  mismatches: [(31, 'G', 'L')]
+pairs with >1 letter: {'AV': {'G', 'L'}}
+letters with >1 pair: {'E': ['AA', 'XA'], 'L': ['AV', 'XV']}
+distinct pairs used: 25 distinct letters: 24
+round trip: 222 logged known symbols compared, 220 identical, mismatches [('part6', 3, 'X', 'A'), ('part6', 4, 'X', 'A')]

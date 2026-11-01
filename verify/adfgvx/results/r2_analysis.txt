@@ -1,0 +1,15 @@
+[TEL, '?' cells=digit] claim@160 -1.0037, claim best-over-g -1.0037 (g=160); best wrong key-over-g -1.3735 (nov13_20 g=105); best wrong Lasry period key -1.3735; z of claim@160 vs 4641 wrong (key,g) cells = 5.8
+[TEL, '?' cells=any] claim@160 -1.0037, claim best-over-g -1.0037 (g=160); best wrong key-over-g -0.7952 (nov13_20 g=106); best wrong Lasry period key -0.7952; z of claim@160 vs 4641 wrong (key,g) cells = 1.4
+   TEL nov10 scan g=156..166: [-1.0954, -1.0427, -1.0049, -1.0099, -1.0037, -1.0037, -1.0037, -1.0415, -1.0588, -1.0848, -1.1011]  positions within 0.006 of best: [158, 160, 161, 162]
+   best placement outside g=154..167: g=168, -1.0847 per quad = 9.5 log10 below best
+[LIT, '?' cells=digit] claim@160 -1.7641, claim best-over-g -1.7371 (g=162); best wrong key-over-g -1.7659 (ours_nov07_18col g=107); best wrong Lasry period key -1.7764; z of claim@160 vs 4641 wrong (key,g) cells = 3.0
+[LIT, '?' cells=any] claim@160 -1.7641, claim best-over-g -1.7371 (g=162); best wrong key-over-g -0.8222 (chi_2017_comments g=108); best wrong Lasry period key -0.8485; z of claim@160 vs 4641 wrong (key,g) cells = -0.2
+   LIT nov10 scan g=156..166: [-1.8194, -1.7863, -1.7768, -1.7682, -1.7641, -1.7375, -1.7371, -1.7643, -1.7836, -1.8035, -1.8035]  positions within 0.006 of best: [161, 162]
+   best placement outside g=154..167: g=168, -1.7794 per quad = 4.9 log10 below best
+TEL/digit best-over-g, randkey  n=200 mean -1.666 sd 0.063 max -1.497 ; claim -1.0037 exceeds all: True ; z=10.5
+TEL/digit best-over-g, shuffle  n=200 mean -1.681 sd 0.059 max -1.506 ; claim -1.0037 exceeds all: True ; z=11.4
+TEL/digit best-over-g, square   n=21 mean -1.646 sd 0.164 max -1.316 ; claim -1.0037 exceeds all: True ; z=3.9
+fully-specified wrong keys only (11 keys: sep19,oct04,oct28,nov01,nov04,nov07,nov19,nov22,nov25,nov28,dec09_history): [TEL,digit] claim@160 -1.0037 ; best wrong -1.6270 (nov25) ; margin 0.623 per quad = 72.9 log10
+fully-specified wrong keys only (11 keys: sep19,oct04,oct28,nov01,nov04,nov07,nov19,nov22,nov25,nov28,dec09_history): [TEL,any] claim@160 -1.0037 ; best wrong -1.6045 (nov07) ; margin 0.601 per quad = 70.3 log10
+fully-specified wrong keys only (11 keys: sep19,oct04,oct28,nov01,nov04,nov07,nov19,nov22,nov25,nov28,dec09_history): [LIT,digit] claim@160 -1.7641 ; best wrong -1.7764 (nov07) ; margin 0.012 per quad = 1.4 log10
+fully-specified wrong keys only (11 keys: sep19,oct04,oct28,nov01,nov04,nov07,nov19,nov22,nov25,nov28,dec09_history): [LIT,any] claim@160 -1.7641 ; best wrong -1.6596 (nov07) ; margin -0.104 per quad = -12.2 log10

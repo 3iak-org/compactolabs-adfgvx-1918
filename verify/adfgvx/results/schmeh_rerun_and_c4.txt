@@ -1,0 +1,10 @@
+Schmeh strings identical to creilly's for p156C3, p156C6, p179B1 (asserted)
+R1 part5 decrypt == claimed: True
+R1 part6 decrypt: M?N?T?ONSB?S?A?DDERNA?H?UTARTI?G?RIEMEL???X8XGXR???BXA
+R1 real solver runs on Schmeh strings identical to committed creilly runs: 3/3
+R2 (Schmeh string) TEL mask: claim -1.0642, nq 50, masked 23
+   equals committed creilly value: True
+C4 block 0 identical to comp-adfgvx: True
+C4 block 1 identical to comp-adfgvx: True
+C4 block 2 identical to comp-adfgvx: True
+C4 block 3 identical to comp-adfgvx: True

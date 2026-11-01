@@ -1,0 +1,546 @@
+{
+ "0": {
+  "verdict": "page-lost-mark",
+  "note": "page prints '-' with an asterisk above it (F*GFX); the truth symbol F is not on the page"
+ },
+ "1": {
+  "verdict": "ours",
+  "note": "no dash printed between VVFDF and VAVGD; page prints 140 symbols = header RICHI-140; the page omits one symbol that the truth has"
+ },
+ "2": {
+  "verdict": "ours",
+  "note": "VVGXG clear"
+ },
+ "3": {
+  "verdict": "ambiguous",
+  "note": "first letter is E typed over F (or reverse); truth F"
+ },
+ "4": {
+  "verdict": "ours",
+  "note": "S clearly printed (SVVXA); creilly has '-'"
+ },
+ "5": {
+  "verdict": "not-on-page",
+  "note": "no cipher group on p.220 corresponds; C) has only RICHI-170 (p220C.2)"
+ },
+ "6": {
+  "verdict": "ours",
+  "note": "one typed W in one cell (AVWX-); creilly reads it as VV; with W as one symbol the block has 220 = header"
+ },
+ "7": {
+  "verdict": "ours",
+  "note": "(F-DKV) printed: K, and no dash after it"
+ },
+ "8": {
+  "verdict": "ours",
+  "note": "XFGAG: F with broken top stroke; creilly '-'"
+ },
+ "9": {
+  "verdict": "ours",
+  "note": "parenthesised symbol notation: page F(X)DFA / FDX(X)-X(X)VGX / D(X)XDG; creilly adds lost marks around the parenthesised letters"
+ },
+ "10": {
+  "verdict": "ours",
+  "note": "parenthesised symbol notation: page F(X)DFA / FDX(X)-X(X)VGX / D(X)XDG; creilly adds lost marks around the parenthesised letters"
+ },
+ "11": {
+  "verdict": "ours",
+  "note": "parenthesised symbol notation: page F(X)DFA / FDX(X)-X(X)VGX / D(X)XDG; creilly adds lost marks around the parenthesised letters"
+ },
+ "12": {
+  "verdict": "ours",
+  "note": "page XGDXD AFXXX (AFXXX poorly printed); creilly has XGDAD X, losing three symbols"
+ },
+ "13": {
+  "verdict": "ours",
+  "note": "page XGDXD AFXXX (AFXXX poorly printed); creilly has XGDAD X, losing three symbols"
+ },
+ "14": {
+  "verdict": "ours",
+  "note": "U printed (XFFUX); creilly '-'"
+ },
+ "15": {
+  "verdict": "ours",
+  "note": "VAFVF printed before '(interference)'; creilly omits the group"
+ },
+ "16": {
+  "verdict": "ours",
+  "note": "a small dot, not a dash, before FXFDG"
+ },
+ "17": {
+  "verdict": "ours",
+  "note": "4-letter group FDFG printed; creilly pads a lost mark"
+ },
+ "18": {
+  "verdict": "ambiguous",
+  "note": "final group '----' followed by faint specks that may be a 5th dash"
+ },
+ "19": {
+  "verdict": "ours",
+  "note": "page: XXVGD ----- ----- ----- ----- --FVA ADDXX ADVEF, clear; creilly's row drops a dash and FVA and garbles ADDXX ADVEF"
+ },
+ "20": {
+  "verdict": "ours",
+  "note": "page: XXVGD ----- ----- ----- ----- --FVA ADDXX ADVEF, clear; creilly's row drops a dash and FVA and garbles ADDXX ADVEF"
+ },
+ "21": {
+  "verdict": "ours",
+  "note": "page: XXVGD ----- ----- ----- ----- --FVA ADDXX ADVEF, clear; creilly's row drops a dash and FVA and garbles ADDXX ADVEF"
+ },
+ "22": {
+  "verdict": "ours",
+  "note": "E printed in ADVEF and EVGGV (E-shaped glyph); creilly reads F and a lost mark"
+ },
+ "23": {
+  "verdict": "ours",
+  "note": "E printed in ADVEF and EVGGV (E-shaped glyph); creilly reads F and a lost mark"
+ },
+ "24": {
+  "verdict": "ours",
+  "note": "after AVDF- the page prints --AAA ----- ----- - ; creilly's row stops at AVDF- (trailing lost-group run omitted, with AAA)"
+ },
+ "25": {
+  "verdict": "ours",
+  "note": "after AVDF- the page prints --AAA ----- ----- - ; creilly's row stops at AVDF- (trailing lost-group run omitted, with AAA)"
+ },
+ "26": {
+  "verdict": "ours",
+  "note": "S printed (XDXDS)"
+ },
+ "27": {
+  "verdict": "equivalent",
+  "note": "5th symbol of XDVV? is an unreadable faint mark; creilly writes '-'; both mark an unknown symbol"
+ },
+ "28": {
+  "verdict": "ours",
+  "note": "parenthesised-symbol notation XGA(X)D and a final (X); creilly adds lost marks"
+ },
+ "29": {
+  "verdict": "ours",
+  "note": "parenthesised-symbol notation XGA(X)D and a final (X); creilly adds lost marks"
+ },
+ "30": {
+  "verdict": "ours",
+  "note": "DGGGG clear; creilly DFGGG"
+ },
+ "31": {
+  "verdict": "ours",
+  "note": "FDGGX printed after DADXX; creilly's row shifts to GGA-- here"
+ },
+ "32": {
+  "verdict": "ours",
+  "note": "last line 'AX' printed; with it the block has 202 = header 202; creilly omits it"
+ },
+ "33": {
+  "verdict": "ours",
+  "note": "a dot, not a dash, before DVDXA"
+ },
+ "34": {
+  "verdict": "ambiguous",
+  "note": "first letter of VXFVX is an ink blot (V-like); creilly G"
+ },
+ "35": {
+  "verdict": "ours",
+  "note": "page: VAD-- then six groups of five dashes; creilly has one dash group fewer; ours totals 252 = header"
+ },
+ "36": {
+  "verdict": "ours",
+  "note": "AFFDX XXXAG clear; creilly AFFDX AAXAG"
+ },
+ "37": {
+  "verdict": "ours",
+  "note": "final line 'AXDV' printed; with it 164 = header 164; creilly omits AD.. (ends at FXGAD)"
+ },
+ "38": {
+  "verdict": "ours",
+  "note": "same as 37: final line AXDV printed"
+ },
+ "39": {
+  "verdict": "ours",
+  "note": "page (RIZI-152): ...GAFG- XXDX- XFFGG / XXXX- ----- XFFGG AADAX AXVX- ----- DA-FA XADXA / ... / FG--A XDFFA ----- ----- ----- ----- -- ; creilly's row (95 symbols) skips XXXX- ----- and an XFFGG, and stops before FG--A, losing the lost-group runs; ours totals 152 = header"
+ },
+ "40": {
+  "verdict": "ours",
+  "note": "page (RIZI-152): ...GAFG- XXDX- XFFGG / XXXX- ----- XFFGG AADAX AXVX- ----- DA-FA XADXA / ... / FG--A XDFFA ----- ----- ----- ----- -- ; creilly's row (95 symbols) skips XXXX- ----- and an XFFGG, and stops before FG--A, losing the lost-group runs; ours totals 152 = header"
+ },
+ "41": {
+  "verdict": "ours",
+  "note": "page (RIZI-152): ...GAFG- XXDX- XFFGG / XXXX- ----- XFFGG AADAX AXVX- ----- DA-FA XADXA / ... / FG--A XDFFA ----- ----- ----- ----- -- ; creilly's row (95 symbols) skips XXXX- ----- and an XFFGG, and stops before FG--A, losing the lost-group runs; ours totals 152 = header"
+ },
+ "42": {
+  "verdict": "ours",
+  "note": "page (RIZI-152): ...GAFG- XXDX- XFFGG / XXXX- ----- XFFGG AADAX AXVX- ----- DA-FA XADXA / ... / FG--A XDFFA ----- ----- ----- ----- -- ; creilly's row (95 symbols) skips XXXX- ----- and an XFFGG, and stops before FG--A, losing the lost-group runs; ours totals 152 = header"
+ },
+ "43": {
+  "verdict": "ours",
+  "note": "page (RIZI-152): ...GAFG- XXDX- XFFGG / XXXX- ----- XFFGG AADAX AXVX- ----- DA-FA XADXA / ... / FG--A XDFFA ----- ----- ----- ----- -- ; creilly's row (95 symbols) skips XXXX- ----- and an XFFGG, and stops before FG--A, losing the lost-group runs; ours totals 152 = header"
+ },
+ "44": {
+  "verdict": "ours",
+  "note": "GAGEV: E clearly printed"
+ },
+ "45": {
+  "verdict": "ours",
+  "note": "block RICHI-92 has 92 symbols as read; creilly's row stops 12 symbols short"
+ },
+ "46": {
+  "verdict": "ours",
+  "note": "last line 'AXAFA FDFXA AD' printed; block = 92 = header; creilly omits it"
+ },
+ "47": {
+  "verdict": "ours",
+  "note": "last line 'AXAFA FDFXA AD' printed; block = 92 = header; creilly omits it"
+ },
+ "48": {
+  "verdict": "ours",
+  "note": "line 3 opens GFXFG (then XXXXD); creilly omits GFXFG"
+ },
+ "49": {
+  "verdict": "ours",
+  "note": "line 3 opens GFXFG (then XXXXD); creilly omits GFXFG"
+ },
+ "50": {
+  "verdict": "ours",
+  "note": "page: AVVGG (INTERFERENCE) AGAXF; creilly writes 10 lost marks for the interference gap and omits AGAXF. Our symbols carry no placeholder for the gap: its length is not printed"
+ },
+ "51": {
+  "verdict": "ours",
+  "note": "'( interference)DXXAF FVAAG': DXXAF printed; creilly omits it"
+ },
+ "52": {
+  "verdict": "ours",
+  "note": "GFAXF at line end, last F faint but present; creilly '-'"
+ },
+ "53": {
+  "verdict": "ours",
+  "note": "W printed (VXXWF)"
+ },
+ "54": {
+  "verdict": "ours",
+  "note": "C printed (GFFDC)"
+ },
+ "55": {
+  "verdict": "ours",
+  "note": "W printed (VXVXW, heavy, possibly W over V); creilly VV"
+ },
+ "56": {
+  "verdict": "ours",
+  "note": "WVXXV: W printed; creilly drops W and adds a lost mark"
+ },
+ "57": {
+  "verdict": "ours",
+  "note": "WVXXV: W printed; creilly drops W and adds a lost mark"
+ },
+ "58": {
+  "verdict": "ours",
+  "note": "O printed (OXGDA, AOGFX)"
+ },
+ "59": {
+  "verdict": "ours",
+  "note": "O printed (OXGDA, AOGFX)"
+ },
+ "60": {
+  "verdict": "ours",
+  "note": "a hand-drawn vertical bar before VAADA, not a typed dash; creilly '-'"
+ },
+ "61": {
+  "verdict": "ours",
+  "note": "last line FVAAA printed before the trailer 'B M K - UKS RAT v NKJ UM'; creilly omits it"
+ },
+ "62": {
+  "verdict": "ours",
+  "note": "B printed (BVAGD)"
+ },
+ "63": {
+  "verdict": "ours",
+  "note": "line opens with a dash run in the label column, then ----- FDVXF AVXXF; creilly's row starts at AXAFA, omitting the first 15 symbols"
+ },
+ "64": {
+  "verdict": "ours",
+  "note": "block ends '...FAXFG AD' followed by the trailer 'NF HVC U'; creilly appends 5 symbols not printed as cipher"
+ },
+ "65": {
+  "verdict": "ours",
+  "note": "FXVGV XXFAX AVXVV: X clear in all three; creilly reads A"
+ },
+ "66": {
+  "verdict": "ours",
+  "note": "FXVGV XXFAX AVXVV: X clear in all three; creilly reads A"
+ },
+ "67": {
+  "verdict": "ours",
+  "note": "FXVGV XXFAX AVXVV: X clear in all three; creilly reads A"
+ },
+ "68": {
+  "verdict": "ours",
+  "note": "lines 2-3 of 4 TL are typed half a line apart and overlap, but each is legible: AXGVA FGDDV FXAXA FVFFG VXDXF FDGVV XFXXD AVFXX / XGVGX XXDFA XAFXA AGFAF XXDXX AXA-A XAVDV XGDXV; both readers agree; creilly's row merges the two lines into one garbled line"
+ },
+ "69": {
+  "verdict": "ours",
+  "note": "lines 2-3 of 4 TL are typed half a line apart and overlap, but each is legible: AXGVA FGDDV FXAXA FVFFG VXDXF FDGVV XFXXD AVFXX / XGVGX XXDFA XAFXA AGFAF XXDXX AXA-A XAVDV XGDXV; both readers agree; creilly's row merges the two lines into one garbled line"
+ },
+ "70": {
+  "verdict": "ours",
+  "note": "lines 2-3 of 4 TL are typed half a line apart and overlap, but each is legible: AXGVA FGDDV FXAXA FVFFG VXDXF FDGVV XFXXD AVFXX / XGVGX XXDFA XAFXA AGFAF XXDXX AXA-A XAVDV XGDXV; both readers agree; creilly's row merges the two lines into one garbled line"
+ },
+ "71": {
+  "verdict": "ours",
+  "note": "lines 2-3 of 4 TL are typed half a line apart and overlap, but each is legible: AXGVA FGDDV FXAXA FVFFG VXDXF FDGVV XFXXD AVFXX / XGVGX XXDFA XAFXA AGFAF XXDXX AXA-A XAVDV XGDXV; both readers agree; creilly's row merges the two lines into one garbled line"
+ },
+ "72": {
+  "verdict": "ours",
+  "note": "lines 2-3 of 4 TL are typed half a line apart and overlap, but each is legible: AXGVA FGDDV FXAXA FVFFG VXDXF FDGVV XFXXD AVFXX / XGVGX XXDFA XAFXA AGFAF XXDXX AXA-A XAVDV XGDXV; both readers agree; creilly's row merges the two lines into one garbled line"
+ },
+ "73": {
+  "verdict": "ambiguous",
+  "note": "6-letter group VDFDVD, last letter an overstrike (D over F, or reverse); creilly F"
+ },
+ "74": {
+  "verdict": "ours",
+  "note": "4-letter group XXXA printed, then -----; creilly pads XXXA with a lost mark"
+ },
+ "75": {
+  "verdict": "ours",
+  "note": "R printed (VXRDD)"
+ },
+ "76": {
+  "verdict": "ours",
+  "note": "after VX--- the page prints two more full lines and a part line of dash groups (8+8+7 groups); ours totals 234 = header; creilly's row stops at VX---"
+ },
+ "77": {
+  "verdict": "ours",
+  "note": "after VX--- the page prints two more full lines and a part line of dash groups (8+8+7 groups); ours totals 234 = header; creilly's row stops at VX---"
+ },
+ "78": {
+  "verdict": "ours",
+  "note": "after VX--- the page prints two more full lines and a part line of dash groups (8+8+7 groups); ours totals 234 = header; creilly's row stops at VX---"
+ },
+ "79": {
+  "verdict": "ours",
+  "note": "page: FVDV- ---VV -FG- GX-- ----- ----- ----- ----- then a full line of dash groups; creilly omits most of it"
+ },
+ "80": {
+  "verdict": "ours",
+  "note": "page: FVDV- ---VV -FG- GX-- ----- ----- ----- ----- then a full line of dash groups; creilly omits most of it"
+ },
+ "81": {
+  "verdict": "ours",
+  "note": "VGVXX: final X clear; creilly VGVXV"
+ },
+ "82": {
+  "verdict": "ours",
+  "note": "page: VFXXD VVXGX VGXXG GVXXV VGXV- -VVDD ----- ----- ...; creilly's row loses VVXGX VGXXG GVXXV and the trailing dash groups"
+ },
+ "83": {
+  "verdict": "ours",
+  "note": "page: VFXXD VVXGX VGXXG GVXXV VGXV- -VVDD ----- ----- ...; creilly's row loses VVXGX VGXXG GVXXV and the trailing dash groups"
+ },
+ "84": {
+  "verdict": "ours",
+  "note": "dash groups continue on the next line (----- ----- ----- --); creilly omits"
+ },
+ "85": {
+  "verdict": "ours",
+  "note": "VVXFD: X clear; creilly A"
+ },
+ "86": {
+  "verdict": "ours",
+  "note": "VV--- then 4 dash groups, and a further line of 5 dash groups and one dash; ours totals 186 = header; creilly truncates"
+ },
+ "87": {
+  "verdict": "ours",
+  "note": "VV--- then 4 dash groups, and a further line of 5 dash groups and one dash; ours totals 186 = header; creilly truncates"
+ },
+ "88": {
+  "verdict": "ours",
+  "note": "4-letter group VVGD printed; creilly pads a lost mark"
+ },
+ "89": {
+  "verdict": "ours",
+  "note": "GXVGG: first G handwritten over a typed letter, then XV; creilly reads two lost marks"
+ },
+ "90": {
+  "verdict": "ambiguous",
+  "note": "4th letter of GXVGG overtyped (G or A); creilly A"
+ },
+ "91": {
+  "verdict": "ours",
+  "note": "VXAGG clear; creilly AXAGG"
+ },
+ "92": {
+  "verdict": "ours",
+  "note": "DVVXG clear; creilly DVVFG"
+ },
+ "93": {
+  "verdict": "ours",
+  "note": "DXG-- printed (pencil marks over the dashes); creilly drops G--"
+ },
+ "94": {
+  "verdict": "ours",
+  "note": "FADVX: final X clear (dot above); creilly FADVV"
+ },
+ "95": {
+  "verdict": "ours",
+  "note": "line 1 of 3 TL opens GAVGX; creilly omits it"
+ },
+ "96": {
+  "verdict": "ours",
+  "note": "line 1 of 3 TL opens GAVGX; creilly omits it"
+ },
+ "97": {
+  "verdict": "ours",
+  "note": "three printed lines of dash groups after AF---; ours 160 = header; creilly truncates"
+ },
+ "98": {
+  "verdict": "ours",
+  "note": "three printed lines of dash groups after AF---; ours 160 = header; creilly truncates"
+ },
+ "99": {
+  "verdict": "ours",
+  "note": "three printed lines of dash groups after AF---; ours 160 = header; creilly truncates"
+ },
+ "100": {
+  "verdict": "ours",
+  "note": "T printed (XAVTA)"
+ },
+ "101": {
+  "verdict": "ours",
+  "note": "I printed (AXFFI)"
+ },
+ "102": {
+  "verdict": "ours",
+  "note": "line 1 'DDDDD --NTD DVDVD' printed before the trailer CZ UM; creilly omits it"
+ },
+ "103": {
+  "verdict": "ours",
+  "note": "DFVGA printed (faint right-hand column); creilly omits it"
+ },
+ "104": {
+  "verdict": "ours",
+  "note": "no dash printed between ...XAVGF and FGVDD (line break); creilly inserts '-'"
+ },
+ "105": {
+  "verdict": "ours",
+  "note": "line printed AFVVA FAFVV GGVDV ...; creilly omits AFVVA"
+ },
+ "106": {
+  "verdict": "ours",
+  "note": "line printed AFVVA FAFVV GGVDV ...; creilly omits AFVVA"
+ },
+ "107": {
+  "verdict": "ours",
+  "note": "final line 'DA' printed; creilly omits it"
+ },
+ "108": {
+  "verdict": "ours",
+  "note": "final line 'DA' printed; creilly omits it"
+ },
+ "109": {
+  "verdict": "ambiguous",
+  "note": "a colon/bar-like mark after FFDXX at the right edge; may be a lost mark or a stray; creilly '-'"
+ },
+ "110": {
+  "verdict": "ours",
+  "note": "U and R printed (DUGAG GRAAV ... UGXAX VUXUU); creilly writes lost marks for the non-ADFGVX letters"
+ },
+ "111": {
+  "verdict": "ours",
+  "note": "U and R printed (DUGAG GRAAV ... UGXAX VUXUU); creilly writes lost marks for the non-ADFGVX letters"
+ },
+ "112": {
+  "verdict": "ours",
+  "note": "U and R printed (DUGAG GRAAV ... UGXAX VUXUU); creilly writes lost marks for the non-ADFGVX letters"
+ },
+ "113": {
+  "verdict": "ours",
+  "note": "U and R printed (DUGAG GRAAV ... UGXAX VUXUU); creilly writes lost marks for the non-ADFGVX letters"
+ },
+ "114": {
+  "verdict": "ours",
+  "note": "U printed (XGVVU)"
+ },
+ "115": {
+  "verdict": "ours",
+  "note": "group printed --AA- (two dashes); creilly X-AA-"
+ },
+ "116": {
+  "verdict": "ours",
+  "note": "T, U and N printed (XADTAF AATAGV DAVUV XDUDN DXUAX); creilly writes lost marks or V/D"
+ },
+ "117": {
+  "verdict": "ours",
+  "note": "T, U and N printed (XADTAF AATAGV DAVUV XDUDN DXUAX); creilly writes lost marks or V/D"
+ },
+ "118": {
+  "verdict": "ours",
+  "note": "T, U and N printed (XADTAF AATAGV DAVUV XDUDN DXUAX); creilly writes lost marks or V/D"
+ },
+ "119": {
+  "verdict": "ours",
+  "note": "T, U and N printed (XADTAF AATAGV DAVUV XDUDN DXUAX); creilly writes lost marks or V/D"
+ },
+ "120": {
+  "verdict": "ours",
+  "note": "T, U and N printed (XADTAF AATAGV DAVUV XDUDN DXUAX); creilly writes lost marks or V/D"
+ },
+ "121": {
+  "verdict": "ours",
+  "note": "DVGVD printed at line end; creilly omits it"
+ },
+ "122": {
+  "verdict": "ours",
+  "note": "last line 'AXVDX X (Very irregular spark)' printed; creilly omits AXVDX X"
+ },
+ "123": {
+  "verdict": "ours",
+  "note": "last line 'AXVDX X (Very irregular spark)' printed; creilly omits AXVDX X"
+ },
+ "124": {
+  "verdict": "ours",
+  "note": "K printed (KXDAA)"
+ },
+ "125": {
+  "verdict": "ours",
+  "note": "line ends DXFGD XXDDV V; ours 116 = header RICHI-116; creilly omits XXDDV V"
+ },
+ "126": {
+  "verdict": "ours",
+  "note": "no dash at the line break before XVXVD; creilly inserts '-'"
+ },
+ "127": {
+  "verdict": "gap-placeholder",
+  "note": "page prints '(and several groups Missing)' between FXFDF and GAFGA; creilly writes 15 lost marks there, ours writes none: the gap's length is not printed"
+ },
+ "128": {
+  "verdict": "ambiguous",
+  "note": "XVAVG: 3rd glyph caret-like (A without bar / X); creilly X"
+ },
+ "129": {
+  "verdict": "ours",
+  "note": "--X-D group preceded by ----- (dotted dashes); creilly reads an A in the dash group"
+ },
+ "130": {
+  "verdict": "ambiguous",
+  "note": "FDDFX: 3rd letter D/F overstrike; creilly '-'"
+ },
+ "131": {
+  "verdict": "ours",
+  "note": "page: ...FF--- ----- / ----- ----- ----- ----- DFGFF VAAVX XGFFD FGFFV / XAVAA FVDXX FF--- ----- ----; ours 264 = header; creilly drops the dash groups and XAVAA FVDXX FF---"
+ },
+ "132": {
+  "verdict": "ours",
+  "note": "page: ...FF--- ----- / ----- ----- ----- ----- DFGFF VAAVX XGFFD FGFFV / XAVAA FVDXX FF--- ----- ----; ours 264 = header; creilly drops the dash groups and XAVAA FVDXX FF---"
+ },
+ "133": {
+  "verdict": "ours",
+  "note": "page: ...FF--- ----- / ----- ----- ----- ----- DFGFF VAAVX XGFFD FGFFV / XAVAA FVDXX FF--- ----- ----; ours 264 = header; creilly drops the dash groups and XAVAA FVDXX FF---"
+ },
+ "134": {
+  "verdict": "ours",
+  "note": "page: ...FF--- ----- / ----- ----- ----- ----- DFGFF VAAVX XGFFD FGFFV / XAVAA FVDXX FF--- ----- ----; ours 264 = header; creilly drops the dash groups and XAVAA FVDXX FF---"
+ },
+ "135": {
+  "verdict": "ours",
+  "note": "page: ...FF--- ----- / ----- ----- ----- ----- DFGFF VAAVX XGFFD FGFFV / XAVAA FVDXX FF--- ----- ----; ours 264 = header; creilly drops the dash groups and XAVAA FVDXX FF---"
+ }
+}

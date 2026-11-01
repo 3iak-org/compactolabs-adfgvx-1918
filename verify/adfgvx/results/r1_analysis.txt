@@ -1,0 +1,5 @@
+claim per-quad best over 16 runs: -0.9432 (total -71.68, nquads 76)  worst-run -0.9581
+randkey  n=736 mean -1.3364 sd 0.0477 max -1.1920 | claim exceeds all: True | z=8.2 | Gumbel-extrapolated P(null>=claim)=1.43e-05 [H]
+shuffle  n=486 mean -1.3540 sd 0.0435 max -1.1725 | claim exceeds all: True | z=9.4 | Gumbel-extrapolated P(null>=claim)=3.09e-06 [H]
+swap (two positions of the claimed key exchanged): n=153  best -0.9842  mean -1.1905  claim-minus-best-swap 0.0411
+  best swaps: [(-0.9842, [8, 9]), (-1.0092, [6, 7]), (-1.0111, [4, 5]), (-1.0413, [11, 15]), (-1.0459, [16, 17])]

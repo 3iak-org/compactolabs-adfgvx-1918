@@ -1,0 +1,8 @@
+part-5 only per-quad -0.8331
+part 5 as read from key alone: UNORDN0NGENKOPFTENLLTENNRAVABEZIEHENMUSSENSOWEITNOCHNICHTGESCHEHEN
+claimed                      : ANORDNUNGENVOM2TEN11TENNR858BEZIEHENLASSENSOWEITNOCHNICHTGESCHEHEN
+part 6, letters whose pair occurs in part 5 (34 of 54): p! _ N _ T _ O N S B _ S _ u! _ D D E R N u! _ H _ 0! T u! R T I _ g! _ R I E p! E m! _ . _ . a! . G . R _ _ _ B . u!
+agree with claimed part-6 reading: 24/34
+JOINT free-square reading of part 5: ANORDNUNGENKOPFTENMMTENNR0V0BEZIEHENLASSENSOWEITNOCHNICHTGESCHEHEN
+agreement with claimed part 5 (digits treated as one class): 60/66
+claimed square cells reproduced by the free square: 18/24

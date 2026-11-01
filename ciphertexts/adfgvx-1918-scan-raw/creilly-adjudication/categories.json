@@ -1,0 +1,12 @@
+{
+ "_doc": "Category of each adjudication item (index into items.json). Assigned by hand after the image check; the verdict and its note are in verdicts.json.",
+ "page_feature": [0, 1],
+ "not_on_page": [5],
+ "creilly_omits_printed": [12,13,15,19,20,21,24,25,31,32,35,37,38,39,40,41,42,43,45,46,47,48,49,51,61,63,68,69,70,71,72,76,77,78,79,80,82,83,84,86,87,93,95,96,97,98,99,102,103,105,106,107,108,121,122,123,125,131,132,133,134,135],
+ "creilly_adds_or_pads": [9,10,11,16,17,28,29,33,60,64,74,88,104,126],
+ "printed_non_adfgvx_letter": [4,6,7,14,22,23,26,44,53,54,55,56,57,58,59,62,75,100,101,110,111,112,113,114,116,117,118,119,120,124],
+ "creilly_misreads_clear_glyph": [2,8,30,36,52,65,66,67,81,85,89,91,92,94,115,129],
+ "ambiguous_glyph": [3,18,34,73,90,109,128,130],
+ "equivalent": [27],
+ "gap_placeholder": [50,127]
+}

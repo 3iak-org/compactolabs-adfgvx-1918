@@ -1,0 +1,247 @@
+{
+ "total": {
+  "symbols_ours": 6265,
+  "fixed_truth": 6146,
+  "equal": 6143,
+  "sub": 2,
+  "sub_lost_mark": 1,
+  "ours_extra": 0,
+  "ours_missing": 1
+ },
+ "entries": {
+  "p059B.2": {
+   "n_ours": 152,
+   "n_truth": 152,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p068A": {
+   "n_ours": 260,
+   "n_truth": 260,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p080B": {
+   "n_ours": 350,
+   "n_truth": 350,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p087B": {
+   "n_ours": 202,
+   "n_truth": 202,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p096A2": {
+   "n_ours": 252,
+   "n_truth": 252,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p104A2": {
+   "n_ours": 132,
+   "n_truth": 132,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p107C2": {
+   "n_ours": 140,
+   "n_truth": 140,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p112A3": {
+   "n_ours": 228,
+   "n_truth": 228,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p118A5": {
+   "n_ours": 194,
+   "n_truth": 194,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p125C": {
+   "n_ours": 114,
+   "n_truth": 114,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p132A8": {
+   "n_ours": 140,
+   "n_truth": 140,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p139B3": {
+   "n_ours": 269,
+   "n_truth": 269,
+   "wildcards": 1,
+   "edits": 0,
+   "diffs": []
+  },
+  "p147B": {
+   "n_ours": 192,
+   "n_truth": 192,
+   "wildcards": 6,
+   "edits": 0,
+   "diffs": []
+  },
+  "p153B5": {
+   "n_ours": 214,
+   "n_truth": 214,
+   "wildcards": 12,
+   "edits": 1,
+   "diffs": [
+    {
+     "op": "sub",
+     "ours": "-",
+     "truth": "F",
+     "our_pos": 86,
+     "truth_pos": 86
+    }
+   ]
+  },
+  "p159A": {
+   "n_ours": 84,
+   "n_truth": 84,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p163D1": {
+   "n_ours": 140,
+   "n_truth": 141,
+   "wildcards": 21,
+   "edits": 1,
+   "diffs": [
+    {
+     "op": "b_only",
+     "ours": "",
+     "truth": "D",
+     "our_pos": 23,
+     "truth_pos": 23
+    }
+   ]
+  },
+  "p168A1": {
+   "n_ours": 380,
+   "n_truth": 380,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p174A3.2": {
+   "n_ours": 152,
+   "n_truth": 152,
+   "wildcards": 4,
+   "edits": 0,
+   "diffs": []
+  },
+  "p178A": {
+   "n_ours": 104,
+   "n_truth": 104,
+   "wildcards": 2,
+   "edits": 0,
+   "diffs": []
+  },
+  "p182D": {
+   "n_ours": 190,
+   "n_truth": 190,
+   "wildcards": 8,
+   "edits": 0,
+   "diffs": []
+  },
+  "p188_.2": {
+   "n_ours": 96,
+   "n_truth": 96,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p195A.2": {
+   "n_ours": 350,
+   "n_truth": 350,
+   "wildcards": 6,
+   "edits": 1,
+   "diffs": [
+    {
+     "op": "sub",
+     "ours": "E",
+     "truth": "F",
+     "our_pos": 120,
+     "truth_pos": 120
+    }
+   ]
+  },
+  "p200D": {
+   "n_ours": 142,
+   "n_truth": 142,
+   "wildcards": 10,
+   "edits": 0,
+   "diffs": []
+  },
+  "p205A2": {
+   "n_ours": 142,
+   "n_truth": 142,
+   "wildcards": 8,
+   "edits": 0,
+   "diffs": []
+  },
+  "p209A": {
+   "n_ours": 368,
+   "n_truth": 368,
+   "wildcards": 18,
+   "edits": 0,
+   "diffs": []
+  },
+  "p212C1": {
+   "n_ours": 242,
+   "n_truth": 242,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p217B": {
+   "n_ours": 292,
+   "n_truth": 292,
+   "wildcards": 10,
+   "edits": 0,
+   "diffs": []
+  },
+  "p221A2": {
+   "n_ours": 284,
+   "n_truth": 284,
+   "wildcards": 2,
+   "edits": 0,
+   "diffs": []
+  },
+  "p225A": {
+   "n_ours": 214,
+   "n_truth": 214,
+   "wildcards": 0,
+   "edits": 0,
+   "diffs": []
+  },
+  "p231B1": {
+   "n_ours": 246,
+   "n_truth": 246,
+   "wildcards": 12,
+   "edits": 0,
+   "diffs": []
+  }
+ }
+}

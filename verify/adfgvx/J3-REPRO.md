@@ -1,0 +1,26 @@
+# J3 repro: nov07 decryptions (check-adfgvx, 2026-11-01)
+
+Key: width 22, transposition `1 22 17 9 14 3 8 15 19 21 11 5 6 7 2 10 16 12 13 18 4 20`, square `PHC68O5EDQ7MBF29JWK13NL4YUZSTRAX0GVI` (confirmed equal to the record). Code: `verify/adfgvx/adfgvx.py`; regenerate with `.venv/bin/python verify/adfgvx/J3-repro.py`. `-` = lost symbol, `?` = pair with a lost symbol.
+
+| member | symbols | letters | equals comp (comp's lost-pair marker read as ?) |
+|---|---|---|---|
+| p076A | 178 | 89 | YES |
+| p166A | 234 | 117 | YES |
+| p166A.2 | 121 | 60 | YES |
+| p167A | 240 | 120 | YES |
+| p167A5 | 177 | 88 | YES |
+| p173A | 106 | 53 | YES |
+
+## Plaintexts (mine)
+
+- p076A: `MBDEDS1AEMX?TDA9EWEUFB?FENRX11231WMXIDUN3XINARV0KBE61FENEEEBE5CHXQ7XIN5GZP0RORS3X4FUNM2RE`
+- p166A: `??RV??VE?????PO?TTO?????VR?EUM?????56?M7M?????DT?4ED?????9T?SNX?????Y7?S31?????RO?5HV?????G??RAE?????7??S6T?????A??NR`
+- p166A.2: `WTNUAENONYERTETEELLUNUSX4TEINZREROITQELXEYYRXSTNEIXURENATNAG`
+- p167A: `9?1?U?????7??S?N?????F4?L?A????I7??M?R???RTRV?4?Z???GETB?S?1???B6TN?T?R???ENRX?Y?????QVWG?J?E???S4SE?Y?N????AEE?Y?8????G`
+- p167A5: `?XAL?G40BR??SXL?ATW0R??1V??TEE?7??A0B?HES?L??09X?NED?S??3XL?N77?4??L?9?NVO?T??Z?8?TE0???`
+- p173A: `H8692BZSTDOCLPPXLPUNALNLNNV5P5VONRLATOROHNN8L8L3LNAKA`
+
+Note: this code marks a pair containing a lost symbol `?`; comp's record uses `-`. Compared with `-` read as `?`; no other difference.
+**All 6 identical: True.**
+
+German? (my judgement, not a measurement): no. Letter salad; the 6 texts hold only German-looking fragments (EN, ER, UN, EIN, NR) at about chance level, no word or phrase, and the digits/X pattern is not number-spelling. Consistent with comp's own "letter salad" label.

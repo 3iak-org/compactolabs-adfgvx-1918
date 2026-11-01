@@ -1,0 +1,2615 @@
+{
+ "prereg": "findings/adfgvx-1918-prereg.md @ lead-adfgvx 8a1bcf8 (Strand J + Revision 2: G1 60x nulls; G2 per-(group, square) J2 null and key-based J1(b) exclusion), clarifications C1-C2 and amendment C3 @ cd85680/91996a0, referee Part H conditions H1-H3 @ 91996a0",
+ "changes": {
+  "dropped": [
+   "p220C"
+  ],
+  "split": [
+   "p0924"
+  ],
+  "merged": [
+   "p083B2+p083B",
+   "p101B2+p101B",
+   "p142A2+p142A",
+   "p153B4+p153B"
+  ]
+ },
+ "rows": [
+  {
+   "unit": "p062A",
+   "ids": [
+    "p062A"
+   ],
+   "childs_page": 59,
+   "heading": "A) SSD, COS v ASO (07.50 a.m. September 22nd)",
+   "page_date": "1918-09-21",
+   "heading_dates": [
+    "1918-09-22"
+   ],
+   "net": "RICHI",
+   "n_slots": 225,
+   "n_letters": 217,
+   "n_lost": 8,
+   "candidates": [
+    "sep19"
+   ],
+   "derived_period": "sep19",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 220,
+   "header_short": null,
+   "text": "-XXXXXDXGGFADDDXGDXGGAVVGGXXXXAX--DDDGVVXXVXAGDFADVDXDVVVFFGXXGXXDXXXDXGVDDAAVGGGVVXGGG-AF-AD-DXXAVXXXXXA-XXXFAFGGAXGFFFDDDDDDFDFDXXFXXXXDGDXDFXDVFDAXDAFGVVXXGFVGGFFVFXAXVVVVFDD-DAFFAGFXXAADXGVFXAFFDGAFFDDAAGXXAAFVVVXXDGGXGFV"
+  },
+  {
+   "unit": "p071A1",
+   "ids": [
+    "p071A1"
+   ],
+   "childs_page": 68,
+   "heading": "A) COS, POT v NKJ (9.19 p.m., October 5th)",
+   "page_date": "1918-10-05",
+   "heading_dates": [
+    "1918-10-05"
+   ],
+   "net": "CHI",
+   "n_slots": 220,
+   "n_letters": 190,
+   "n_lost": 30,
+   "candidates": [
+    "oct04"
+   ],
+   "derived_period": "oct04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 220,
+   "header_short": null,
+   "text": "AGVXVAV-X-ADFD-DDDDDFFFFGDDDVFXF--GGVGAV-----XVGDFFFD-AGGVFD-----GFDFFDGAVFGFXDAFVFVDXGFFVVG-GFFDFX-FFVGAGDGVFFDDVFFGFGDXGADXGXADX-GFFAGGGXGAGGVFXG-GGDDGGG-AFGFXXGFDVVX-V-V---DVVGF-XVVDAGDFGDXVVGVGGGVVXD--DXVGA-GDGAAGFAG"
+  },
+  {
+   "unit": "p071A2",
+   "ids": [
+    "p071A2"
+   ],
+   "childs_page": 68,
+   "heading": "A) COS, POT v NKJ (9.19 p.m., October 5th)",
+   "page_date": "1918-10-05",
+   "heading_dates": [
+    "1918-10-05"
+   ],
+   "net": "CHI",
+   "n_slots": 186,
+   "n_letters": 145,
+   "n_lost": 41,
+   "candidates": [
+    "oct04"
+   ],
+   "derived_period": "oct04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 186,
+   "header_short": null,
+   "text": "GVGXVFFGAFVFXDDAFAF-A-V--XDD-DFD-DADX---VV-GDVFVF-DFFA-FGFDVFAFADADDVAFG---GGVDDDFVXFFFDD-FFFA----------------------DF-XGDGDDDDDGGGXX-DFFXGAGDGFGGXFFAXXDFDDDXGAFDXXXADGGGXDXXDAVDDG-XFGFF"
+  },
+  {
+   "unit": "p072A",
+   "ids": [
+    "p072A"
+   ],
+   "childs_page": 69,
+   "heading": "A) NKJ v --- (---- October 11th)",
+   "page_date": "1918-10-05",
+   "heading_dates": [
+    "1918-10-11"
+   ],
+   "net": "RICHI",
+   "n_slots": 220,
+   "n_letters": 216,
+   "n_lost": 4,
+   "candidates": [
+    "oct04"
+   ],
+   "derived_period": "oct04",
+   "basis": "page",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 220,
+   "header_short": null,
+   "text": "VDGVFGDVFFGAGGFAFVDDDFFGFDFAGFVVGVFFGGFVDADFFXFVVXXFGAGGDVVGFGDFVGFDAFFGVGFGXFVFFGDFAGVDADADDFDFFGFDDFDDFGFFGAGDGDGVXXDAF-DFAAGDGAXAXDXFADDAAGDADGAVDFGDDGXXFXAAFGGDDDFGXDDXFXFGADGFXDXXFXAAGXADFAXDAXDVFDX--X-VGXVVVVXGDDGD"
+  },
+  {
+   "unit": "p072B1",
+   "ids": [
+    "p072B1"
+   ],
+   "childs_page": 69,
+   "heading": "B) COS v NKJ (---- October 11th)",
+   "page_date": "1918-10-05",
+   "heading_dates": [
+    "1918-10-11"
+   ],
+   "net": "RICHI",
+   "n_slots": 329,
+   "n_letters": 327,
+   "n_lost": 2,
+   "candidates": [
+    "oct04"
+   ],
+   "derived_period": "oct04",
+   "basis": "page",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 330,
+   "header_short": null,
+   "text": "GVVDFFDDFVAFDGAFXADDVDVFFGVFDDGGVFVVFVVVFAFAFVDFDVVDGXDGFVDDVVGVGVDXFFDDFDAFGGGDXFVGVXFDDVVXGXVFFDFGFDVVDGFGVFGFGFFFFGAGDDVVADGVVFDGFGGDGFADGDGFFADGFFXDGDXDXAAVD-XDGDDFVAFADGGGADDDXFAXXFDDVXXAXGGXDGAXXXVGGADADAFXXADVDXDAAGVVDXFGFAGXDGGDVVDVXDFGDXGFXDAADFGXGFDADGDAFDXFADXGDXDAFXXXXFFGVXFF-XAGGAVXFXFXVXFXDXDDXXXXGDFFFAAXDVVFVAVFG"
+  },
+  {
+   "unit": "p073B",
+   "ids": [
+    "p073B"
+   ],
+   "childs_page": 70,
+   "heading": "B) COS, POT, ASO v NKJ (9.05 p.m., October 6th)",
+   "page_date": "1918-10-06",
+   "heading_dates": [
+    "1918-10-06"
+   ],
+   "net": "RICHI",
+   "n_slots": 206,
+   "n_letters": 199,
+   "n_lost": 7,
+   "candidates": [
+    "oct04"
+   ],
+   "derived_period": "oct04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 206,
+   "header_short": null,
+   "text": "FGV--ADVDVGFXXFXFAFDVXFXAFGAAADDGVFFVFVAGFVFFVVDFG--XXAAADXVAAXDVXDXXXDAXAXVFXADFVA-XGXDAXAAFGXXGXDDGXXFGDDGGXXDXVGGDDVVGAGADDXFVF--DAGXDAFDDXXGAXXXGFXGAFXDAAXXXADGVGVVVXDXXFDVGGDVXDAADAADAVXDVFGDAADFGGDFDV"
+  },
+  {
+   "unit": "p074A.2",
+   "ids": [
+    "p074A.2"
+   ],
+   "childs_page": 71,
+   "heading": "A) POT v OSM (01.17 a.m., October 8th)",
+   "page_date": "1918-10-06",
+   "heading_dates": [
+    "1918-10-08"
+   ],
+   "net": "RICHI",
+   "n_slots": 85,
+   "n_letters": 85,
+   "n_lost": 0,
+   "candidates": [
+    "oct04"
+   ],
+   "derived_period": "oct04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 192,
+   "header_short": 107,
+   "text": "DDAFGGVVVAXAGVDXVFVFVAFXFVGFADFGFGGFVDDGGAFDFVGDFVFVFFFDVVVDDGDVDFDGFFGFFGFDFAGXVAFVF"
+  },
+  {
+   "unit": "p076A",
+   "ids": [
+    "p076A"
+   ],
+   "childs_page": 73,
+   "heading": "A) POT v NKJ (2.33 a.m., November 8th)",
+   "page_date": "1918-10-26",
+   "heading_dates": [
+    "1918-11-08"
+   ],
+   "net": "RICHI",
+   "n_slots": 178,
+   "n_letters": 176,
+   "n_lost": 2,
+   "candidates": [
+    "nov07"
+   ],
+   "derived_period": "nov07",
+   "basis": "heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 178,
+   "header_short": null,
+   "text": "D--FXGDVDXDGGAAAGFFDDVDXFXFGGDDAVGDDDADGDGFGGDDVVDXDGDAFDDXGXXDGXAVDXXDDGADDFGFAGVDXVFDXFDDFDDDFXDFGXFXVFDDDXXDXGDAGXFDGDDVFXGAXDFVFDVDXVXDFXDDXFDFVDGFDGDADGDGXXFGXFAAAXXXDXAGVXD"
+  },
+  {
+   "unit": "p083B2+p083B",
+   "ids": [
+    "p083B2",
+    "p083B"
+   ],
+   "childs_page": 80,
+   "heading": "B) LP v NKJ (6.20 p.m., October 30th)",
+   "page_date": "1918-10-30",
+   "heading_dates": [
+    "1918-10-30"
+   ],
+   "net": "RICHI",
+   "n_slots": 248,
+   "n_letters": 248,
+   "n_lost": 0,
+   "candidates": [
+    "oct28"
+   ],
+   "derived_period": "oct28",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p085A2",
+   "twin_key": "oct28",
+   "twin_side": "train",
+   "twin_d": 0.0081,
+   "twin_cost": 2,
+   "header_count": 248,
+   "header_short": null,
+   "text": "FAAADXAVAGDDVDVXXFAVVDAVVXAAAVFAADAFXAAGVGDGXADVFADDVFVGAAFDXFDXVVAFFVVGDVFGVGAXXXAAVDADADADVGDAAVAXDVXAAVAXAFDXAAAFAGVADVDXFADFFGXXVDXXGXFFFGGFGFXFDGXDAXVFADFGAFAXAVAXDAADDAFXXGAXGFXXXGGFADAXAGVVAVAFVVXXAAAADAVADDAFXAXADGXXGAGAAXGAXDFXXFDXAFGXAGAX"
+  },
+  {
+   "unit": "p087C",
+   "ids": [
+    "p087C"
+   ],
+   "childs_page": 84,
+   "heading": "C) FUER COS    (4.30 a.m., November 1st)",
+   "page_date": "1918-10-30",
+   "heading_dates": [
+    "1918-11-01"
+   ],
+   "net": "RICHI",
+   "n_slots": 118,
+   "n_letters": 111,
+   "n_lost": 7,
+   "candidates": [
+    "oct28"
+   ],
+   "derived_period": "oct28",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 244,
+   "header_short": 126,
+   "text": "AFDAXAXGFDGXAVVAXDVGDAADVVXAGXGDVAAAXGGXAAAXAFXDDGDXXGXDFDVFFAXXXFXGGAAXGFGFDFGDADDAAVAFVXGXADAAAAXDVXAFXAXXGFA-------"
+  },
+  {
+   "unit": "p0924#1",
+   "ids": [
+    "p0924"
+   ],
+   "childs_page": 89,
+   "heading": "A) OSM de LP    (01.18 p.m., November 1st)",
+   "page_date": "1918-11-01",
+   "heading_dates": [
+    "1918-11-01"
+   ],
+   "net": "RICHI",
+   "n_slots": 290,
+   "n_letters": 288,
+   "n_lost": 2,
+   "candidates": [
+    "nov01"
+   ],
+   "derived_period": "nov01",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 290,
+   "header_short": null,
+   "text": "FGXDVVGGDVGGFGFVDAGDXAGVXVFGXGXGAFVDVVXDDVVVFGAGXAADAGDFGGDGVXXGGXAXAVDGDFVAGGFGDFDFDGAFXGVGAFVGVDVDGDVGGFVXGDFVXVXAFVGVDVGVAVDXDXDVXDFDAGDAGVGFXVFFXAXDGAVAFFDDVDFAGAFVVAADGFGV--GGGXFVGXXVXDAVGDGDFXGVADVVGDGGGXGDVAVGGDVGDXAFGXAGDGVFAVVAVGVXVGAFDXFGDDXDXAVVGDAGGDVVGXAFVVFVXGVVXDFGFDGDGGFVGV"
+  },
+  {
+   "unit": "p0924#2",
+   "ids": [
+    "p0924"
+   ],
+   "childs_page": 89,
+   "heading": "A) OSM de LP    (01.18 p.m., November 1st)",
+   "page_date": "1918-11-01",
+   "heading_dates": [
+    "1918-11-01"
+   ],
+   "net": "RICHI",
+   "n_slots": 358,
+   "n_letters": 257,
+   "n_lost": 101,
+   "candidates": [
+    "nov01"
+   ],
+   "derived_period": "nov01",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 358,
+   "header_short": null,
+   "text": "GXGFFAVGGVGVFAGGADFDDDFFDDXDDDGVDAGVVGDGDXAVVVDGGFVVAGDGDGDFVGGGAADFGFAVXFFXXGFGGFGAVAAAAAGFVVDGFAGGDVXDGVGVVDFDGVFVXFVXAFXAVVGGGDXGXDXDAGXVGAFGXAXDGDAGXFGVVGGFAFAFGGAADGADVGAGDVAVGDAFXAADGFVDDDXXGXVF----------------------------------------------------------------------------------------------------FFVFGDGVFVAFGDDFVXXDAXVAVDVGFGGVGADAFVVVAG-AAAGGFVGDDVXDFA"
+  },
+  {
+   "unit": "p101B2+p101B",
+   "ids": [
+    "p101B2",
+    "p101B"
+   ],
+   "childs_page": 98,
+   "heading": "B) OSM v LP    (9.37 a.m., November 2nd)",
+   "page_date": "1918-11-01",
+   "heading_dates": [
+    "1918-11-02"
+   ],
+   "net": "RICHI",
+   "n_slots": 266,
+   "n_letters": 266,
+   "n_lost": 0,
+   "candidates": [
+    "nov01"
+   ],
+   "derived_period": "nov01",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p101A2",
+   "twin_key": "nov01",
+   "twin_side": "plant",
+   "twin_d": 0.406,
+   "twin_cost": 108,
+   "header_count": 266,
+   "header_short": null,
+   "text": "DVVDFDVDVGDVVGFFVGGGAXDADDGGGFXVVDDAADDGDVVGVDAFGGFGFDFAVVDGDGVDFVVDAXGAXAXVGDDDADGFVGVFDGDFGXDFDXGVFAGDDVGAAAVFGDGGGVGAXGVFXDFFDDDXGFAGXVXFVAVGXVXGGXAXDXDGDAVGXDFXXDAGVGDGAVAADGDGDDFDFAGGFVXDXDVDGGGVGAFGXGFVFDAVGDVVFVFFGDXDXAAVAGAGVXAADDGGFDVAGXAFDXAXDDAVAVVGAAVGDG"
+  },
+  {
+   "unit": "p102A",
+   "ids": [
+    "p102A"
+   ],
+   "childs_page": 99,
+   "heading": "A) UKS v Z\u00d6N    (0.48 a.m., November 2nd)",
+   "page_date": "1918-11-01",
+   "heading_dates": [
+    "1918-11-02"
+   ],
+   "net": "RIZI",
+   "n_slots": 133,
+   "n_letters": 109,
+   "n_lost": 24,
+   "candidates": [
+    "nov01"
+   ],
+   "derived_period": "nov01",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 133,
+   "header_short": null,
+   "text": "XXVGD----------------------FVAADDXXADV-F-VGGVDGVGAXAAVAAGGAAAVDFGFGDGVFDVDFGGAVDGAGDGVGVGGXVGAFGFGGADAVDGVGDGDVVGFFDXDGXADVDGFGFFVGAD"
+  },
+  {
+   "unit": "p102C",
+   "ids": [
+    "p102C"
+   ],
+   "childs_page": 99,
+   "heading": "C) UKS v Z\u00d6N    (11.35 p.m., November 1st)",
+   "page_date": "1918-11-01",
+   "heading_dates": [
+    "1918-11-01"
+   ],
+   "net": "RICHI",
+   "n_slots": 136,
+   "n_letters": 122,
+   "n_lost": 14,
+   "candidates": [
+    "nov01"
+   ],
+   "derived_period": "nov01",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 136,
+   "header_short": null,
+   "text": "XVXDDGXVGDGAGDAADXVVAXDDAVFGVVGXDDVFDXDGAAXFVGAXXDAFFAAGGDXFGDGFGGAGGVAFDVAGGXAFGAVGVDAXXXDADXDXXGDXXVVDFVGGAXVFAFDAVDF---AAA-----------"
+  },
+  {
+   "unit": "p104D2",
+   "ids": [
+    "p104D2"
+   ],
+   "childs_page": 101,
+   "heading": "D) UKS v Z\u00d6N    (2.15 a.m., November 2nd)",
+   "page_date": "1918-11-01",
+   "heading_dates": [
+    "1918-11-02"
+   ],
+   "net": "RIZI",
+   "n_slots": 137,
+   "n_letters": 135,
+   "n_lost": 2,
+   "candidates": [
+    "nov01"
+   ],
+   "derived_period": "nov01",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p104A2",
+   "twin_key": "nov01",
+   "twin_side": "train",
+   "twin_d": 0.0682,
+   "twin_cost": 9,
+   "header_count": 137,
+   "header_short": null,
+   "text": "VGFVFXFVAFXDDAFXDXD-DVGGXDVVDAVGXDXGDDDGDXFGDGVGDVAXXXVGFFXAGFAVGVXXAFFGDFXGAAXADDGVAVVGDGAGVFXDGXAXDXGVAGGDFAVGGVAXDVV-VXFAGFDVVFVGAXAFF"
+  },
+  {
+   "unit": "p110D",
+   "ids": [
+    "p110D"
+   ],
+   "childs_page": 107,
+   "heading": "D) LP v UKS    (8.00 p.m., November 1st)",
+   "page_date": "1918-11-02",
+   "heading_dates": [
+    "1918-11-01"
+   ],
+   "net": "RICHI",
+   "n_slots": 176,
+   "n_letters": 174,
+   "n_lost": 2,
+   "candidates": [
+    "nov01"
+   ],
+   "derived_period": "nov01",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 176,
+   "header_short": null,
+   "text": "XXGVFXFFFDAGGVGAGXAAXGXGXXAGVGFFXXFGVGGXXGA-DXAXXGGFGFXFAAFXXXFAVXGXFFDGGAGAXAXXXXDXXFXGGXXVFADDFDFVGXFFVAFAGVDDFVGVFDXXFXAXFXGGFFDAFFDDDVXGAXFFVFVGAAFVGGGVGXDXVAXAFFXVGAFFAVF-"
+  },
+  {
+   "unit": "p112D",
+   "ids": [
+    "p112D"
+   ],
+   "childs_page": 109,
+   "heading": "D) UKS v ZON    (0.35 a.m., November 3rd)",
+   "page_date": "1918-11-03",
+   "heading_dates": [
+    "1918-11-03"
+   ],
+   "net": "RIZI",
+   "n_slots": 258,
+   "n_letters": 258,
+   "n_lost": 0,
+   "candidates": [
+    "nov01"
+   ],
+   "derived_period": "nov01",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p112B",
+   "twin_key": "nov01",
+   "twin_side": "plant",
+   "twin_d": 0.2097,
+   "twin_cost": 54,
+   "header_count": 258,
+   "header_short": null,
+   "text": "XGDFGGADFDGAXGFVFVGGVDDGVGADXFDGVGXAAGDFDADGFAGXAGGADDVFGDXDFGVVGXXAXADDVVVXXAXADDVVVXXFXVDVDDGVDAADDXDAAVFXAXGDVGGGDAVGFDVGDGVFGFVDVVXDFFDDVVXDXVDADXXVVXVVDFGFGVVVVAGXGGXGFDAFGADVVDAFGAGDADGDXXVGGXVAAADGVXGGDXGAGGDVGGXVFAFAXGDVGVFADGDFAXADGVFDDDAVGVFAGAGVGD"
+  },
+  {
+   "unit": "p114A",
+   "ids": [
+    "p114A"
+   ],
+   "childs_page": 111,
+   "heading": "A) NKJ v ---    (3.44 a.m., November 4th)",
+   "page_date": "1918-11-03",
+   "heading_dates": [
+    "1918-11-04"
+   ],
+   "net": "RICHI",
+   "n_slots": 202,
+   "n_letters": 187,
+   "n_lost": 15,
+   "candidates": [
+    "nov01",
+    "nov04"
+   ],
+   "derived_period": "ambiguous between nov01 and nov04",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p115A1",
+   "twin_key": "nov01",
+   "twin_side": "plant",
+   "twin_d": 0.0891,
+   "twin_cost": 18,
+   "header_count": 202,
+   "header_short": null,
+   "text": "VAGDGVAVVAVDAVAVXAVFXAVFAXGAFVXVVGDGAAVADDDGGGGVGVAAXXVGAXAAAAAVVGXGVADAAFGGVVDVDGGGGXGGXV---------------DXADFDADXXFDGGXXVVDDAXVFDADFAGDAXAGVXDDDDFVGXGFDDVGXXGVFAGDAAAFVADDAVDVDVDGDAGGDGAGGXXVGXXADGGVAX"
+  },
+  {
+   "unit": "p1154",
+   "ids": [
+    "p1154"
+   ],
+   "childs_page": 112,
+   "heading": "C) OUI v OSM    (5.59 p.m., November 4th)",
+   "page_date": "1918-11-03",
+   "heading_dates": [
+    "1918-11-04"
+   ],
+   "net": "RICHI",
+   "n_slots": 110,
+   "n_letters": 110,
+   "n_lost": 0,
+   "candidates": [
+    "nov01",
+    "nov04"
+   ],
+   "derived_period": "ambiguous between nov01 and nov04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 122,
+   "header_short": 12,
+   "text": "FVAXXDVAXFXGVVVAAFVAGFFVXFDVVVXVXADAFGVDFVXXXGDXXGGXXXFADVVVXDGFFGVDFFADXAVAXAXAFXFXVXGFAAAXDFGXAAXAFGXAXGVAXX"
+  },
+  {
+   "unit": "p119A1",
+   "ids": [
+    "p119A1"
+   ],
+   "childs_page": 116,
+   "heading": "A) LP v NKJ    (7.06 p.m., November 4th)",
+   "page_date": "1918-11-03",
+   "heading_dates": [
+    "1918-11-04"
+   ],
+   "net": "RICHI",
+   "n_slots": 160,
+   "n_letters": 144,
+   "n_lost": 16,
+   "candidates": [
+    "nov01",
+    "nov04"
+   ],
+   "derived_period": "ambiguous between nov01 and nov04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 222,
+   "header_short": 62,
+   "text": "GVVFG-GFGDXDVGVGDGDGGVXFXVAXFADGXDFVFGAAFFGGGDADAAGVFAGF-FFXGAGAGDVDXA--VDAG----VDGDAGVVXDV-FVAGAGDDGGGVFAVDXAXG-AVGDGGADGVGVXXDDDVVDAVD-DDGDDFDGGXDXXXGVFD-----"
+  },
+  {
+   "unit": "p123C",
+   "ids": [
+    "p123C"
+   ],
+   "childs_page": 120,
+   "heading": "C) UKS v Z\u00d6N    (2.10 a.m., November 5th)",
+   "page_date": "1918-11-04",
+   "heading_dates": [
+    "1918-11-05"
+   ],
+   "net": "RIZI",
+   "n_slots": 56,
+   "n_letters": 56,
+   "n_lost": 0,
+   "candidates": [
+    "nov04"
+   ],
+   "derived_period": "nov04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 56,
+   "header_short": null,
+   "text": "DAGDXVGFGFVGXGDDVVFGVVADDVAGVGDFFFDDFVVFFVADVVFVFXGXVFXA"
+  },
+  {
+   "unit": "p125B",
+   "ids": [
+    "p125B"
+   ],
+   "childs_page": 122,
+   "heading": "B) NKJ v LP    (08.40 p.m., November 4th)",
+   "page_date": "1918-11-04",
+   "heading_dates": [
+    "1918-11-04"
+   ],
+   "net": "RICHI",
+   "n_slots": 252,
+   "n_letters": 219,
+   "n_lost": 33,
+   "candidates": [
+    "nov04"
+   ],
+   "derived_period": "nov04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 252,
+   "header_short": null,
+   "text": "XVVDXAXAAGVFFDGDADGVAVXFFVFFFVDDFXGDFXAAVXFVXXXAFFVGVGVDVAFAAGXVAFVVAGVDXAXFVXFGVXVAXAAFXFVXVGGVFVDVAGDVVAXXVAVXXFXXFGXAXDDVFXXVV-VXAAAFAXAFXXXDFDAAXGFFXGXVFAXGDGXXVVAD--------------------------------DGFDDAVXFAAVDAXFDXXFXXVVFDGVDXAFFDXXXXAGVAAXGXFXVFGX"
+  },
+  {
+   "unit": "p125D1",
+   "ids": [
+    "p125D1"
+   ],
+   "childs_page": 122,
+   "heading": "D) OSM v OUI    (08.33 p.m., November 4th)",
+   "page_date": "1918-11-04",
+   "heading_dates": [
+    "1918-11-04"
+   ],
+   "net": "RICHI",
+   "n_slots": 164,
+   "n_letters": 164,
+   "n_lost": 0,
+   "candidates": [
+    "nov04"
+   ],
+   "derived_period": "nov04",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p123B1",
+   "twin_key": "nov04",
+   "twin_side": "plant",
+   "twin_d": 0.0,
+   "twin_cost": 0,
+   "header_count": 164,
+   "header_short": null,
+   "text": "FXFXGXAAVAXXVFVVGAXAAVAFVVVFFXFGFAFDVXVGDGAXXAVFFAXXAXVAFXXXAAXXVVVGXXVGAFXXAXFDAFAVXXXVAXAVAFVAAAVVDAAXFXAFDXDFAGXXXXVAGGXGFXDXDFVAVGFGXXDAFFXDDVXADAAFXGVFXGADAXDV"
+  },
+  {
+   "unit": "p130B2",
+   "ids": [
+    "p130B2"
+   ],
+   "childs_page": 127,
+   "heading": "B) LP v NKJ    (9.45 p.m., November 5th)",
+   "page_date": "1918-11-04",
+   "heading_dates": [
+    "1918-11-05"
+   ],
+   "net": "RIZI",
+   "n_slots": 152,
+   "n_letters": 104,
+   "n_lost": 48,
+   "candidates": [
+    "nov04"
+   ],
+   "derived_period": "nov04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 152,
+   "header_short": null,
+   "text": "AXAADVVFGGDF---AVGXFVAXVFGAFG-XXDX-XFFGGXXXX------XFFGGAADAXAXVX------DA-FAXADXAAVGXX-----FXFDXGXVAGGVDDDVGFVAX-XFVGAVXVFG--AXDFFA----------------------"
+  },
+  {
+   "unit": "p139A2",
+   "ids": [
+    "p139A2"
+   ],
+   "childs_page": 136,
+   "heading": "A) COS v NKJ    (9.44 a.m., November 7th)",
+   "page_date": "1918-11-05",
+   "heading_dates": [
+    "1918-11-07"
+   ],
+   "net": "RICHI",
+   "n_slots": 92,
+   "n_letters": 91,
+   "n_lost": 1,
+   "candidates": [
+    "nov04"
+   ],
+   "derived_period": "nov04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 92,
+   "header_short": null,
+   "text": "XVDFDDAFFDVGXVXXFFFFVXXAFFVAADAFVFAFDFAAGAG-VAVAFFAXDGXFXVDFDAVAVVXGFGAVXVAGAXFXAXAFAFDFXAAD"
+  },
+  {
+   "unit": "p140A5",
+   "ids": [
+    "p140A5"
+   ],
+   "childs_page": 137,
+   "heading": "A) LP v NKJ  ( 08.14  November 5th)",
+   "page_date": "1918-11-06",
+   "heading_dates": [
+    "1918-11-05"
+   ],
+   "net": "RICHI",
+   "n_slots": 215,
+   "n_letters": 211,
+   "n_lost": 4,
+   "candidates": [
+    "nov04"
+   ],
+   "derived_period": "nov04",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p123B1",
+   "twin_key": "nov04",
+   "twin_side": "plant",
+   "twin_d": 0.5163,
+   "twin_cost": 111,
+   "header_count": 252,
+   "header_short": 37,
+   "text": "DDGXXVAVFFVVGAFXGVAVVVADXFAVXXAXXVADFAFXAXGVAFVXXVXFXAXXVAXXFGVGXAVGVAXFFDAFGFXAVAAAXGFGFVGXVVAFFXVXAFVAXGFXFGXXXXDGFAFXDAADDGVAAGFAVXFXGXFXAAGXAVGFFGXXXAAXFGFXVFXAFAFXFXXAFFVXVAGXAVGVAAVVGGAGAXFAXAGXDGGVFAXAVVV----"
+  },
+  {
+   "unit": "p140A6",
+   "ids": [
+    "p140A6"
+   ],
+   "childs_page": 137,
+   "heading": "A) LP v NKJ  ( 08.14  November 5th)",
+   "page_date": "1918-11-06",
+   "heading_dates": [
+    "1918-11-05"
+   ],
+   "net": "RICHI",
+   "n_slots": 74,
+   "n_letters": 71,
+   "n_lost": 3,
+   "candidates": [
+    "nov04"
+   ],
+   "derived_period": "nov04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": null,
+   "header_short": null,
+   "text": "DXXAFFVAAGFAVDAVVFAXVAXVV---FVAAXGXVGGAVGXDGFXFAFGDAAGXFXVFAGXXAFFVXGAXGVX"
+  },
+  {
+   "unit": "p140B",
+   "ids": [
+    "p140B"
+   ],
+   "childs_page": 137,
+   "heading": "B) OSM v OUI  (14.58  November 5th)",
+   "page_date": "1918-11-06",
+   "heading_dates": [
+    "1918-11-05"
+   ],
+   "net": "RIZI",
+   "n_slots": 135,
+   "n_letters": 133,
+   "n_lost": 2,
+   "candidates": [
+    "nov04"
+   ],
+   "derived_period": "nov04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 138,
+   "header_short": null,
+   "text": "FVGDGXVAVXAAFAGAXGXAADXAVAGAXAAGAGFXAGDXGFFXFXXXVVXXXVXDFXAGAVAFDAVAVGAAFXFXXXXAFDAXDXXVAVVAVGXAGGAXGFAXFFFAFXXXAFFAADAAXVFDXXXFGAVDF--"
+  },
+  {
+   "unit": "p141B.2",
+   "ids": [
+    "p141B.2"
+   ],
+   "childs_page": 138,
+   "heading": "C) UKS RAT vNKJ    ( 10.32 p. m. November 6th, 1918.)",
+   "page_date": "1918-11-06",
+   "heading_dates": [
+    "1918-11-06"
+   ],
+   "net": "RICHI",
+   "n_slots": 285,
+   "n_letters": 279,
+   "n_lost": 6,
+   "candidates": [
+    "nov04"
+   ],
+   "derived_period": "nov04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 286,
+   "header_short": null,
+   "text": "FXGFGVDFAFXFFAAVXX-FXXGXXDGVFAXXXFAXVADFGFFD-FXXAXVVXFVDFFXAFAXXADFAVDXXXVVAFDXVVXVX-AFDFFDDVADDDAVFVXGVVVXFGX-VXXVAXXFXGVVDADFXVAVFFGA-XGDAAAVAVA-GFXAAGAAGAFAXXXVFXVXVDAVGFXDDFGAVFAAGXAVVAFVDXAFAFFFFFAADAVAXFXAFXGVXAXVAFADFFVAADAAXAAFGFXFFAGDFVAFGVDAGXFXXDVXFAFGDDVXXXVVVGVXAAVDXFVAAA"
+  },
+  {
+   "unit": "p142A2+p142A",
+   "ids": [
+    "p142A2",
+    "p142A"
+   ],
+   "childs_page": 139,
+   "heading": "A) NKJ v LP    (5.57 a.m., November 6th)",
+   "page_date": "1918-11-06",
+   "heading_dates": [
+    "1918-11-06"
+   ],
+   "net": "RICHI",
+   "n_slots": 220,
+   "n_letters": 219,
+   "n_lost": 1,
+   "candidates": [
+    "nov04"
+   ],
+   "derived_period": "nov04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 220,
+   "header_short": null,
+   "text": "-VAGDFGGDXDGXAXFDGDVDFDDVFDDAFAXGFGDDFFAXXGGFDFGVDFAGFADVDDGDAFXVVGGGDGXAVGGXFAFAFGGDDDDDDVGXFDDFDGGADADAFADFXVXFDGADDDXDVDDGGGFVDFVFXXVGDGDXAAAVAADFGGGGDFAFAGDGDFADGAAFGDGDADDDDAGXAGVAFXADGDAXXXDDDGVDDDGFVVADAAAGDDGVDFD"
+  },
+  {
+   "unit": "p148A",
+   "ids": [
+    "p148A"
+   ],
+   "childs_page": 145,
+   "heading": "A) --- v HVC    (02.28 a.m., November 7th)",
+   "page_date": "1918-11-06",
+   "heading_dates": [
+    "1918-11-07"
+   ],
+   "net": "RICHI",
+   "n_slots": 192,
+   "n_letters": 187,
+   "n_lost": 5,
+   "candidates": [
+    "nov04"
+   ],
+   "derived_period": "nov04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": null,
+   "header_short": null,
+   "text": "-----FDVXFAVXXFAXAFAXVVGAXXFDDFVDVAXFAFFXFGVXFFVFGVAGVVGAXGDXAXGXAAVXAAXAXAXDGGDXAXFXAADXVAVXAXAFAXDXDFVXXVGAXXFXADDAVFVXADAGXGDGDDAXFAXAXFVXVAVGFVGFVFAADDVAAADFGAFXAXFFVGVFVDVDVAVAVXXXFAXFGAD"
+  },
+  {
+   "unit": "p153B4+p153B",
+   "ids": [
+    "p153B4",
+    "p153B"
+   ],
+   "childs_page": 150,
+   "heading": "B) LP v NKJ    (--- November 7th)",
+   "page_date": "1918-11-06",
+   "heading_dates": [
+    "1918-11-07"
+   ],
+   "net": "RICHI",
+   "n_slots": 202,
+   "n_letters": 193,
+   "n_lost": 9,
+   "candidates": [
+    "nov04"
+   ],
+   "derived_period": "nov04",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": null,
+   "header_short": null,
+   "text": "-----FXVGVXXFAXAVXVVXAXXAAAXFXAXXFFVAXAXGXXXV-FDDFGDAFFGXAFXGVFFDFXFGFAXFDXVXAAXAXGVAFGDDVFXAXAFVFFGVXDXFFDGVVXFXXDAVFXXXGVGXXXDFAXAFXAAGFAFXXDXXAXA-AXAVDVXGDXVFXFGVFVXFVGXFAFVAGVDXFFVAVXAA--GXXVGXADAGX"
+  },
+  {
+   "unit": "p155E",
+   "ids": [
+    "p155E"
+   ],
+   "childs_page": 152,
+   "heading": "E) NKJ v LP    (9.10 p.m., November 7th)",
+   "page_date": "1918-11-07",
+   "heading_dates": [
+    "1918-11-07"
+   ],
+   "net": "RICHI",
+   "n_slots": 104,
+   "n_letters": 102,
+   "n_lost": 2,
+   "candidates": [
+    "nov04",
+    "nov07"
+   ],
+   "derived_period": "ambiguous between nov04 and nov07",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p139B",
+   "twin_key": "nov04",
+   "twin_side": "train",
+   "twin_d": 0.1058,
+   "twin_cost": 11,
+   "header_count": null,
+   "header_short": null,
+   "text": "FXVADFDXAAXXFAGVFVDXAAGFDDFDV-VAAVAAXVGXGDAXAAGVAVADAFDDGVDDFVAVXFVXX-FXXXGFGXGFAFXXGXGFAAAVFFXXFDFVVVAX"
+  },
+  {
+   "unit": "p157A2",
+   "ids": [
+    "p157A2"
+   ],
+   "childs_page": 154,
+   "heading": "A) UKS v ZON    ( 11.55 p.m., November 7th)",
+   "page_date": "1918-11-07",
+   "heading_dates": [
+    "1918-11-07"
+   ],
+   "net": "RICHI",
+   "n_slots": 118,
+   "n_letters": 118,
+   "n_lost": 0,
+   "candidates": [
+    "nov04",
+    "nov07"
+   ],
+   "derived_period": "ambiguous between nov04 and nov07",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 162,
+   "header_short": 44,
+   "text": "FXFXFAADVXXDDAVDFGXXDAAXVVDFDVDXXFVADAFXAFGVFVAFXFVXXVDVXVAXVDVVVGXXFADDVDXFAFXXAFAGFVVFXFFGGVFAXGXVFGAFAAAFVGXADGVAVF"
+  },
+  {
+   "unit": "p160A",
+   "ids": [
+    "p160A"
+   ],
+   "childs_page": 157,
+   "heading": "A) LP v NKJ    (--- November 8th)",
+   "page_date": "1918-11-07",
+   "heading_dates": [
+    "1918-11-08"
+   ],
+   "net": "RICHI",
+   "n_slots": 83,
+   "n_letters": 78,
+   "n_lost": 5,
+   "candidates": [
+    "nov07"
+   ],
+   "derived_period": "nov07",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p154A1",
+   "twin_key": "nov07",
+   "twin_side": "plant",
+   "twin_d": 0.1566,
+   "twin_cost": 13,
+   "header_count": null,
+   "header_short": null,
+   "text": "XDDVGGXVDXXXVDFDVGXDGVGXDVVXXXXXGVXVDFVGDVGVVXDDVAVDXGGGXAXXDDFVGVXXAXXXA-----GDDDG"
+  },
+  {
+   "unit": "p161E",
+   "ids": [
+    "p161E"
+   ],
+   "childs_page": 158,
+   "heading": "E) UKS v ZON    (11.44 p.m., November 8th)",
+   "page_date": "1918-11-07",
+   "heading_dates": [
+    "1918-11-08"
+   ],
+   "net": "RICHI",
+   "n_slots": 235,
+   "n_letters": 235,
+   "n_lost": 0,
+   "candidates": [
+    "nov07"
+   ],
+   "derived_period": "nov07",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p173B",
+   "twin_key": "nov07",
+   "twin_side": "train",
+   "twin_d": 0.017,
+   "twin_cost": 4,
+   "header_count": 236,
+   "header_short": null,
+   "text": "DDDADAVFAFXDXVAXDDGVAXXDDGGDAXVFVFDAGAVGAVDVVGVGVVDXVVXGXVXXDXDXDDAXXFDXVDAXFFDVXVAAAXDGVGXXXADVGGGDXFVAGXVDVVFDFGVVXVXDXVFGDVDGVDGDVVDVDVGXDDVVDVGDFVGGGFDDVVGVDVGXDGVDDXXDXVDXVXDDXVDGVXVDVVGAGVXXVDVGGVXGVDGVGFXVVXGGXAAXVXXDAXDAAAAGVDG"
+  },
+  {
+   "unit": "p162B",
+   "ids": [
+    "p162B"
+   ],
+   "childs_page": 159,
+   "heading": "B) RVV v N4    (9.00 p.m., November 8th)",
+   "page_date": "1918-11-08",
+   "heading_dates": [
+    "1918-11-08"
+   ],
+   "net": "RICHI",
+   "n_slots": 280,
+   "n_letters": 277,
+   "n_lost": 3,
+   "candidates": [
+    "nov07"
+   ],
+   "derived_period": "nov07",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p171C",
+   "twin_key": "nov07",
+   "twin_side": "plant",
+   "twin_d": 0.075,
+   "twin_cost": 21,
+   "header_count": 280,
+   "header_short": null,
+   "text": "GDDFVVX-DDAVVFGXXVDDXVADDXVADDVVFGVVDDVVDVAXVXVGVVGVXDDXVVVGVVVGVDDGDXVAVGGAAAXGAVFADVDADDVAXVDVVDDDGADAXFAXXFXDVVDDXDGDDAXVAVDXVVXDVDVDXDGDXGVFVVGGVDFVVAVDFDADVDFXVXDAVXVXVDVDD--XDVDGDDDGDXDXXXDVVVVGVGVXVVVVFADDXVDXGXDXAVFDXVGVXVVVVVGVVXDVVXADXVXXDVGXAVVGDVAADGDVFVXFVXGFAXDDGDFA"
+  },
+  {
+   "unit": "p165A1",
+   "ids": [
+    "p165A1"
+   ],
+   "childs_page": 162,
+   "heading": "A) RVV v N4    (04.09 a.m., November 9th)",
+   "page_date": "1918-11-08",
+   "heading_dates": [
+    "1918-11-09"
+   ],
+   "net": "RICHI",
+   "n_slots": 264,
+   "n_letters": 264,
+   "n_lost": 0,
+   "candidates": [
+    "nov07"
+   ],
+   "derived_period": "nov07",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p156E1",
+   "twin_key": "nov07",
+   "twin_side": "train",
+   "twin_d": 0.027,
+   "twin_cost": 7,
+   "header_count": 268,
+   "header_short": null,
+   "text": "GXAXXXAVXAFXADGGDAXXGGXAVXDDDFDDDAGADVDGVXDVDDXXXVXVXDXGXVVXXVGXAXDDVVADXXVXVXGADAAAXAXXAFADAXVGADDDAVXXXVDDDAAADAGXDVGGDGDVVGGFDXGGVXGDDGGVDDDVDDGGXVGVXGGXVXGGXVDDFDDDDGGGAGVDDVVVDFVDGGFVVFVGVXDDXDXDDAXVGGGDVGGXGVVDVDGGDVVDVVVDGVVDVDGDXXAFVAADXGFGAVXDGXXDDGDDVFFX"
+  },
+  {
+   "unit": "p165C1",
+   "ids": [
+    "p165C1"
+   ],
+   "childs_page": 162,
+   "heading": "C) ==- v NKJ    (09.45 a.m., November 9th)",
+   "page_date": "1918-11-08",
+   "heading_dates": [
+    "1918-11-09"
+   ],
+   "net": "RICHI",
+   "n_slots": 117,
+   "n_letters": 117,
+   "n_lost": 0,
+   "candidates": [
+    "nov07"
+   ],
+   "derived_period": "nov07",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p169C1",
+   "twin_key": "nov07",
+   "twin_side": "plant",
+   "twin_d": 0.0256,
+   "twin_cost": 3,
+   "header_count": null,
+   "header_short": null,
+   "text": "GGDFXVVVDVVVDVDVDXDGVVXXGGDDVVXXVGDVVGXDXGVXDDDAXDGVGDFAGVDDVGXXVAVDGDGDGAXFDGGDDDVXXVDVGDFFVDFAXAXDXGFFVVXAVAAFAXDAG"
+  },
+  {
+   "unit": "p166A",
+   "ids": [
+    "p166A"
+   ],
+   "childs_page": 163,
+   "heading": "A) --- v UKS     (1.21 a.m., November 9th)",
+   "page_date": "1918-11-09",
+   "heading_dates": [
+    "1918-11-09"
+   ],
+   "net": "RICHI",
+   "n_slots": 234,
+   "n_letters": 153,
+   "n_lost": 81,
+   "candidates": [
+    "nov07"
+   ],
+   "derived_period": "nov07",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 234,
+   "header_short": null,
+   "text": "XDXGXXFVDFXDADDDXGXDVXAVAFGAXGVAAVXXXVVDGXFVDXXGGAXGGXVVDDGGAXAVVVDVDGFDAGXXAVAVVDADXDGADFXXFAX-VDXXXFDDVDV-VDDGVVDVVGVDVVGXVGFGD-VFG-XGVFVAXDDFVVXDXVXXGVVVX-----------------------------------------------------------------------------"
+  },
+  {
+   "unit": "p166A.2",
+   "ids": [
+    "p166A.2"
+   ],
+   "childs_page": 163,
+   "heading": "A) --- v UKS     (1.21 a.m., November 9th)",
+   "page_date": "1918-11-09",
+   "heading_dates": [
+    "1918-11-09"
+   ],
+   "net": "RICHI",
+   "n_slots": 121,
+   "n_letters": 121,
+   "n_lost": 0,
+   "candidates": [
+    "nov07"
+   ],
+   "derived_period": "nov07",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": null,
+   "header_short": null,
+   "text": "FVVAXXAGVDVGDXVVGDVVVGDDXVXGGGXXGVGDDVVVDGXVVDXGVXVFDDDDXGXVGDXAXVGDVDGDGVVGDVVGGAGVVVVVVXXVVAGDADXDDDDXDDXXGADDDDGXXGXDA"
+  },
+  {
+   "unit": "p167A",
+   "ids": [
+    "p167A"
+   ],
+   "childs_page": 164,
+   "heading": "A) --- v UKS     (4.41 a.m., November 9th)",
+   "page_date": "1918-11-09",
+   "heading_dates": [
+    "1918-11-09"
+   ],
+   "net": "RICHI",
+   "n_slots": 240,
+   "n_letters": 158,
+   "n_lost": 82,
+   "candidates": [
+    "nov07"
+   ],
+   "derived_period": "nov07",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 242,
+   "header_short": null,
+   "text": "F-G-XFGXXDDAFVDAX-GDXXDGVXXGVAVAADFDVVVVFVDV----VV-FG-GX-------------------------------------------------------------------XGADGG----XVDAGXGXXGVGDGVVVFVVGFVFAVDGXGXXDAVXFDDVVVGVVV-VDDVXFFFXVDGGVXAGVGXVVGVVDGAVDVXVVXXGDDGAXFDX-DGVGVXXVAGDGDD"
+  },
+  {
+   "unit": "p167A5",
+   "ids": [
+    "p167A5"
+   ],
+   "childs_page": 164,
+   "heading": "A) --- v UKS     (4.41 a.m., November 9th)",
+   "page_date": "1918-11-09",
+   "heading_dates": [
+    "1918-11-09"
+   ],
+   "net": "RICHI",
+   "n_slots": 177,
+   "n_letters": 136,
+   "n_lost": 41,
+   "candidates": [
+    "nov07"
+   ],
+   "derived_period": "nov07",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 177,
+   "header_short": null,
+   "text": "VFGAGDDFFXFDVDDAXADVFGD-----VXDXGGAVDGGGVGVDDDDXDXVDDDVVDGGVFXGFADGDAFFVFFXDGFVXFXXVAGGGVAF------VVDGVGVAXXXXFXVGVV-ADVGVFXXDVVXGXVGXXGGVXXVVGXV--VVDD---------------------------"
+  },
+  {
+   "unit": "p169A3",
+   "ids": [
+    "p169A3"
+   ],
+   "childs_page": 166,
+   "heading": "A) LP v NKJ     (6.40 p.m., November 9th)",
+   "page_date": "1918-11-09",
+   "heading_dates": [
+    "1918-11-09"
+   ],
+   "net": "RICHI",
+   "n_slots": 184,
+   "n_letters": 184,
+   "n_lost": 0,
+   "candidates": [
+    "nov07"
+   ],
+   "derived_period": "nov07",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p170A",
+   "twin_key": "nov07",
+   "twin_side": "train",
+   "twin_d": 0.0435,
+   "twin_cost": 8,
+   "header_count": 204,
+   "header_short": 20,
+   "text": "GGXGXDADVFVVDFXGXXGXVXVXVGGDXXGDGVVGGDAXADDFXFXDAGVVGVADAXDVVFDFXDAXDGVDXVVGDGVXVFDDFVGDXXVGXVDVVGXVDDAGGVFDGVVVAGVVVFGVXVGVDGVGGVDVVVDGVDVGVFFFVFFXXDGFFGVDGVDVDVGGGVDGVAAFFFDVVXFDVXVG"
+  },
+  {
+   "unit": "p169B2",
+   "ids": [
+    "p169B2"
+   ],
+   "childs_page": 166,
+   "heading": "B) NKJ v UKS     (9.27 p.m., November 9th)",
+   "page_date": "1918-11-09",
+   "heading_dates": [
+    "1918-11-09"
+   ],
+   "net": "RICHI",
+   "n_slots": 186,
+   "n_letters": 137,
+   "n_lost": 49,
+   "candidates": [
+    "nov07"
+   ],
+   "derived_period": "nov07",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p174B",
+   "twin_key": "nov07",
+   "twin_side": "train",
+   "twin_d": 0.3118,
+   "twin_cost": 58,
+   "header_count": 186,
+   "header_short": null,
+   "text": "XXXDDXGFFXFDDFDVXAXGADVGVVXAVXVFAVDGGXXVGXVXXGDGXAADDXGGFDDADAAAGDADXDDDFGADXDGDFDGXXDXDFVVVVXXDVXGVXXGXXGFVAVVVGAVVAXAVGFGVXXVADVDVVGXVV-------------------------------------------------"
+  },
+  {
+   "unit": "p170D",
+   "ids": [
+    "p170D"
+   ],
+   "childs_page": 167,
+   "heading": "D) NKJ v LP     (03.23 a.m., November 10th)",
+   "page_date": "1918-11-09",
+   "heading_dates": [
+    "1918-11-10"
+   ],
+   "net": "RICHI",
+   "n_slots": 187,
+   "n_letters": 185,
+   "n_lost": 2,
+   "candidates": [
+    "nov07",
+    "nov10"
+   ],
+   "derived_period": "ambiguous between nov07 and nov10",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 190,
+   "header_short": null,
+   "text": "GXVVVAGAFFAXDAFXGVFDVDAGAXAXVXDGAFDDFGXVDDDVXFVADFVAAXFFDGDVVGDVVVDDXXDDDDVGFXGGDGXGFVGVGVVGXVDVXXVVDGXDVXDDDXDFGXVGVDXXVVGVXDFGVV--DDDFGXVXFAXXDAADXVFFVVDGDXFGDGXXDDFDXDDDXXDXXFADGXFGDXG"
+  },
+  {
+   "unit": "p173A",
+   "ids": [
+    "p173A"
+   ],
+   "childs_page": 170,
+   "heading": "A) --- v ---     (11.24 p.m., November 9th)",
+   "page_date": "1918-11-09",
+   "heading_dates": [
+    "1918-11-09"
+   ],
+   "net": "RICHI",
+   "n_slots": 106,
+   "n_letters": 106,
+   "n_lost": 0,
+   "candidates": [
+    "nov07"
+   ],
+   "derived_period": "nov07",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 106,
+   "header_short": null,
+   "text": "AAGVGVVDAGGAGAVAGGAAVAXGVAAAXFAAXAFAGVGVVVVVGDADAFGDVGVGVGADXAGAAGXGGAGVFVGXGXAGGGAFAXGFXXAGXVGVFDVXVDFGXV"
+  },
+  {
+   "unit": "p174A3",
+   "ids": [
+    "p174A3"
+   ],
+   "childs_page": 171,
+   "heading": "A) COS v NKJ     (1.58 a.m., November 10th)",
+   "page_date": "1918-11-09",
+   "heading_dates": [
+    "1918-11-10"
+   ],
+   "net": "RICHI",
+   "n_slots": 261,
+   "n_letters": 254,
+   "n_lost": 7,
+   "candidates": [
+    "nov07",
+    "nov10"
+   ],
+   "derived_period": "ambiguous between nov07 and nov10",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p159B1",
+   "twin_key": "nov07",
+   "twin_side": "train",
+   "twin_d": 0.4675,
+   "twin_cost": 122,
+   "header_count": 252,
+   "header_short": null,
+   "text": "AXAVDXDDVGDDVVVXADGDAGXXX---DDXDXXAGAGDADXVVGVFXDFDVDDXVGVVGVFVDXVVVDVDDXADXDXGADDGAAAXGVFG-VVAGXVGGGAXAAXVAVXDXDADDGGVXFXGVFGXVDVVDDVFVFGXXVVGDXGVGVGVVVDVFDXGVDVXXVVXAGGXGGXGGDGDDDVVXGFGVGXDGGGXDXG--DVAXDAGXDADDDVGDVGGXDVGDGVVVVVDGXVFDVVGAD-ADADAXAAVXGDDDXDDAG"
+  },
+  {
+   "unit": "p175E",
+   "ids": [
+    "p175E"
+   ],
+   "childs_page": 172,
+   "heading": "E) SY v MAX     (7.21 p.m., November 10th)",
+   "page_date": "1918-11-10",
+   "heading_dates": [
+    "1918-11-10"
+   ],
+   "net": "RICHI",
+   "n_slots": 242,
+   "n_letters": 242,
+   "n_lost": 0,
+   "candidates": [
+    "nov07",
+    "nov10"
+   ],
+   "derived_period": "ambiguous between nov07 and nov10",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p174C",
+   "twin_key": "nov10",
+   "twin_side": "plant",
+   "twin_d": 0.062,
+   "twin_cost": 15,
+   "header_count": null,
+   "header_short": null,
+   "text": "ADVGADVFFXXXFGFFFFVGFAVGDAVDFDGFAVFGXGVVVXVXXGGGDXVFDAADVAFDADAGDGDVDXAXFDXDXAXXXVXFAADFVVXADADVGGVVXXDVXXXXDXGXFXDVAAVVDFDGVADVVADDDDGGADFVFGAVDAGVDFGVFXXGXXFFAXXFXGXFDVDDXXGAFFAXDVDDDVDVDDAFVVAAFVGVDADAAVFDGAXXDGXVGFXFVFXAFXGGGVFADVXVDVDVFV"
+  },
+  {
+   "unit": "p177A3",
+   "ids": [
+    "p177A3"
+   ],
+   "childs_page": 174,
+   "heading": "A) --- v ZO'N (07.24 p.m., November 10th)",
+   "page_date": "1918-11-10",
+   "heading_dates": [
+    "1918-11-10"
+   ],
+   "net": "RICHI",
+   "n_slots": 79,
+   "n_letters": 79,
+   "n_lost": 0,
+   "candidates": [
+    "nov07",
+    "nov10"
+   ],
+   "derived_period": "ambiguous between nov07 and nov10",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p198A2",
+   "twin_key": "nov10",
+   "twin_side": "train",
+   "twin_d": 0.0127,
+   "twin_cost": 1,
+   "header_count": 98,
+   "header_short": 19,
+   "text": "DDDVADXVAXVAGDDDGADDDXDAGVVGAFAVGGAXDVVVGAVGXXXXDVDDDAFXGVDGFXFXXADDAXXXAVAXXDX"
+  },
+  {
+   "unit": "p179A",
+   "ids": [
+    "p179A"
+   ],
+   "childs_page": 176,
+   "heading": "A) LP v NKJ    (5.40 p.m., November 10th)",
+   "page_date": "1918-11-10",
+   "heading_dates": [
+    "1918-11-10"
+   ],
+   "net": "RICHI",
+   "n_slots": 214,
+   "n_letters": 204,
+   "n_lost": 10,
+   "candidates": [
+    "nov07",
+    "nov10"
+   ],
+   "derived_period": "ambiguous between nov07 and nov10",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 224,
+   "header_short": null,
+   "text": "VVAVDADDDDDFGGVDGAXGAVDAVAVDADGAVDAV---FXFXXXXAFAXAFGVADAVVADADDAXXFAADAADVDFGAVDVADVAADGVVVFXVFDDXDFFXXGXGVVVDXGDVVDVVAFDV-ADV--GFDAGXXFFDGFXDDAXFGDDAXDXAXVFFDAGAGXXDXVDXVGAAVVGDGGFVAGF---VXXVDVVFXXVDVFVVDDDGADAA-"
+  },
+  {
+   "unit": "p179A6",
+   "ids": [
+    "p179A6"
+   ],
+   "childs_page": 176,
+   "heading": "A) LP v NKJ    (5.40 p.m., November 10th)",
+   "page_date": "1918-11-10",
+   "heading_dates": [
+    "1918-11-10"
+   ],
+   "net": "RICHI",
+   "n_slots": 160,
+   "n_letters": 74,
+   "n_lost": 86,
+   "candidates": [
+    "nov07",
+    "nov10"
+   ],
+   "derived_period": "ambiguous between nov07 and nov10",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 160,
+   "header_short": null,
+   "text": "AVDAXDDGAGXGGXFXFVADVVGAVVVDGXGXXDDXXXXXFFVGAVVGAVAXDDXFXXXXDXDADXAGFVFXAF--------------------------------------------------------------------------------------"
+  },
+  {
+   "unit": "p185A",
+   "ids": [
+    "p185A"
+   ],
+   "childs_page": 182,
+   "heading": "A) CM v CZ (19.35 p.m., November 12th)",
+   "page_date": "1918-11-12",
+   "heading_dates": [
+    "1918-11-12"
+   ],
+   "net": "RIZI",
+   "n_slots": 55,
+   "n_letters": 48,
+   "n_lost": 7,
+   "candidates": [
+    "nov10",
+    "nov13_16"
+   ],
+   "derived_period": "ambiguous between nov10 and nov13_16",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p177B",
+   "twin_key": "nov10",
+   "twin_side": "train",
+   "twin_d": 0.2,
+   "twin_cost": 11,
+   "header_count": 74,
+   "header_short": 19,
+   "text": "VVFVGXAV-AAGXVAVVVVADAVDVAXFF-XD-VDFDDXADDDDD----DDVDVD"
+  },
+  {
+   "unit": "p185C",
+   "ids": [
+    "p185C"
+   ],
+   "childs_page": 182,
+   "heading": "C) CM v CZ (21.25 p.m., November 12th)",
+   "page_date": "1918-11-12",
+   "heading_dates": [
+    "1918-11-12"
+   ],
+   "net": "RIZI",
+   "n_slots": 49,
+   "n_letters": 49,
+   "n_lost": 0,
+   "candidates": [
+    "nov10",
+    "nov13_16"
+   ],
+   "derived_period": "ambiguous between nov10 and nov13_16",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p177C",
+   "twin_key": "nov10",
+   "twin_side": "plant",
+   "twin_d": 0.0208,
+   "twin_cost": 1,
+   "header_count": 56,
+   "header_short": null,
+   "text": "VVVFFVDAFAXXVDAXXFADDXGXVDDAAGDVFDVDXGFADAGVXDDAX"
+  },
+  {
+   "unit": "p186D",
+   "ids": [
+    "p186D"
+   ],
+   "childs_page": 183,
+   "heading": "D) CZ v CM   (17.20 p.m., November 12th)",
+   "page_date": "1918-11-12",
+   "heading_dates": [
+    "1918-11-12"
+   ],
+   "net": "RIZI",
+   "n_slots": 37,
+   "n_letters": 37,
+   "n_lost": 0,
+   "candidates": [
+    "nov10",
+    "nov13_16"
+   ],
+   "derived_period": "ambiguous between nov10 and nov13_16",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p186E",
+   "twin_key": "nov10",
+   "twin_side": "train",
+   "twin_d": 0.0278,
+   "twin_cost": 1,
+   "header_count": 27,
+   "header_short": null,
+   "text": "AAXDFAVDFAAADAGFVVAGDDAGVDDVFFVGDVGDX"
+  },
+  {
+   "unit": "p187C3",
+   "ids": [
+    "p187C3"
+   ],
+   "childs_page": 184,
+   "heading": "C) ZO'N v NKJ (02.15 a.m.,November 13th)",
+   "page_date": "1918-11-13",
+   "heading_dates": [
+    "1918-11-13"
+   ],
+   "net": "RICHI",
+   "n_slots": 108,
+   "n_letters": 108,
+   "n_lost": 0,
+   "candidates": [
+    "nov10",
+    "nov13_20",
+    "nov13_16"
+   ],
+   "derived_period": "ambiguous between nov10 and nov13_20 and nov13_16",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p187B3",
+   "twin_key": "nov13_20",
+   "twin_side": "train",
+   "twin_d": 0.0093,
+   "twin_cost": 1,
+   "header_count": 108,
+   "header_short": null,
+   "text": "XFXVAXFDVDVFVVVGXVGDVDGVDXAVDFXXXXAAXADXFDXVVXXXVDVAVVAAVVDDVDVFFADXAXXAAFGDFVGAVXGVDAGVXVDVAXXXGGVGVFDXDGDV"
+  },
+  {
+   "unit": "p189B3",
+   "ids": [
+    "p189B3"
+   ],
+   "childs_page": 186,
+   "heading": "B) NKJ v LP  (06.23 a.m., November 13th)",
+   "page_date": "1918-11-13",
+   "heading_dates": [
+    "1918-11-13"
+   ],
+   "net": "RICHI",
+   "n_slots": 242,
+   "n_letters": 242,
+   "n_lost": 0,
+   "candidates": [
+    "nov10",
+    "nov13_20",
+    "nov13_16"
+   ],
+   "derived_period": "ambiguous between nov10 and nov13_20 and nov13_16",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 242,
+   "header_short": null,
+   "text": "FGAFFVAAFFAFVDAADVAAGFXAVFAVDVVXGVXXAVGFFGVDDFXXVXAVXGVFXFVDDXFVVXVVDFFFXDFXAXGAXXVXDXXDDGGFAVAAFVVFXAAGVFXXADVXGVXVXADDDXXDVVXXVFAFAFDXAFFAGDVFVFGVDAXAFFVDVAFXAFAFAVVXVVXXAAFVAXVDDDXAFVFAXAFGFXVXGAGAAFVVAFAFVVGGVDVVAAAGAGFAVDVGXFGXXAAXXXXADA"
+  },
+  {
+   "unit": "p190B",
+   "ids": [
+    "p190B"
+   ],
+   "childs_page": 187,
+   "heading": "B) POT v NKJ (16.30 p.m.,November 13th)",
+   "page_date": "1918-11-13",
+   "heading_dates": [
+    "1918-11-13"
+   ],
+   "net": "RICHI",
+   "n_slots": 140,
+   "n_letters": 139,
+   "n_lost": 1,
+   "candidates": [
+    "nov10",
+    "nov13_20",
+    "nov13_16"
+   ],
+   "derived_period": "ambiguous between nov10 and nov13_20 and nov13_16",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p148B",
+   "twin_key": "nov04",
+   "twin_side": "train",
+   "twin_d": 0.1143,
+   "twin_cost": 16,
+   "header_count": 214,
+   "header_short": 74,
+   "text": "ADFAXGGVFXFAFAAAVXVAFXAXVFXDFFXAVVGFGXAVAAGFAAVFXAAVXVDAVXVDDAGVDFXFAFXDXAVXDXV-DXDGADXDGAXXXXFGVGFAAGVAXAXDFAXXAXVGAAXVDFVVXVGXGVXXVFAAGFXV"
+  },
+  {
+   "unit": "p190G",
+   "ids": [
+    "p190G"
+   ],
+   "childs_page": 187,
+   "heading": "C) NKJ v LP (16.09,p.m.,November 13th)",
+   "page_date": "1918-11-13",
+   "heading_dates": [
+    "1918-11-13"
+   ],
+   "net": "RICHI",
+   "n_slots": 134,
+   "n_letters": 134,
+   "n_lost": 0,
+   "candidates": [
+    "nov10",
+    "nov13_20",
+    "nov13_16"
+   ],
+   "derived_period": "ambiguous between nov10 and nov13_20 and nov13_16",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 134,
+   "header_short": null,
+   "text": "DGGXXXAFGXAAADVAAXVXVXXXXVVXGDFFXDXFADFDXVFFXVFXFVFVVXXXVXXXXXGXXXXGGXAFVGAADXFGAFXVXAVFFVXVXDFADDXAAVDFXFFDXXFFXXVDGVAXDDXVFDGXXDXXDX"
+  },
+  {
+   "unit": "p192A",
+   "ids": [
+    "p192A"
+   ],
+   "childs_page": 189,
+   "heading": "A) CZ v CM          (7.15 a.m., November 13th)",
+   "page_date": "1918-11-14",
+   "heading_dates": [
+    "1918-11-13"
+   ],
+   "net": "RIZI",
+   "n_slots": 90,
+   "n_letters": 78,
+   "n_lost": 12,
+   "candidates": [
+    "nov10",
+    "nov13_20",
+    "nov13_16"
+   ],
+   "derived_period": "ambiguous between nov10 and nov13_20 and nov13_16",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p188_.2",
+   "twin_key": "nov13_16",
+   "twin_side": "train",
+   "twin_d": 0.3333,
+   "twin_cost": 30,
+   "header_count": 46,
+   "header_short": -44,
+   "text": "D-GAGG-AAVV--AXFVXXVADAXXAGAVD-GXAXV-X-----VAVDXVXXXVGVXAAVAGAXXGAXXFXVXXFXXGVV-DFFXDXAXDV"
+  },
+  {
+   "unit": "p194A.2",
+   "ids": [
+    "p194A.2"
+   ],
+   "childs_page": 191,
+   "heading": "A) LP v Z\u00d6N    (06.16 p.m., November ?)",
+   "page_date": "1918-11-14",
+   "heading_dates": [],
+   "net": "RICHI",
+   "n_slots": 186,
+   "n_letters": 174,
+   "n_lost": 12,
+   "candidates": [
+    "nov10",
+    "nov13_20",
+    "nov13_16"
+   ],
+   "derived_period": "ambiguous between nov10 and nov13_20 and nov13_16",
+   "basis": "page",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 186,
+   "header_short": null,
+   "text": "FADDXFFVADVDGVFAGDVXDFXGXVXAXVDVADAGDDVXDVXXAXDXFDGXVGVAXFVAFXVXXXVFVDFFFVGFGXGAVFAXFFX--XXGXFGXVAXFAFVDVAGFVFFDVGVXVAGAXFVVXDFFAFFDFFAVXD-XG---------AFDGGADAAXFDGXVFAGFADFVDXFXVAXFVVXDD"
+  },
+  {
+   "unit": "p196B",
+   "ids": [
+    "p196B"
+   ],
+   "childs_page": 193,
+   "heading": "B) WAU v LP    (4.15 p.m., November 14th)",
+   "page_date": "1918-11-14",
+   "heading_dates": [
+    "1918-11-14"
+   ],
+   "net": "RICHI",
+   "n_slots": 195,
+   "n_letters": 195,
+   "n_lost": 0,
+   "candidates": [
+    "nov10",
+    "nov13_20",
+    "nov13_16"
+   ],
+   "derived_period": "ambiguous between nov10 and nov13_20 and nov13_16",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p197B",
+   "twin_key": "nov13_20",
+   "twin_side": "plant",
+   "twin_d": 0.0,
+   "twin_cost": 0,
+   "header_count": null,
+   "header_short": null,
+   "text": "AAAFVAXXXGXXXDGVXDXGXVDGDDXFXDDVDVXVAAVVXXAVXFXXDDXVXFDFVFFGFGFDDVXGADDVXXAAFVGVDXDAFFXAAVVDXAXVAFFDFXXAXXXXVDXXGGDVXXFVAFXVFAFXVXDFVXFFXXVAVAVXXXVDXADDVVXXXVDFXVXFAVAXDFVXXVFAGXGFVFGFVDGFDFFGXFX"
+  },
+  {
+   "unit": "p197D1",
+   "ids": [
+    "p197D1"
+   ],
+   "childs_page": 194,
+   "heading": "D) LP v WAU    (7.47 a.m., November 16th)",
+   "page_date": "1918-11-14",
+   "heading_dates": [
+    "1918-11-16"
+   ],
+   "net": "RICHI",
+   "n_slots": 45,
+   "n_letters": 45,
+   "n_lost": 0,
+   "candidates": [
+    "nov13_16"
+   ],
+   "derived_period": "nov13_16",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 214,
+   "header_short": 169,
+   "text": "GAFGGAAVAAAFXVXGAXGFAAFGXFDAXXXXVGAAVVVVDXFVV"
+  },
+  {
+   "unit": "p200C",
+   "ids": [
+    "p200C"
+   ],
+   "childs_page": 197,
+   "heading": "C) CM v CZ (10.40 p.m., November 15th)",
+   "page_date": "1918-11-15",
+   "heading_dates": [
+    "1918-11-15"
+   ],
+   "net": "RIZI",
+   "n_slots": 185,
+   "n_letters": 179,
+   "n_lost": 6,
+   "candidates": [
+    "nov10",
+    "nov13_16"
+   ],
+   "derived_period": "ambiguous between nov10 and nov13_16",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p201B",
+   "twin_key": "nov13_16",
+   "twin_side": "train",
+   "twin_d": 0.1459,
+   "twin_cost": 27,
+   "header_count": 190,
+   "header_short": null,
+   "text": "AAFGAAFXGXGAFAXFVGDFGDVAVXXFXGFDXXDVDXGVGFVXDFGVDVXVXVXADAXXAXXVGFVFVFVVAADADAXDAXAFXAGXDXXDXXVFXXGXXVAFFVVVGFGAGAAFFAFFVAVGFFVVVFXVVXDXXAVADGFFFDFDDVVAGVDVDGXGFGAXV--AA-FAX--VFAX-GADFD"
+  },
+  {
+   "unit": "p201A",
+   "ids": [
+    "p201A"
+   ],
+   "childs_page": 198,
+   "heading": "A) IWE v KI (17.21 p.m.,November 15th)",
+   "page_date": "1918-11-15",
+   "heading_dates": [
+    "1918-11-15"
+   ],
+   "net": "RICHI",
+   "n_slots": 247,
+   "n_letters": 239,
+   "n_lost": 8,
+   "candidates": [
+    "nov10",
+    "nov13_16"
+   ],
+   "derived_period": "ambiguous between nov10 and nov13_16",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 244,
+   "header_short": null,
+   "text": "XAD-AFAA-AGVDAV-VGXDAGXD-D-DX-AXXXDDFDVGVDXAXVXVGGXVXXXVGVXGVVXXXADAGDXGAVVAAXXGDVAXGGAVGGAAXGAXDFAGDFAADXDGGVGDXVVGVADAXDVDDXGDG--GVVVVXXDXVVVGVDVVVXDDVVDXGGFGVGDAVGVADVGXDAXDGVVDVGVAVVDXDVDDGGGVXGXDAGXFGDVAFVXDXDVVDDDGVAGGAXAXAFDVXXVGDDDAXAXVDXX"
+  },
+  {
+   "unit": "p201D",
+   "ids": [
+    "p201D"
+   ],
+   "childs_page": 198,
+   "heading": "D) PZU v CM (18.27 p.m.,November 15th)",
+   "page_date": "1918-11-15",
+   "heading_dates": [
+    "1918-11-15"
+   ],
+   "net": "CHI",
+   "n_slots": 165,
+   "n_letters": 165,
+   "n_lost": 0,
+   "candidates": [
+    "nov10",
+    "nov13_16",
+    "chi_2017_comments"
+   ],
+   "derived_period": "ambiguous between nov10 and nov13_16",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 170,
+   "header_short": null,
+   "text": "DFVXVXGAXDGXVXDVGVGDVADXFFADVXXXVFVAAXGFDGFFAVXAVVVXVFVGFVFGDGVFGFFFGVVVGGGXVFXFXXFVDVDFDDFXAAXVVXAAFXXXVGXFVDVVXXFFGXGVFGXFGGFAAAFGXVVFXXXFFADXDAFXFVVDGVXFGAGFADDFX"
+  },
+  {
+   "unit": "p201E",
+   "ids": [
+    "p201E"
+   ],
+   "childs_page": 198,
+   "heading": "E) CM v CZ (10.09 p.m., November 15th)",
+   "page_date": "1918-11-15",
+   "heading_dates": [
+    "1918-11-15"
+   ],
+   "net": "RIZI",
+   "n_slots": 147,
+   "n_letters": 146,
+   "n_lost": 1,
+   "candidates": [
+    "nov10",
+    "nov13_16"
+   ],
+   "derived_period": "ambiguous between nov10 and nov13_16",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p200D",
+   "twin_key": "nov13_16",
+   "twin_side": "train",
+   "twin_d": 0.1127,
+   "twin_cost": 17,
+   "header_count": 142,
+   "header_short": null,
+   "text": "XDDFGVFGFFFXVGVXAXVVXAXVVVXVDXVXXVFVAAAXGVVAA-XDAAVDDXXVFXDVVFVFAFVXXAVFDAXVFAXFFVXVVAVFGFAGFFAAGAGGVDAGGXVFXXXDAAAFAGFAFAVGAFFGAVXXDAAAFDGXXGXVXAF"
+  },
+  {
+   "unit": "p207_2",
+   "ids": [
+    "p207_2"
+   ],
+   "childs_page": 204,
+   "heading": "C) KOW v WAU    (1.50 a.m., November 18th)",
+   "page_date": "1918-11-16",
+   "heading_dates": [
+    "1918-11-18"
+   ],
+   "net": "RICHI",
+   "n_slots": 242,
+   "n_letters": 242,
+   "n_lost": 0,
+   "candidates": [
+    "nov16"
+   ],
+   "derived_period": "nov16",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 282,
+   "header_short": 40,
+   "text": "XAAFAGDGXGDAFAXXAFDAXGXGXAXVXFVXXXFDDAGGGDAAAXXAAGDGDGXGDGGDDVDFFFDAXAADFAAXFDDVAGFXAAFXXFFDAFFAGAAXVXGDGDAAGAAXAGDXAAXAAXXXFXADXGXGFDDDFADADGDFDAAADXGAFXDDAGFAXXVGGAXFAGAXVDGDXADGAAAXDXXAAGAFDDDDDGGGADAFAFGDXGXDAFAGAAAADGXAAGXAAGDDDFXXXXDAGX"
+  },
+  {
+   "unit": "p213D",
+   "ids": [
+    "p213D"
+   ],
+   "childs_page": 210,
+   "heading": "D) KOW v LP (05.55 p.m. November 20th)",
+   "page_date": "1918-11-20",
+   "heading_dates": [
+    "1918-11-20"
+   ],
+   "net": "RICHI",
+   "n_slots": 116,
+   "n_letters": 116,
+   "n_lost": 0,
+   "candidates": [
+    "nov19"
+   ],
+   "derived_period": "nov19",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 116,
+   "header_short": null,
+   "text": "GDFXFGAXDFXDFAVDDGAGGDFFXDFGDFXGDFGDVAXFFFFVXAXFDVFVFFDGFDFDFVAXADFFGDGFDGGXFDADDFDFGXFFDADFXGGGFFGVDDFDDDXFGDXXDDVV"
+  },
+  {
+   "unit": "p215A2",
+   "ids": [
+    "p215A2"
+   ],
+   "childs_page": 212,
+   "heading": "A) XYZ v LP (03.54 p.m. November 22nd)",
+   "page_date": "1918-11-22",
+   "heading_dates": [
+    "1918-11-22"
+   ],
+   "net": "RICHI",
+   "n_slots": 160,
+   "n_letters": 160,
+   "n_lost": 0,
+   "candidates": [
+    "nov22"
+   ],
+   "derived_period": "nov22",
+   "basis": "page+heading",
+   "flagged": true,
+   "twin": "p221A2",
+   "twin_key": "nov25",
+   "twin_side": "plant",
+   "twin_d": 0.0187,
+   "twin_cost": 3,
+   "header_count": 284,
+   "header_short": 124,
+   "text": "VAADDAFGAVFVXVGDDDXDFGXDDGXVAVFAGDFDAGXDGXXAXDFXXFFFFFAFDFAXDFDXDFAAVXFFXFFXFXXFGXFAGFXDAGGXFXDXGGVFVDVGGADFAAVFDFAFFGDFDGFXAFXFFGFAGDGAAXXDXGXDXFXDFAAVFDXXFDFA"
+  },
+  {
+   "unit": "p215A.3",
+   "ids": [
+    "p215A.3"
+   ],
+   "childs_page": 212,
+   "heading": "A) XYZ v LP (03.54 p.m. November 22nd)",
+   "page_date": "1918-11-22",
+   "heading_dates": [
+    "1918-11-22"
+   ],
+   "net": "RICHI",
+   "n_slots": 197,
+   "n_letters": 197,
+   "n_lost": 0,
+   "candidates": [
+    "nov22"
+   ],
+   "derived_period": "nov22",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": null,
+   "header_short": null,
+   "text": "DVAAAXAXGFFAVXAAAVAGGVXFAFVVDDFXVDGAFAXXFFADFAAFDXVDAGDADADVFFAFFGXVDXDAGADVVXFFFFFVADGFADVXDXDFVGGVAXAVAFDAVGVVFXFVDAXFDVFVFAAGADVXDVXAAFVFAVXGAVFAGVVAFFDVVFFVXVXVFFFVVDVXDVVDFAAAVDXFAFGAGDFAVADAG"
+  },
+  {
+   "unit": "p218A",
+   "ids": [
+    "p218A"
+   ],
+   "childs_page": 215,
+   "heading": "A) Z\u00d6N v BSL (04.50 a.m., November 23rd)",
+   "page_date": "1918-11-22",
+   "heading_dates": [
+    "1918-11-23"
+   ],
+   "net": "RICHI",
+   "n_slots": 390,
+   "n_letters": 372,
+   "n_lost": 18,
+   "candidates": [
+    "nov22"
+   ],
+   "derived_period": "nov22",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 392,
+   "header_short": null,
+   "text": "FFFDAFXFFFGFVGGXFVVADDAGXGADGGXDVXFXGAAAFGVGGAVFXAVAAXDFVXGXFFAGGVAXFFFGAGXFDGAVAVXDGVDGGGVAXGAAVDFFAXDAXFVFVFXVAAFAFFXGXVVADADGXAXGAVXFXFGGXXAFFDVFGDGFFDGAFFAXVXVDXADGAFAVAAVDXFGVXDXGVDGAAFGGXGX-------------GVDAXDAVAFGFXAAAFFAFGVDV-XFVFFXDXFXVFXDVFFAGGFFVXVXVG-AVXXXFVDGFXFDFFAGAFDDGXXDFGFGXXGFFDDXXDAVGDXAXXGFAGXDVVGAVXFAVGVDF-FGAGFAFFF--XVXVXVVFGAFGXDDAXVADXDVVXVXGVDDGVGVVXVXVADVFXGGFDA"
+  },
+  {
+   "unit": "p218B1",
+   "ids": [
+    "p218B1"
+   ],
+   "childs_page": 215,
+   "heading": "B) UKS v Z\u00d6N (03.20 a.m., November 23rd)",
+   "page_date": "1918-11-22",
+   "heading_dates": [
+    "1918-11-23"
+   ],
+   "net": "RICHI",
+   "n_slots": 145,
+   "n_letters": 140,
+   "n_lost": 5,
+   "candidates": [
+    "nov22"
+   ],
+   "derived_period": "nov22",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 220,
+   "header_short": 75,
+   "text": "GG-VAFXFDFGAFGAAXX-VFAXVXAAFADVVXGAAXVXGXVAVGGDGAFA-G-GFDVDADXAADGXAGFVAGVVFDAAGFVFAAGXVFGGD-DXDXVDADAAGFVDFFAFFVAAFXXGGFXFAFAGADVFVFAGVXDVXVFXXA"
+  },
+  {
+   "unit": "p218B3",
+   "ids": [
+    "p218B3"
+   ],
+   "childs_page": 215,
+   "heading": "B) UKS v Z\u00d6N (03.20 a.m., November 23rd)",
+   "page_date": "1918-11-22",
+   "heading_dates": [
+    "1918-11-23"
+   ],
+   "net": "RICHI",
+   "n_slots": 219,
+   "n_letters": 200,
+   "n_lost": 19,
+   "candidates": [
+    "nov22"
+   ],
+   "derived_period": "nov22",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 234,
+   "header_short": 15,
+   "text": "DXGDFADVFFAXADDAFDDXXAXFFGXAVXFXAFVVVVVDVXGAXVAXFXXFDGAFAVADFGFADXFAAFXAAAGAFVX--------X-DGXVFA-----AAGDDXGFFVVDXXXVXAXFVFAFDXADFDFXAAVDFVAAFDVFVADFGXXGVVD-----FDDAGAXAAVADAFFFVVGADDAFAGXADAVFDAVAAXFVFXAVAXAXAGVVDDXVFFV"
+  },
+  {
+   "unit": "p218C",
+   "ids": [
+    "p218C"
+   ],
+   "childs_page": 215,
+   "heading": "C) UKS v BSL (08.42 p.m., November 22nd)",
+   "page_date": "1918-11-22",
+   "heading_dates": [
+    "1918-11-22"
+   ],
+   "net": "RICHI",
+   "n_slots": 248,
+   "n_letters": 237,
+   "n_lost": 11,
+   "candidates": [
+    "nov22"
+   ],
+   "derived_period": "nov22",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 248,
+   "header_short": null,
+   "text": "VGADAFAXADXFAXFFVXDDXXXDXD-F--DDAVFVGXDFFXDGFVVVFAGXXXAFAGDDFAVDGVAVXFAFDXAFDGADVAFFVVFFAAXDGVVAVXXVGDFDFVVGDFAAFAVFVXGGVFAAAXXDAVAVFFADAFAAXAGGADADVDFVVDFGAAVAAXADVDAXVFDFGDFGV-FA-GDDAFGG-DVFFDX---VDFAAAXXADGFFDDFX--VAAAAXXVXFXDFXGFDAVAADFDDVVXXXF"
+  },
+  {
+   "unit": "p220B",
+   "ids": [
+    "p220B"
+   ],
+   "childs_page": 217,
+   "heading": "B) UKS v Z\u00d6N (07.15 p.m., November 24th)",
+   "page_date": "1918-11-24",
+   "heading_dates": [
+    "1918-11-24"
+   ],
+   "net": "RICHI",
+   "n_slots": 204,
+   "n_letters": 183,
+   "n_lost": 21,
+   "candidates": [
+    "nov22"
+   ],
+   "derived_period": "nov22",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 204,
+   "header_short": null,
+   "text": "GFFFG------FFAD----------XAGFFAXGXXFFADA-XFXFFXXXFFXXXFGAVGGDDFDAVXFXVVGFFAVFDXGVGXAFVFGD-AXAAFFDFXAFAAVAAVAA-GGXVGVAFADFXVGAGGXGAGXFFGFDXVFG-FDAAAAXGAVDXXFAFDXVVVVAXGGXGAFFDADFFAGAAXAFAVGAVVFXGVV-XXGFAXF"
+  },
+  {
+   "unit": "p222C",
+   "ids": [
+    "p222C"
+   ],
+   "childs_page": 219,
+   "heading": "C) IWE v RAT (------- November 25th)",
+   "page_date": "1918-11-25",
+   "heading_dates": [
+    "1918-11-25"
+   ],
+   "net": "RICHI",
+   "n_slots": 284,
+   "n_letters": 269,
+   "n_lost": 15,
+   "candidates": [
+    "nov25"
+   ],
+   "derived_period": "nov25",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 394,
+   "header_short": 110,
+   "text": "XFXDDXFXDDVFDADXVDFXGXAGV-----FVFDAVDXDXVVFFDXFDFXGFAXAXFFVVFXVGGXDXGGDAXAFVFVFDXXGVXXFAXAXAFFGDFAXDFXXGFVGVGGVGAXVFDXGFAGVDVAGAAAAAXVXVGFFFXVGADAXVDVDADXDAGAFXVXGGGFFXFADDFXVGGFVXVVVFAGVVFGXFXFXADFFVVDGDD-----DDDFVGXXGFGGFDXDGVFVGVDFAFVGFDGDADXADAAADDFFFGDDDX-----XFDFVXXFGFXVADXDFVX"
+  },
+  {
+   "unit": "p231B2",
+   "ids": [
+    "p231B2"
+   ],
+   "childs_page": 228,
+   "heading": "B) Z\u00d6N v BSL (01.33 a.m., December 1st)",
+   "page_date": "1918-11-30",
+   "heading_dates": [
+    "1918-12-01"
+   ],
+   "net": "RICHI",
+   "n_slots": 264,
+   "n_letters": 221,
+   "n_lost": 43,
+   "candidates": [
+    "nov28"
+   ],
+   "derived_period": "nov28",
+   "basis": "page+heading",
+   "flagged": false,
+   "twin": null,
+   "twin_key": null,
+   "twin_side": null,
+   "twin_d": null,
+   "twin_cost": null,
+   "header_count": 264,
+   "header_short": null,
+   "text": "XFXDDVAVXVAXDVXFXVVAFGXVVVGFVGVDVDAGVFDFAGAVXXAGDDFGFAAGAXXVADDFGFGVFXVVGGGFDGAVXGVXDDXXFAAXFGVXDVGDDAGGVFAAAXFDAGVVDDGVGVGGAFFDGA-AVVGFGVFGDVXAGXFXGGGFGFGADXFVDDVFVG-DAFGXFXXGGVFVFVGVD-GDXGFF----------------------------DFGFFVAAVXXGFFDFGFFVXAVAAFVDXXFF------------"
+  }
+ ],
+ "pool": [
+  "p062A",
+  "p071A1",
+  "p071A2",
+  "p072A",
+  "p072B1",
+  "p073B",
+  "p074A.2",
+  "p076A",
+  "p087C",
+  "p0924#1",
+  "p0924#2",
+  "p102A",
+  "p102C",
+  "p110D",
+  "p1154",
+  "p119A1",
+  "p125B",
+  "p130B2",
+  "p139A2",
+  "p140A6",
+  "p140B",
+  "p141B.2",
+  "p142A2+p142A",
+  "p148A",
+  "p153B4+p153B",
+  "p157A2",
+  "p166A",
+  "p166A.2",
+  "p167A",
+  "p167A5",
+  "p170D",
+  "p173A",
+  "p179A",
+  "p179A6",
+  "p189B3",
+  "p190G",
+  "p194A.2",
+  "p201A",
+  "p201D",
+  "p207_2",
+  "p213D",
+  "p215A.3",
+  "p218A",
+  "p218B1",
+  "p218B3",
+  "p218C",
+  "p220B",
+  "p222C",
+  "p231B2"
+ ],
+ "too_short": [
+  "p123C",
+  "p197D1"
+ ],
+ "controls_plant": [
+  "p101B2+p101B",
+  "p112D",
+  "p114A",
+  "p125D1",
+  "p140A5",
+  "p160A",
+  "p162B",
+  "p165C1",
+  "p175E",
+  "p185C",
+  "p196B",
+  "p215A2"
+ ],
+ "controls_train": [
+  "p083B2+p083B",
+  "p104D2",
+  "p155E",
+  "p161E",
+  "p165A1",
+  "p169A3",
+  "p169B2",
+  "p174A3",
+  "p177A3",
+  "p185A",
+  "p186D",
+  "p187C3",
+  "p190B",
+  "p192A",
+  "p200C",
+  "p201E"
+ ],
+ "groups": {
+  "nov01": [
+   "p0924#1",
+   "p0924#2",
+   "p102A",
+   "p102C",
+   "p110D"
+  ],
+  "nov04": [
+   "p125B",
+   "p130B2",
+   "p139A2",
+   "p140A6",
+   "p140B",
+   "p141B.2",
+   "p142A2+p142A",
+   "p148A",
+   "p153B4+p153B"
+  ],
+  "nov07": [
+   "p076A",
+   "p166A",
+   "p166A.2",
+   "p167A",
+   "p167A5",
+   "p173A"
+  ],
+  "nov16": [
+   "p207_2"
+  ],
+  "nov19": [
+   "p213D"
+  ],
+  "nov22": [
+   "p215A.3",
+   "p218A",
+   "p218B1",
+   "p218B3",
+   "p218C",
+   "p220B"
+  ],
+  "nov25": [
+   "p222C"
+  ],
+  "nov28": [
+   "p231B2"
+  ],
+  "oct04": [
+   "p072A",
+   "p072B1",
+   "p073B",
+   "p074A.2"
+  ],
+  "oct28": [
+   "p087C"
+  ],
+  "sep19": [
+   "p062A"
+  ]
+ },
+ "ambiguous_pool": [
+  "p1154",
+  "p119A1",
+  "p157A2",
+  "p170D",
+  "p179A",
+  "p179A6",
+  "p189B3",
+  "p190G",
+  "p194A.2",
+  "p201A"
+ ],
+ "header_mismatch": {
+  "p074A.2": 107,
+  "p087C": 126,
+  "p1154": 12,
+  "p119A1": 62,
+  "p140A5": 37,
+  "p157A2": 44,
+  "p169A3": 20,
+  "p177A3": 19,
+  "p185A": 19,
+  "p190B": 74,
+  "p192A": -44,
+  "p197D1": 169,
+  "p207_2": 40,
+  "p215A2": 124,
+  "p218B1": 75,
+  "p218B3": 15,
+  "p222C": 110
+ },
+ "no_header_count": [
+  "p140A6",
+  "p148A",
+  "p153B4+p153B",
+  "p155E",
+  "p160A",
+  "p165C1",
+  "p166A.2",
+  "p175E",
+  "p196B",
+  "p215A.3"
+ ],
+ "T": 49
+}

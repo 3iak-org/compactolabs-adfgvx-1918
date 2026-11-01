@@ -1,0 +1,1024 @@
+{
+ "n_candidates": 465,
+ "unsolved": [
+  {
+   "id": "p062A",
+   "childs_page": 59,
+   "pdf_page": 62,
+   "date": "21 September 1918",
+   "header": "A) SSD, COS v ASO (07,50 a.m. September 22nd)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p071A1",
+   "childs_page": 68,
+   "pdf_page": 71,
+   "date": "5 October 1918",
+   "header": "A) COS, POT v NKJ (9,19 p.m., Ootober 5th)",
+   "part": 1,
+   "set": "unsolved"
+  },
+  {
+   "id": "p071A2",
+   "childs_page": 68,
+   "pdf_page": 71,
+   "date": "5 October 1918",
+   "header": "A) COS, POT v NKJ (9,19 p.m., Ootober 5th)",
+   "part": 2,
+   "set": "unsolved"
+  },
+  {
+   "id": "p072A",
+   "childs_page": 69,
+   "pdf_page": 72,
+   "date": "5 October 1918",
+   "header": "A) OKI w- (---- October llth)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p072B1",
+   "childs_page": 69,
+   "pdf_page": 72,
+   "date": "5 October 1918",
+   "header": "B) COS v NKJ (-<csGcteber 11¢h)",
+   "part": 1,
+   "set": "unsolved"
+  },
+  {
+   "id": "p073B",
+   "childs_page": 70,
+   "pdf_page": 73,
+   "date": "6 October 1918",
+   "header": "B) COS, POT, ASO v NKJ (9.05 pem., October 6th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p074A.2",
+   "childs_page": 71,
+   "pdf_page": 74,
+   "date": "6 October 1918",
+   "header": "A) POT v OSM (01.17 asm., October 8th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p076A",
+   "childs_page": 73,
+   "pdf_page": 76,
+   "date": "26 October 1918",
+   "header": "A) Et v NKJ (2.33 a.m., November 8th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p083B2",
+   "childs_page": 80,
+   "pdf_page": 83,
+   "date": "30 October 1918",
+   "header": "B) LP v NKJ (6.20 p.m., October 30th)",
+   "part": 2,
+   "set": "unsolved"
+  },
+  {
+   "id": "p083B",
+   "childs_page": 80,
+   "pdf_page": 83,
+   "date": "30 October 1918",
+   "header": "B) LP v NKJ (6.20 p.m., October 30th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p087C",
+   "childs_page": 84,
+   "pdf_page": 87,
+   "date": "30 October 1918",
+   "header": "C) FUER COS (4,30 a.m., November 1st)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p0924",
+   "childs_page": 89,
+   "pdf_page": 92,
+   "date": "1 November 1918",
+   "header": "4) OSM de LP (01.18 p.m, November 1st)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p101B2",
+   "childs_page": 98,
+   "pdf_page": 101,
+   "date": "1 November 1918",
+   "header": "B) OSM v LP (9.37 a.m., November 2nd)",
+   "part": 2,
+   "set": "unsolved"
+  },
+  {
+   "id": "p101B",
+   "childs_page": 98,
+   "pdf_page": 101,
+   "date": "1 November 1918",
+   "header": "B) OSM v LP (9.37 a.m., November 2nd)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p102A",
+   "childs_page": 99,
+   "pdf_page": 102,
+   "date": "1 November 1918",
+   "header": "A) US v ZON (0.48 a.m., November 2nd)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p102C",
+   "childs_page": 99,
+   "pdf_page": 102,
+   "date": "1 November 1918",
+   "header": "C) UKS v ZON (11.35 p.m., November lst)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p104D2",
+   "childs_page": 101,
+   "pdf_page": 104,
+   "date": "1 November 1918",
+   "header": "D) UKS v ZON (2.15 a.m., November 2nd)",
+   "part": 2,
+   "set": "unsolved"
+  },
+  {
+   "id": "p110D",
+   "childs_page": 107,
+   "pdf_page": 110,
+   "date": "2 November 1918",
+   "header": "D) LP v UKS (8.00 p.m., November lst)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p112D",
+   "childs_page": 109,
+   "pdf_page": 112,
+   "date": "3 November 1918",
+   "header": "D) UKS v ZON (0.35 a.m., November 3rd)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p114A",
+   "childs_page": 111,
+   "pdf_page": 114,
+   "date": "3 November 1918",
+   "header": "A) NKJ v --- (3.44 a.m., November 4th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p1154",
+   "childs_page": 112,
+   "pdf_page": 115,
+   "date": "4 November 1918",
+   "header": "(4) 1700",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p119A1",
+   "childs_page": 116,
+   "pdf_page": 119,
+   "date": "3 November 1918",
+   "header": "A) LP v NKJ (7.06 p.m., November 4th)",
+   "part": 1,
+   "set": "unsolved"
+  },
+  {
+   "id": "p123C",
+   "childs_page": 120,
+   "pdf_page": 123,
+   "date": "4 November 1918",
+   "header": "C) UKS v ZON (2.10 a.m., November 5th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p125B",
+   "childs_page": 122,
+   "pdf_page": 125,
+   "date": "4 November 1918",
+   "header": "B) NKJ v LP (08.40 pem., November 4%h)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p125D1",
+   "childs_page": 122,
+   "pdf_page": 125,
+   "date": "4 November 1918",
+   "header": "D) OSM v OUI (08.33 p.m., November 4th)",
+   "part": 1,
+   "set": "unsolved"
+  },
+  {
+   "id": "p130B2",
+   "childs_page": 127,
+   "pdf_page": 130,
+   "date": "4 November 1918",
+   "header": "B) LP v NKJ (9.45 p.m., November 5th)",
+   "part": 2,
+   "set": "unsolved"
+  },
+  {
+   "id": "p139A2",
+   "childs_page": 136,
+   "pdf_page": 139,
+   "date": "5 November 1918",
+   "header": "A) cos v NKJ (9,44 a.m., he 7th)",
+   "part": 2,
+   "set": "unsolved"
+  },
+  {
+   "id": "p140A5",
+   "childs_page": 137,
+   "pdf_page": 140,
+   "date": "6 November 1918",
+   "header": "A) LP v NKJ 08,14 Noveioder Sth)",
+   "part": 5,
+   "set": "unsolved"
+  },
+  {
+   "id": "p140A6",
+   "childs_page": 137,
+   "pdf_page": 140,
+   "date": "6 November 1918",
+   "header": "A) LP v NKJ 08,14 Noveioder Sth)",
+   "part": 6,
+   "set": "unsolved"
+  },
+  {
+   "id": "p140B",
+   "childs_page": 137,
+   "pdf_page": 140,
+   "date": "6 November 1918",
+   "header": "B) OSM v OUI",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p141B.2",
+   "childs_page": 138,
+   "pdf_page": 141,
+   "date": "6 November 1918",
+   "header": "B) LP v NKJ 00.15 November 5th",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p142A2",
+   "childs_page": 139,
+   "pdf_page": 142,
+   "date": "6 November 1918",
+   "header": "A) NKJ v LP (5.57 a.m., November 6th)",
+   "part": 2,
+   "set": "unsolved"
+  },
+  {
+   "id": "p142A",
+   "childs_page": 139,
+   "pdf_page": 142,
+   "date": "6 November 1918",
+   "header": "A) NKJ v LP (5.57 a.m., November 6th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p148A",
+   "childs_page": 145,
+   "pdf_page": 148,
+   "date": "6 November 1918",
+   "header": "A) --- v HVC (02.28 awm., November 7th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p153B4",
+   "childs_page": 150,
+   "pdf_page": 153,
+   "date": "6 November 1918",
+   "header": "B) LP v NKJ (--- November 7th)",
+   "part": 4,
+   "set": "unsolved"
+  },
+  {
+   "id": "p153B",
+   "childs_page": 150,
+   "pdf_page": 153,
+   "date": "6 November 1918",
+   "header": "B) LP v NKJ (--- November 7th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p155E",
+   "childs_page": 152,
+   "pdf_page": 155,
+   "date": "7 November 1918",
+   "header": "E) NKJ v LP (9.10 p.m., November 7th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p157A2",
+   "childs_page": 154,
+   "pdf_page": 157,
+   "date": "7 November 1918",
+   "header": "A) UKS v ZON 11.55 p.m., November 7th)",
+   "part": 2,
+   "set": "unsolved"
+  },
+  {
+   "id": "p160A",
+   "childs_page": 157,
+   "pdf_page": 160,
+   "date": "7 November 1918",
+   "header": "A) LP? v NKJ (--- November 8th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p161E",
+   "childs_page": 158,
+   "pdf_page": 161,
+   "date": "8 November 1918",
+   "header": "E) UKS v ZON (11.44 pem., November 8th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p162B",
+   "childs_page": 159,
+   "pdf_page": 162,
+   "date": "8 November 1918",
+   "header": "B) RVV v N4 (9,00 pem., November 8th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p165A1",
+   "childs_page": 162,
+   "pdf_page": 165,
+   "date": "8 November 1918",
+   "header": "A) RVV v N4 (04.09 a.m., November 9th)",
+   "part": 1,
+   "set": "unsolved"
+  },
+  {
+   "id": "p165C1",
+   "childs_page": 162,
+   "pdf_page": 165,
+   "date": "8 November 1918",
+   "header": "C) ==- v NKJ (09.45 a.m., November 9¢n)",
+   "part": 1,
+   "set": "unsolved"
+  },
+  {
+   "id": "p166A",
+   "childs_page": 163,
+   "pdf_page": 166,
+   "date": "9 November 1918",
+   "header": "A) --- v UKS (1.21 a.m., November 9th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p166A.2",
+   "childs_page": 163,
+   "pdf_page": 166,
+   "date": "9 November 1918",
+   "header": "A) --- v UKS (1.21 a.m., November 9th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p167A",
+   "childs_page": 164,
+   "pdf_page": 167,
+   "date": "9 November 1918",
+   "header": "A) --- v UKS (4.41 a.m., November 9th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p167A5",
+   "childs_page": 164,
+   "pdf_page": 167,
+   "date": "9 November 1918",
+   "header": "A) --- v UKS (4.41 a.m., November 9th)",
+   "part": 5,
+   "set": "unsolved"
+  },
+  {
+   "id": "p169A3",
+   "childs_page": 166,
+   "pdf_page": 169,
+   "date": "9 November 1918",
+   "header": "A) LP v NKJ (6.40 p.m., Novemoer 9th)",
+   "part": 3,
+   "set": "unsolved"
+  },
+  {
+   "id": "p169B2",
+   "childs_page": 166,
+   "pdf_page": 169,
+   "date": "9 November 1918",
+   "header": "B) NKJ v UKS (S.27 u.m., November 9th)",
+   "part": 2,
+   "set": "unsolved"
+  },
+  {
+   "id": "p170D",
+   "childs_page": 167,
+   "pdf_page": 170,
+   "date": "9 November 1918",
+   "header": "D) NKJ v LP (03.23 a.u., Novewber loth)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p173A",
+   "childs_page": 170,
+   "pdf_page": 173,
+   "date": "9 November 1918",
+   "header": "A) ate OR tet (11.24 p.m., November 9th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p174A3",
+   "childs_page": 171,
+   "pdf_page": 174,
+   "date": "9 November 1918",
+   "header": "A) COS v NKJ (1.58 a.m., November 10th)",
+   "part": 3,
+   "set": "unsolved"
+  },
+  {
+   "id": "p175E",
+   "childs_page": 172,
+   "pdf_page": 175,
+   "date": "10 November 1918",
+   "header": "E) SY v MAX (7,21 p.m., November 10th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p177A3",
+   "childs_page": 174,
+   "pdf_page": 177,
+   "date": "10 November 1918",
+   "header": "A) v ZO'N (07.24 pene, November 10th)",
+   "part": 3,
+   "set": "unsolved"
+  },
+  {
+   "id": "p179A",
+   "childs_page": 176,
+   "pdf_page": 179,
+   "date": "10 November 1918",
+   "header": "A) LP v NKJ (5.40 p.m., November 10th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p179A6",
+   "childs_page": 176,
+   "pdf_page": 179,
+   "date": "10 November 1918",
+   "header": "A) LP v NKJ (5.40 p.m., November 10th)",
+   "part": 6,
+   "set": "unsolved"
+  },
+  {
+   "id": "p185A",
+   "childs_page": 182,
+   "pdf_page": 185,
+   "date": "12 November 1918",
+   "header": "A) CM v CZ (19.35 p.m., November 12th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p185C",
+   "childs_page": 182,
+   "pdf_page": 185,
+   "date": "12 November 1918",
+   "header": "C) CM v CZ (21.25 p.m, November 12th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p186D",
+   "childs_page": 183,
+   "pdf_page": 186,
+   "date": "12 November 1918",
+   "header": "D) CZ v CM (17.20 p.n.e, November 12th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p187C3",
+   "childs_page": 184,
+   "pdf_page": 187,
+   "date": "13 November 1918",
+   "header": "C) ZO'N v NKJ (02.15 a.m.,November 13th)",
+   "part": 3,
+   "set": "unsolved"
+  },
+  {
+   "id": "p189B3",
+   "childs_page": 186,
+   "pdf_page": 189,
+   "date": "13 November 1918",
+   "header": "B) NKJ v LP (06.23 a.m., November 13th)",
+   "part": 3,
+   "set": "unsolved"
+  },
+  {
+   "id": "p190B",
+   "childs_page": 187,
+   "pdf_page": 190,
+   "date": "13 November 1918",
+   "header": "B) POT v NKJ (16.30 p.m.,November 13th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p190G",
+   "childs_page": 187,
+   "pdf_page": 190,
+   "date": "13 November 1918",
+   "header": "G) NKJ v LP (16.09,p.1m.,Noveuoer 13th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p192A",
+   "childs_page": 189,
+   "pdf_page": 192,
+   "date": "14 November 1918",
+   "header": "A) CZ v OM (7.15 a.m., November 12th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p194A.2",
+   "childs_page": 191,
+   "pdf_page": 194,
+   "date": "14 November 1918",
+   "header": "A) LP v ZON (06.16 p.u., Noveuber 7)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p196B",
+   "childs_page": 193,
+   "pdf_page": 196,
+   "date": "14 November 1918",
+   "header": "B) WAU v LP (4.15 p.m., November 14th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p197D1",
+   "childs_page": 194,
+   "pdf_page": 197,
+   "date": "15 November 1918",
+   "header": "D) LP. v WAU (7.47 a.m., November 16th)",
+   "part": 1,
+   "set": "unsolved"
+  },
+  {
+   "id": "p200C",
+   "childs_page": 197,
+   "pdf_page": 200,
+   "date": "15 November 1918",
+   "header": "C) CM v CZ (10.40 p.m., November 15th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p201A",
+   "childs_page": 198,
+   "pdf_page": 201,
+   "date": "15 November 1918",
+   "header": "A) IWE v KI (17.21 p.m.,November 15th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p201D",
+   "childs_page": 198,
+   "pdf_page": 201,
+   "date": "15 November 1918",
+   "header": "D) PZU v CM (16.27 p.m.,November 15th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p201E",
+   "childs_page": 198,
+   "pdf_page": 201,
+   "date": "15 November 1918",
+   "header": "E) CM v CZ (10.09 p.m., November 15th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p207_2",
+   "childs_page": 204,
+   "pdf_page": 207,
+   "date": "17 November 1918",
+   "header": "Cc) KOW v WAU (1.50 a.m., November 18th)",
+   "part": 2,
+   "set": "unsolved"
+  },
+  {
+   "id": "p213D",
+   "childs_page": 210,
+   "pdf_page": 213,
+   "date": "20 November 1918",
+   "header": "D) KOW v LP (05.55 p.m. November 20th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p215A2",
+   "childs_page": 212,
+   "pdf_page": 215,
+   "date": "22 November 1918",
+   "header": "A) XYZ v LP (03.54 p.m. November 22nd)",
+   "part": 2,
+   "set": "unsolved"
+  },
+  {
+   "id": "p215A.3",
+   "childs_page": 212,
+   "pdf_page": 215,
+   "date": "22 November 1918",
+   "header": "A) XYZ v LP (03.54 p.m. November 22nd)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p218A",
+   "childs_page": 215,
+   "pdf_page": 218,
+   "date": "22 November 1918",
+   "header": "A) ZON v BSL (04.50 a.ni., Novenber 23rd)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p218B1",
+   "childs_page": 215,
+   "pdf_page": 218,
+   "date": "22 November 1918",
+   "header": "B) UKS v ZON (03.20 a.u., Novenber 23rd)",
+   "part": 1,
+   "set": "unsolved"
+  },
+  {
+   "id": "p218B3",
+   "childs_page": 215,
+   "pdf_page": 218,
+   "date": "22 November 1918",
+   "header": "B) UKS v ZON (03.20 a.u., Novenber 23rd)",
+   "part": 3,
+   "set": "unsolved"
+  },
+  {
+   "id": "p218C",
+   "childs_page": 215,
+   "pdf_page": 218,
+   "date": "22 November 1918",
+   "header": "C) UKS v BSL (08.43 p.m., Noves.ber 22nd)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p220B",
+   "childs_page": 217,
+   "pdf_page": 220,
+   "date": "24 November 1918",
+   "header": "B) UKS v ZON (07,15 p.t., Novenber 24tn)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p220C",
+   "childs_page": 217,
+   "pdf_page": 220,
+   "date": "24 November 1918",
+   "header": "C) LP v NKJ (01.27 a.u., Noveuber 27th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p222C",
+   "childs_page": 219,
+   "pdf_page": 222,
+   "date": "25 November 1918",
+   "header": "C) IWE v RAT (------- November 25th)",
+   "part": null,
+   "set": "unsolved"
+  },
+  {
+   "id": "p231B2",
+   "childs_page": 228,
+   "pdf_page": 231,
+   "date": "30 November 1918",
+   "header": "B) ZN v BSL (01.33 a.ni., December 1st)",
+   "part": 2,
+   "set": "unsolved"
+  }
+ ],
+ "calibration": [
+  {
+   "id": "p059B.2",
+   "childs_page": 56,
+   "pdf_page": 59,
+   "date": "19 September 1918",
+   "header": "B) OSM v LP (02.02 pym September 20th)",
+   "part": null,
+   "set": "calibration"
+  },
+  {
+   "id": "p068A",
+   "childs_page": 65,
+   "pdf_page": 68,
+   "date": "4 October 1918",
+   "header": "A) COS v NKJ (3.18 a.m., Ootober 5th)",
+   "part": null,
+   "set": "calibration"
+  },
+  {
+   "id": "p080B",
+   "childs_page": 77,
+   "pdf_page": 80,
+   "date": "29 October 1918",
+   "header": "B) OSM v LP (6.47 a.m., Ootober 30th)",
+   "part": null,
+   "set": "calibration"
+  },
+  {
+   "id": "p087B",
+   "childs_page": 84,
+   "pdf_page": 87,
+   "date": "30 October 1918",
+   "header": "B) OSM v NKJ (3.30 a.m., November lst)",
+   "part": null,
+   "set": "calibration"
+  },
+  {
+   "id": "p096A2",
+   "childs_page": 93,
+   "pdf_page": 96,
+   "date": "1 November 1918",
+   "header": "A) OSM v LP (4.20 p.m., November lst)",
+   "part": 2,
+   "set": "calibration"
+  },
+  {
+   "id": "p104A2",
+   "childs_page": 101,
+   "pdf_page": 104,
+   "date": "1 November 1918",
+   "header": "A) UKS v ZON (------ November 2nd)",
+   "part": 2,
+   "set": "calibration"
+  },
+  {
+   "id": "p107C2",
+   "childs_page": 104,
+   "pdf_page": 107,
+   "date": "2 November 1918",
+   "header": "C) Pot v NKJ (9.10 a.m., November 4th)",
+   "part": 2,
+   "set": "calibration"
+  },
+  {
+   "id": "p112A3",
+   "childs_page": 109,
+   "pdf_page": 112,
+   "date": "3 November 1918",
+   "header": "A) UKS v OSM (2.09 a.m., November 3rd)",
+   "part": 3,
+   "set": "calibration"
+  },
+  {
+   "id": "p118A5",
+   "childs_page": 115,
+   "pdf_page": 118,
+   "date": "3 November 1918",
+   "header": "A) LP v NKJ (7,06 pem., November 4th)",
+   "part": 5,
+   "set": "calibration"
+  },
+  {
+   "id": "p125C",
+   "childs_page": 122,
+   "pdf_page": 125,
+   "date": "4 November 1918",
+   "header": "C) NKJ v LP (08,42 p.m., November 4th)",
+   "part": null,
+   "set": "calibration"
+  },
+  {
+   "id": "p132A8",
+   "childs_page": 129,
+   "pdf_page": 132,
+   "date": "5 November 1918",
+   "header": "A) LP v NKJ (7.01 p.m., November 5th)",
+   "part": 8,
+   "set": "calibration"
+  },
+  {
+   "id": "p139B3",
+   "childs_page": 136,
+   "pdf_page": 139,
+   "date": "6 November 1918",
+   "header": "B) NKJ v LP (6.16 p.m., November 6th)",
+   "part": 3,
+   "set": "calibration"
+  },
+  {
+   "id": "p147B",
+   "childs_page": 144,
+   "pdf_page": 147,
+   "date": "6 November 1918",
+   "header": "B) UKS v ZON (---~ November 7th)",
+   "part": null,
+   "set": "calibration"
+  },
+  {
+   "id": "p153B5",
+   "childs_page": 150,
+   "pdf_page": 153,
+   "date": "6 November 1918",
+   "header": "B) LP v NKJ (--- November 7th)",
+   "part": 5,
+   "set": "calibration"
+  },
+  {
+   "id": "p159A",
+   "childs_page": 156,
+   "pdf_page": 159,
+   "date": "7 November 1918",
+   "header": "A) YZ v LP (6.11 a.m., November 8th)",
+   "part": null,
+   "set": "calibration"
+  },
+  {
+   "id": "p163D1",
+   "childs_page": 160,
+   "pdf_page": 163,
+   "date": "8 November 1918",
+   "header": "D) NKJ v LP (06.37 a.m., November 9th).",
+   "part": 1,
+   "set": "calibration"
+  },
+  {
+   "id": "p168A1",
+   "childs_page": 165,
+   "pdf_page": 168,
+   "date": "9 November 1918",
+   "header": "A) NKJ v LP (04.00 p.m., November 9th)",
+   "part": 1,
+   "set": "calibration"
+  },
+  {
+   "id": "p174A3.2",
+   "childs_page": 171,
+   "pdf_page": 174,
+   "date": "9 November 1918",
+   "header": "A) COS v NKJ (1.58 a.m., November 10th)",
+   "part": 3,
+   "set": "calibration"
+  },
+  {
+   "id": "p178A",
+   "childs_page": 175,
+   "pdf_page": 178,
+   "date": "10 November 1918",
+   "header": "A) 7M v SY (10.57 p.m., November 10th)",
+   "part": null,
+   "set": "calibration"
+  },
+  {
+   "id": "p182D",
+   "childs_page": 179,
+   "pdf_page": 182,
+   "date": "11 November 1918",
+   "header": "D) FUER UKS (18.50, November 12th) 23 TLE",
+   "part": null,
+   "set": "calibration"
+  },
+  {
+   "id": "p188_.2",
+   "childs_page": 185,
+   "pdf_page": 188,
+   "date": "13 November 1918",
+   "header": "3) CM v CZ (18.03 p.m., November 13th)",
+   "part": null,
+   "set": "calibration"
+  },
+  {
+   "id": "p195A.2",
+   "childs_page": 192,
+   "pdf_page": 195,
+   "date": "14 November 1918",
+   "header": "A) NKJ FUER UKS (06.45 p.m.,November 14th)",
+   "part": null,
+   "set": "calibration"
+  },
+  {
+   "id": "p200D",
+   "childs_page": 197,
+   "pdf_page": 200,
+   "date": "15 November 1918",
+   "header": "D) OM v CZ (065.20 p.u., November 15th)",
+   "part": null,
+   "set": "calibration"
+  },
+  {
+   "id": "p205A2",
+   "childs_page": 202,
+   "pdf_page": 205,
+   "date": "16 November 1918",
+   "header": "A) NKJ, UKS v LP (12.51 p.m., November 16th)",
+   "part": 2,
+   "set": "calibration"
+  },
+  {
+   "id": "p209A",
+   "childs_page": 206,
+   "pdf_page": 209,
+   "date": "18 November 1918",
+   "header": "A) ZON v LP (06.28 a.a-, November 19th)",
+   "part": null,
+   "set": "calibration"
+  },
+  {
+   "id": "p212C1",
+   "childs_page": 209,
+   "pdf_page": 212,
+   "date": "19 November 1918",
+   "header": "C) KOW WAU v LP (08.05 p.m., November 19th)",
+   "part": 1,
+   "set": "calibration"
+  },
+  {
+   "id": "p217B",
+   "childs_page": 214,
+   "pdf_page": 217,
+   "date": "22 November 1918",
+   "header": "B) --- v UKS (07.05 p.em., Novenber 22d)",
+   "part": null,
+   "set": "calibration"
+  },
+  {
+   "id": "p221A2",
+   "childs_page": 218,
+   "pdf_page": 221,
+   "date": "25 November 1918",
+   "header": "A) NKJ,v LP vu: (02.10 p.m., November 25th)",
+   "part": 2,
+   "set": "calibration"
+  },
+  {
+   "id": "p225A",
+   "childs_page": 222,
+   "pdf_page": 225,
+   "date": "26 November 1918",
+   "header": "A) XY v LP (02.56 a.m., December 18th, G.H.Q.Acerican E.F.)",
+   "part": null,
+   "set": "calibration"
+  },
+  {
+   "id": "p231B1",
+   "childs_page": 228,
+   "pdf_page": 231,
+   "date": "30 November 1918",
+   "header": "B) ZN v BSL (01.33 a.ni., December 1st)",
+   "part": 1,
+   "set": "calibration"
+  }
+ ]
+}

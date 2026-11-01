@@ -1,0 +1,304 @@
+{"controls": 28, "groups": 11, "pool": 49, "step": "J0", "utc": "2026-11-01T08:48:52Z"}
+{"controls": 28, "groups": 11, "pool": 49, "step": "J0", "utc": "2026-11-01T08:51:19Z"}
+{"controls": 28, "groups": 11, "pool": 49, "step": "J0", "utc": "2026-11-01T08:52:46Z"}
+{"controls": 28, "groups": 11, "pool": 49, "step": "J0", "utc": "2026-11-01T08:53:20Z"}
+{"cap": 2, "draws": 1470, "keys": ["sep19"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p062A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct04"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p071A1", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct04"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p071A2", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct04"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p072A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct04"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p072B1", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct04"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p073B", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct04"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p074A.2", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p076A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct28"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p087C", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p0924#1", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p0924#2", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p102A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p102C", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p110D", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01", "nov04"], "role": "target", "runs": 2940, "step": "J1-null-b", "unit": "p1154", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01", "nov04"], "role": "target", "runs": 2940, "step": "J1-null-b", "unit": "p119A1", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p125B", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p130B2", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p139A2", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p140A6", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p140B", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p141B.2", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p142A2+p142A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p148A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p153B4+p153B", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04", "nov07"], "role": "target", "runs": 2940, "step": "J1-null-b", "unit": "p157A2", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p166A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p166A.2", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p167A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p167A5", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07", "nov10"], "role": "target", "runs": 2940, "step": "J1-null-b", "unit": "p170D", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p173A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07", "nov10"], "role": "target", "runs": 2940, "step": "J1-null-b", "unit": "p179A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07", "nov10"], "role": "target", "runs": 2940, "step": "J1-null-b", "unit": "p179A6", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "target", "runs": 4410, "step": "J1-null-b", "unit": "p189B3", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "target", "runs": 4410, "step": "J1-null-b", "unit": "p190G", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "target", "runs": 4410, "step": "J1-null-b", "unit": "p194A.2", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_16"], "role": "target", "runs": 2940, "step": "J1-null-b", "unit": "p201A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_16", "chi_2017_comments"], "role": "target", "runs": 4410, "step": "J1-null-b", "unit": "p201D", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov16"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p207_2", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov19"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p213D", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov22"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p215A.3", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov22"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p218A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov22"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p218B1", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov22"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p218B3", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov22"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p218C", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov22"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p220B", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov25"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p222C", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov28"], "role": "target", "runs": 1470, "step": "J1-null-b", "unit": "p231B2", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "control-plant", "runs": 1470, "step": "J1-null-b", "unit": "p101B2+p101B", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "control-plant", "runs": 1470, "step": "J1-null-b", "unit": "p112D", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01", "nov04"], "role": "control-plant", "runs": 2940, "step": "J1-null-b", "unit": "p114A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "control-plant", "runs": 1470, "step": "J1-null-b", "unit": "p125D1", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "control-plant", "runs": 1470, "step": "J1-null-b", "unit": "p140A5", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "control-plant", "runs": 1470, "step": "J1-null-b", "unit": "p160A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "control-plant", "runs": 1470, "step": "J1-null-b", "unit": "p162B", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "control-plant", "runs": 1470, "step": "J1-null-b", "unit": "p165C1", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07", "nov10"], "role": "control-plant", "runs": 2940, "step": "J1-null-b", "unit": "p175E", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_16"], "role": "control-plant", "runs": 2940, "step": "J1-null-b", "unit": "p185C", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "control-plant", "runs": 4410, "step": "J1-null-b", "unit": "p196B", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov22"], "role": "control-plant", "runs": 1470, "step": "J1-null-b", "unit": "p215A2", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct28"], "role": "control-train", "runs": 1470, "step": "J1-null-b", "unit": "p083B2+p083B", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "control-train", "runs": 1470, "step": "J1-null-b", "unit": "p104D2", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04", "nov07"], "role": "control-train", "runs": 2940, "step": "J1-null-b", "unit": "p155E", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "control-train", "runs": 1470, "step": "J1-null-b", "unit": "p161E", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "control-train", "runs": 1470, "step": "J1-null-b", "unit": "p165A1", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "control-train", "runs": 1470, "step": "J1-null-b", "unit": "p169A3", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "control-train", "runs": 1470, "step": "J1-null-b", "unit": "p169B2", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07", "nov10"], "role": "control-train", "runs": 2940, "step": "J1-null-b", "unit": "p174A3", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07", "nov10"], "role": "control-train", "runs": 2940, "step": "J1-null-b", "unit": "p177A3", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_16"], "role": "control-train", "runs": 2940, "step": "J1-null-b", "unit": "p185A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_16"], "role": "control-train", "runs": 2940, "step": "J1-null-b", "unit": "p186D", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "control-train", "runs": 4410, "step": "J1-null-b", "unit": "p187C3", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "control-train", "runs": 4410, "step": "J1-null-b", "unit": "p190B", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "control-train", "runs": 4410, "step": "J1-null-b", "unit": "p192A", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_16"], "role": "control-train", "runs": 2940, "step": "J1-null-b", "unit": "p200C", "utc": "2026-11-01T10:09:29Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_16"], "role": "control-train", "runs": 2940, "step": "J1-null-b", "unit": "p201E", "utc": "2026-11-01T10:09:29Z"}
+{"controls": 28, "groups": 11, "pool": 49, "step": "J0", "utc": "2026-11-01T10:09:55Z"}
+{"controls": 28, "groups": 11, "pool": 49, "step": "J0", "utc": "2026-11-01T10:10:51Z"}
+{"cap": 2, "draws": 1470, "keys": ["sep19"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p062A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct04"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p071A1", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct04"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p071A2", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct04"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p072A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct04"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p072B1", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct04"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p073B", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct04"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p074A.2", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p076A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct28"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p087C", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p0924#1", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p0924#2", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p102A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p102C", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p110D", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01", "nov04"], "role": "target", "runs": 2940, "step": "J1-null-a", "unit": "p1154", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01", "nov04"], "role": "target", "runs": 2940, "step": "J1-null-a", "unit": "p119A1", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p125B", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p130B2", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p139A2", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p140A6", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p140B", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p141B.2", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p142A2+p142A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p148A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p153B4+p153B", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04", "nov07"], "role": "target", "runs": 2940, "step": "J1-null-a", "unit": "p157A2", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p166A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p166A.2", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p167A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p167A5", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07", "nov10"], "role": "target", "runs": 2940, "step": "J1-null-a", "unit": "p170D", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p173A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07", "nov10"], "role": "target", "runs": 2940, "step": "J1-null-a", "unit": "p179A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07", "nov10"], "role": "target", "runs": 2940, "step": "J1-null-a", "unit": "p179A6", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "target", "runs": 4410, "step": "J1-null-a", "unit": "p189B3", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "target", "runs": 4410, "step": "J1-null-a", "unit": "p190G", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "target", "runs": 4410, "step": "J1-null-a", "unit": "p194A.2", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_16"], "role": "target", "runs": 2940, "step": "J1-null-a", "unit": "p201A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_16", "chi_2017_comments"], "role": "target", "runs": 4410, "step": "J1-null-a", "unit": "p201D", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov16"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p207_2", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov19"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p213D", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov22"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p215A.3", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov22"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p218A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov22"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p218B1", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov22"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p218B3", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov22"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p218C", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov22"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p220B", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov25"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p222C", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov28"], "role": "target", "runs": 1470, "step": "J1-null-a", "unit": "p231B2", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "control-plant", "runs": 1470, "step": "J1-null-a", "unit": "p101B2+p101B", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "control-plant", "runs": 1470, "step": "J1-null-a", "unit": "p112D", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01", "nov04"], "role": "control-plant", "runs": 2940, "step": "J1-null-a", "unit": "p114A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "control-plant", "runs": 1470, "step": "J1-null-a", "unit": "p125D1", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04"], "role": "control-plant", "runs": 1470, "step": "J1-null-a", "unit": "p140A5", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "control-plant", "runs": 1470, "step": "J1-null-a", "unit": "p160A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "control-plant", "runs": 1470, "step": "J1-null-a", "unit": "p162B", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "control-plant", "runs": 1470, "step": "J1-null-a", "unit": "p165C1", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07", "nov10"], "role": "control-plant", "runs": 2940, "step": "J1-null-a", "unit": "p175E", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_16"], "role": "control-plant", "runs": 2940, "step": "J1-null-a", "unit": "p185C", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "control-plant", "runs": 4410, "step": "J1-null-a", "unit": "p196B", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov22"], "role": "control-plant", "runs": 1470, "step": "J1-null-a", "unit": "p215A2", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["oct28"], "role": "control-train", "runs": 1470, "step": "J1-null-a", "unit": "p083B2+p083B", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov01"], "role": "control-train", "runs": 1470, "step": "J1-null-a", "unit": "p104D2", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov04", "nov07"], "role": "control-train", "runs": 2940, "step": "J1-null-a", "unit": "p155E", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "control-train", "runs": 1470, "step": "J1-null-a", "unit": "p161E", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "control-train", "runs": 1470, "step": "J1-null-a", "unit": "p165A1", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "control-train", "runs": 1470, "step": "J1-null-a", "unit": "p169A3", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07"], "role": "control-train", "runs": 1470, "step": "J1-null-a", "unit": "p169B2", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07", "nov10"], "role": "control-train", "runs": 2940, "step": "J1-null-a", "unit": "p174A3", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov07", "nov10"], "role": "control-train", "runs": 2940, "step": "J1-null-a", "unit": "p177A3", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_16"], "role": "control-train", "runs": 2940, "step": "J1-null-a", "unit": "p185A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_16"], "role": "control-train", "runs": 2940, "step": "J1-null-a", "unit": "p186D", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "control-train", "runs": 4410, "step": "J1-null-a", "unit": "p187C3", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "control-train", "runs": 4410, "step": "J1-null-a", "unit": "p190B", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "control-train", "runs": 4410, "step": "J1-null-a", "unit": "p192A", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_16"], "role": "control-train", "runs": 2940, "step": "J1-null-a", "unit": "p200C", "utc": "2026-11-01T11:27:12Z"}
+{"cap": 2, "draws": 1470, "keys": ["nov10", "nov13_16"], "role": "control-train", "runs": 2940, "step": "J1-null-a", "unit": "p201E", "utc": "2026-11-01T11:27:12Z"}
+{"S": -2.39076, "above": true, "cap": 2, "keys": ["nov01"], "role": "control-plant", "runs": 1, "step": "J1-controls", "threshold": -3.722157, "unit": "p101B2+p101B", "utc": "2026-11-01T11:27:33Z"}
+{"S": -3.081402, "above": true, "cap": 2, "keys": ["nov01"], "role": "control-plant", "runs": 1, "step": "J1-controls", "threshold": -3.640618, "unit": "p112D", "utc": "2026-11-01T11:27:34Z"}
+{"S": -2.989754, "above": true, "cap": 2, "keys": ["nov01", "nov04"], "role": "control-plant", "runs": 2, "step": "J1-controls", "threshold": -3.540185, "unit": "p114A", "utc": "2026-11-01T11:27:34Z"}
+{"S": -3.951724, "above": false, "cap": 2, "keys": ["nov04"], "role": "control-plant", "runs": 1, "step": "J1-controls", "threshold": -3.548055, "unit": "p125D1", "utc": "2026-11-01T11:27:34Z"}
+{"S": -3.962705, "above": false, "cap": 2, "keys": ["nov04"], "role": "control-plant", "runs": 1, "step": "J1-controls", "threshold": -3.630791, "unit": "p140A5", "utc": "2026-11-01T11:27:34Z"}
+{"S": -3.317031, "above": false, "cap": 2, "keys": ["nov07"], "role": "control-plant", "runs": 1, "step": "J1-controls", "threshold": -3.040664, "unit": "p160A", "utc": "2026-11-01T11:27:34Z"}
+{"S": -2.737378, "above": true, "cap": 2, "keys": ["nov07"], "role": "control-plant", "runs": 1, "step": "J1-controls", "threshold": -3.515044, "unit": "p162B", "utc": "2026-11-01T11:27:34Z"}
+{"S": -3.559921, "above": false, "cap": 2, "keys": ["nov07"], "role": "control-plant", "runs": 1, "step": "J1-controls", "threshold": -3.32068, "unit": "p165C1", "utc": "2026-11-01T11:27:34Z"}
+{"S": -2.949774, "above": true, "cap": 2, "keys": ["nov07", "nov10"], "role": "control-plant", "runs": 2, "step": "J1-controls", "threshold": -3.537988, "unit": "p175E", "utc": "2026-11-01T11:27:35Z"}
+{"S": -2.88208, "above": false, "cap": 2, "keys": ["nov10", "nov13_16"], "role": "control-plant", "runs": 2, "step": "J1-controls", "threshold": -2.801443, "unit": "p185C", "utc": "2026-11-01T11:27:35Z"}
+{"S": -3.352593, "above": false, "cap": 2, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "control-plant", "runs": 3, "step": "J1-controls", "threshold": -3.215771, "unit": "p196B", "utc": "2026-11-01T11:27:35Z"}
+{"S": -4.118842, "above": false, "cap": 2, "keys": ["nov22"], "role": "control-plant", "runs": 1, "step": "J1-controls", "threshold": -3.508892, "unit": "p215A2", "utc": "2026-11-01T11:27:35Z"}
+{"S": -2.169954, "above": true, "cap": 2, "keys": ["oct28"], "role": "control-train", "runs": 1, "step": "J1-controls", "threshold": -3.769558, "unit": "p083B2+p083B", "utc": "2026-11-01T11:27:35Z"}
+{"S": -2.346727, "above": true, "cap": 2, "keys": ["nov01"], "role": "control-train", "runs": 1, "step": "J1-controls", "threshold": -3.514535, "unit": "p104D2", "utc": "2026-11-01T11:27:35Z"}
+{"S": -3.592568, "above": false, "cap": 2, "keys": ["nov04", "nov07"], "role": "control-train", "runs": 2, "step": "J1-controls", "threshold": -3.354572, "unit": "p155E", "utc": "2026-11-01T11:27:35Z"}
+{"S": -2.383192, "above": true, "cap": 2, "keys": ["nov07"], "role": "control-train", "runs": 1, "step": "J1-controls", "threshold": -3.528972, "unit": "p161E", "utc": "2026-11-01T11:27:36Z"}
+{"S": -2.548257, "above": true, "cap": 2, "keys": ["nov07"], "role": "control-train", "runs": 1, "step": "J1-controls", "threshold": -3.577701, "unit": "p165A1", "utc": "2026-11-01T11:27:36Z"}
+{"S": -3.737013, "above": false, "cap": 2, "keys": ["nov07"], "role": "control-train", "runs": 1, "step": "J1-controls", "threshold": -3.50333, "unit": "p169A3", "utc": "2026-11-01T11:27:36Z"}
+{"S": -3.465864, "above": false, "cap": 2, "keys": ["nov07"], "role": "control-train", "runs": 1, "step": "J1-controls", "threshold": -3.395478, "unit": "p169B2", "utc": "2026-11-01T11:27:36Z"}
+{"S": -3.235094, "above": true, "cap": 2, "keys": ["nov07", "nov10"], "role": "control-train", "runs": 2, "step": "J1-controls", "threshold": -3.489245, "unit": "p174A3", "utc": "2026-11-01T11:27:36Z"}
+{"S": -3.442418, "above": false, "cap": 2, "keys": ["nov07", "nov10"], "role": "control-train", "runs": 2, "step": "J1-controls", "threshold": -3.044432, "unit": "p177A3", "utc": "2026-11-01T11:27:36Z"}
+{"S": -3.345139, "above": false, "cap": 2, "keys": ["nov10", "nov13_16"], "role": "control-train", "runs": 2, "step": "J1-controls", "threshold": -2.847993, "unit": "p185A", "utc": "2026-11-01T11:27:36Z"}
+{"S": -2.492329, "above": true, "cap": 2, "keys": ["nov10", "nov13_16"], "role": "control-train", "runs": 2, "step": "J1-controls", "threshold": -2.543849, "unit": "p186D", "utc": "2026-11-01T11:27:36Z"}
+{"S": -2.713189, "above": true, "cap": 2, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "control-train", "runs": 3, "step": "J1-controls", "threshold": -3.111514, "unit": "p187C3", "utc": "2026-11-01T11:27:37Z"}
+{"S": -3.441595, "above": false, "cap": 2, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "control-train", "runs": 3, "step": "J1-controls", "threshold": -3.196054, "unit": "p190B", "utc": "2026-11-01T11:27:37Z"}
+{"S": -3.321592, "above": false, "cap": 2, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "control-train", "runs": 3, "step": "J1-controls", "threshold": -3.055254, "unit": "p192A", "utc": "2026-11-01T11:27:37Z"}
+{"S": -2.765906, "above": true, "cap": 2, "keys": ["nov10", "nov13_16"], "role": "control-train", "runs": 2, "step": "J1-controls", "threshold": -3.339329, "unit": "p200C", "utc": "2026-11-01T11:27:37Z"}
+{"S": -2.68587, "above": true, "cap": 2, "keys": ["nov10", "nov13_16"], "role": "control-train", "runs": 2, "step": "J1-controls", "threshold": -3.2115, "unit": "p201E", "utc": "2026-11-01T11:27:37Z"}
+{"S": -3.452445, "above": true, "cap": 2, "keys": ["sep19"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.627537, "unit": "p062A", "utc": "2026-11-01T11:28:17Z"}
+{"S": -3.371716, "above": true, "cap": 2, "keys": ["oct04"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.491642, "unit": "p071A1", "utc": "2026-11-01T11:28:17Z"}
+{"S": -3.382658, "above": true, "cap": 2, "keys": ["oct04"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.423139, "unit": "p071A2", "utc": "2026-11-01T11:28:17Z"}
+{"S": -2.724136, "above": true, "cap": 2, "keys": ["oct04"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.780492, "unit": "p072A", "utc": "2026-11-01T11:28:17Z"}
+{"S": -3.180168, "above": true, "cap": 2, "keys": ["oct04"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -4.014787, "unit": "p072B1", "utc": "2026-11-01T11:28:18Z"}
+{"S": -3.991769, "above": false, "cap": 2, "keys": ["oct04"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.72677, "unit": "p073B", "utc": "2026-11-01T11:28:18Z"}
+{"S": -3.764424, "above": false, "cap": 2, "keys": ["oct04"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.319466, "unit": "p074A.2", "utc": "2026-11-01T11:28:18Z"}
+{"S": -3.868987, "above": false, "cap": 2, "keys": ["nov07"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.545711, "unit": "p076A", "utc": "2026-11-01T11:28:18Z"}
+{"S": -3.61886, "above": false, "cap": 2, "keys": ["oct28"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.355965, "unit": "p087C", "utc": "2026-11-01T11:28:18Z"}
+{"S": -2.563803, "above": true, "cap": 2, "keys": ["nov01"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.768572, "unit": "p0924#1", "utc": "2026-11-01T11:28:18Z"}
+{"S": -3.502685, "above": false, "cap": 2, "keys": ["nov01"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.486551, "unit": "p0924#2", "utc": "2026-11-01T11:28:19Z"}
+{"S": -3.1199, "above": true, "cap": 2, "keys": ["nov01"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.332471, "unit": "p102A", "utc": "2026-11-01T11:28:19Z"}
+{"S": -2.921118, "above": true, "cap": 2, "keys": ["nov01"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.446818, "unit": "p102C", "utc": "2026-11-01T11:28:19Z"}
+{"S": -2.745256, "above": true, "cap": 2, "keys": ["nov01"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.570468, "unit": "p110D", "utc": "2026-11-01T11:28:19Z"}
+{"S": -3.754385, "above": false, "cap": 2, "keys": ["nov01", "nov04"], "role": "target", "runs": 2, "step": "J1-targets", "threshold": -3.392924, "unit": "p1154", "utc": "2026-11-01T11:28:19Z"}
+{"S": -3.731309, "above": false, "cap": 2, "keys": ["nov01", "nov04"], "role": "target", "runs": 2, "step": "J1-targets", "threshold": -3.472318, "unit": "p119A1", "utc": "2026-11-01T11:28:19Z"}
+{"S": -3.238521, "above": true, "cap": 2, "keys": ["nov04"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.486489, "unit": "p125B", "utc": "2026-11-01T11:28:19Z"}
+{"S": -3.527593, "above": false, "cap": 2, "keys": ["nov04"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.385419, "unit": "p130B2", "utc": "2026-11-01T11:28:19Z"}
+{"S": -2.603364, "above": true, "cap": 2, "keys": ["nov04"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.210505, "unit": "p139A2", "utc": "2026-11-01T11:28:19Z"}
+{"S": -3.500742, "above": false, "cap": 2, "keys": ["nov04"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.208694, "unit": "p140A6", "utc": "2026-11-01T11:28:19Z"}
+{"S": -3.79436, "above": false, "cap": 2, "keys": ["nov04"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.460491, "unit": "p140B", "utc": "2026-11-01T11:28:19Z"}
+{"S": -2.544736, "above": true, "cap": 2, "keys": ["nov04"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.777, "unit": "p141B.2", "utc": "2026-11-01T11:28:20Z"}
+{"S": -3.277392, "above": true, "cap": 2, "keys": ["nov04"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.743654, "unit": "p142A2+p142A", "utc": "2026-11-01T11:28:20Z"}
+{"S": -3.94733, "above": false, "cap": 2, "keys": ["nov04"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.600994, "unit": "p148A", "utc": "2026-11-01T11:28:20Z"}
+{"S": -2.535541, "above": true, "cap": 2, "keys": ["nov04"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.637826, "unit": "p153B4+p153B", "utc": "2026-11-01T11:28:20Z"}
+{"S": -3.675568, "above": false, "cap": 2, "keys": ["nov04", "nov07"], "role": "target", "runs": 2, "step": "J1-targets", "threshold": -3.286264, "unit": "p157A2", "utc": "2026-11-01T11:28:20Z"}
+{"S": -3.583519, "above": false, "cap": 2, "keys": ["nov07"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.454333, "unit": "p166A", "utc": "2026-11-01T11:28:20Z"}
+{"S": -3.468198, "above": false, "cap": 2, "keys": ["nov07"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.113359, "unit": "p166A.2", "utc": "2026-11-01T11:28:20Z"}
+{"S": -3.559789, "above": false, "cap": 2, "keys": ["nov07"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.44947, "unit": "p167A", "utc": "2026-11-01T11:28:20Z"}
+{"S": -3.484497, "above": false, "cap": 2, "keys": ["nov07"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.404113, "unit": "p167A5", "utc": "2026-11-01T11:28:20Z"}
+{"S": -3.368893, "above": true, "cap": 2, "keys": ["nov07", "nov10"], "role": "target", "runs": 2, "step": "J1-targets", "threshold": -3.431648, "unit": "p170D", "utc": "2026-11-01T11:28:21Z"}
+{"S": -3.822623, "above": false, "cap": 2, "keys": ["nov07"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.40788, "unit": "p173A", "utc": "2026-11-01T11:28:21Z"}
+{"S": -3.487423, "above": false, "cap": 2, "keys": ["nov07", "nov10"], "role": "target", "runs": 2, "step": "J1-targets", "threshold": -3.451716, "unit": "p179A", "utc": "2026-11-01T11:28:21Z"}
+{"S": -3.583519, "above": false, "cap": 2, "keys": ["nov07", "nov10"], "role": "target", "runs": 2, "step": "J1-targets", "threshold": -3.449012, "unit": "p179A6", "utc": "2026-11-01T11:28:21Z"}
+{"S": -2.156693, "above": true, "cap": 2, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "target", "runs": 3, "step": "J1-targets", "threshold": -3.288674, "unit": "p189B3", "utc": "2026-11-01T11:28:22Z"}
+{"S": -2.485951, "above": true, "cap": 2, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "target", "runs": 3, "step": "J1-targets", "threshold": -3.030044, "unit": "p190G", "utc": "2026-11-01T11:28:22Z"}
+{"S": -2.758831, "above": true, "cap": 2, "keys": ["nov10", "nov13_20", "nov13_16"], "role": "target", "runs": 3, "step": "J1-targets", "threshold": -3.306461, "unit": "p194A.2", "utc": "2026-11-01T11:28:22Z"}
+{"S": -3.615303, "above": false, "cap": 2, "keys": ["nov10", "nov13_16"], "role": "target", "runs": 2, "step": "J1-targets", "threshold": -3.421633, "unit": "p201A", "utc": "2026-11-01T11:28:23Z"}
+{"S": -3.346883, "above": false, "cap": 2, "keys": ["nov10", "nov13_16", "chi_2017_comments"], "role": "target", "runs": 3, "step": "J1-targets", "threshold": -3.307356, "unit": "p201D", "utc": "2026-11-01T11:28:23Z"}
+{"S": -3.512949, "above": false, "cap": 2, "keys": ["nov16"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.357233, "unit": "p207_2", "utc": "2026-11-01T11:28:23Z"}
+{"S": -2.324424, "above": true, "cap": 2, "keys": ["nov19"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.413721, "unit": "p213D", "utc": "2026-11-01T11:28:23Z"}
+{"S": -4.105692, "above": false, "cap": 2, "keys": ["nov22"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.682753, "unit": "p215A.3", "utc": "2026-11-01T11:28:23Z"}
+{"S": -3.683444, "above": true, "cap": 2, "keys": ["nov22"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.873206, "unit": "p218A", "utc": "2026-11-01T11:28:24Z"}
+{"S": -3.862486, "above": false, "cap": 2, "keys": ["nov22"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.49473, "unit": "p218B1", "utc": "2026-11-01T11:28:24Z"}
+{"S": -3.704747, "above": false, "cap": 2, "keys": ["nov22"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.555945, "unit": "p218B3", "utc": "2026-11-01T11:28:24Z"}
+{"S": -3.163949, "above": true, "cap": 2, "keys": ["nov22"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.749912, "unit": "p218C", "utc": "2026-11-01T11:28:24Z"}
+{"S": -3.330052, "above": true, "cap": 2, "keys": ["nov22"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.506371, "unit": "p220B", "utc": "2026-11-01T11:28:24Z"}
+{"S": -3.928508, "above": false, "cap": 2, "keys": ["nov25"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.77595, "unit": "p222C", "utc": "2026-11-01T11:28:25Z"}
+{"S": -3.315258, "above": true, "cap": 2, "keys": ["nov28"], "role": "target", "runs": 1, "step": "J1-targets", "threshold": -3.509909, "unit": "p231B2", "utc": "2026-11-01T11:28:25Z"}
+{"draws": 300, "extra": false, "letters": 495, "members": ["p130B2", "p140A6", "p140B", "p148A"], "square": "nov04", "step": "J2-null", "test": "nov04", "utc": "2026-11-01T12:19:25Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"draws": 300, "extra": false, "letters": 850, "members": ["p076A", "p166A", "p166A.2", "p167A", "p167A5", "p173A"], "square": "nov07", "step": "J2-null", "test": "nov07", "utc": "2026-11-01T12:19:25Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"draws": 300, "extra": false, "letters": 537, "members": ["p215A.3", "p218B1", "p218B3"], "square": "nov22", "step": "J2-null", "test": "nov22", "utc": "2026-11-01T12:19:25Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"draws": 300, "extra": true, "letters": 278, "members": ["p179A", "p179A6"], "square": "nov07", "step": "J2-null", "test": "nov07/nov10@nov07", "utc": "2026-11-01T12:19:25Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"draws": 300, "extra": true, "letters": 278, "members": ["p179A", "p179A6"], "square": "nov10", "step": "J2-null", "test": "nov07/nov10@nov10", "utc": "2026-11-01T12:19:25Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"above": false, "members": ["p130B2", "p140A6", "p140B", "p148A"], "pscore": -3.713154, "square": "nov04", "step": "J2-run", "test": "nov04", "threshold": -3.616406, "utc": "2026-11-01T12:19:47Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"above": false, "members": ["p076A", "p166A", "p166A.2", "p167A", "p167A5", "p173A"], "pscore": -3.671995, "square": "nov07", "step": "J2-run", "test": "nov07", "threshold": -3.656508, "utc": "2026-11-01T12:20:05Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"above": false, "members": ["p215A.3", "p218B1", "p218B3"], "pscore": -3.871026, "square": "nov22", "step": "J2-run", "test": "nov22", "threshold": -3.791277, "utc": "2026-11-01T12:20:13Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"above": false, "members": ["p179A", "p179A6"], "pscore": -3.501342, "square": "nov07", "step": "J2-run", "test": "nov07/nov10@nov07", "threshold": -3.399784, "utc": "2026-11-01T12:20:19Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"above": true, "members": ["p179A", "p179A6"], "pscore": -3.392053, "square": "nov10", "step": "J2-run", "test": "nov07/nov10@nov10", "threshold": -3.39523, "utc": "2026-11-01T12:20:24Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"draws": 60, "extra": false, "letters": 850, "members": ["p076A", "p166A", "p166A.2", "p167A", "p167A5", "p173A"], "square": null, "step": "J3-null", "test": "nov07", "utc": "2026-11-01T12:25:10Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"above": true, "members": ["p076A", "p166A", "p166A.2", "p167A", "p167A5", "p173A"], "pscore": -3.462998, "square": null, "step": "J3-run", "test": "nov07", "threshold": -3.467161, "utc": "2026-11-01T12:25:44Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"S": -3.452445, "cap": 2, "keys": ["sep19"], "runs": 1, "step": "creilly-J1", "unit": "p062A", "utc": "2026-11-01T12:26:04Z"}
+{"S": -3.394435, "cap": 2, "keys": ["oct04"], "runs": 1, "step": "creilly-J1", "unit": "p071A1", "utc": "2026-11-01T12:26:05Z"}
+{"S": -3.382658, "cap": 2, "keys": ["oct04"], "runs": 1, "step": "creilly-J1", "unit": "p071A2", "utc": "2026-11-01T12:26:05Z"}
+{"S": -3.414063, "cap": 2, "keys": ["oct04"], "runs": 1, "step": "creilly-J1", "unit": "p072A", "utc": "2026-11-01T12:26:05Z"}
+{"S": -4.034821, "cap": 2, "keys": ["oct04"], "runs": 1, "step": "creilly-J1", "unit": "p072B1", "utc": "2026-11-01T12:26:06Z"}
+{"S": -3.991769, "cap": 2, "keys": ["oct04"], "runs": 1, "step": "creilly-J1", "unit": "p073B", "utc": "2026-11-01T12:26:06Z"}
+{"S": -3.764817, "cap": 2, "keys": ["oct04"], "runs": 1, "step": "creilly-J1", "unit": "p074A.2", "utc": "2026-11-01T12:26:06Z"}
+{"S": -3.868987, "cap": 2, "keys": ["nov07"], "runs": 1, "step": "creilly-J1", "unit": "p076A", "utc": "2026-11-01T12:26:06Z"}
+{"S": -3.639171, "cap": 2, "keys": ["oct28"], "runs": 1, "step": "creilly-J1", "unit": "p087C", "utc": "2026-11-01T12:26:06Z"}
+{"S": -2.563803, "cap": 2, "keys": ["nov01"], "runs": 1, "step": "creilly-J1", "unit": "p0924#1", "utc": "2026-11-01T12:26:08Z"}
+{"S": -4.120658, "cap": 2, "keys": ["nov01"], "runs": 1, "step": "creilly-J1", "unit": "p0924#2", "utc": "2026-11-01T12:26:08Z"}
+{"S": -3.279355, "cap": 2, "keys": ["nov01"], "runs": 1, "step": "creilly-J1", "unit": "p102A", "utc": "2026-11-01T12:26:08Z"}
+{"S": -3.863064, "cap": 2, "keys": ["nov01"], "runs": 1, "step": "creilly-J1", "unit": "p102C", "utc": "2026-11-01T12:26:08Z"}
+{"S": -3.374466, "cap": 2, "keys": ["nov01"], "runs": 1, "step": "creilly-J1", "unit": "p110D", "utc": "2026-11-01T12:26:09Z"}
+{"S": -3.754385, "cap": 2, "keys": ["nov01", "nov04"], "runs": 2, "step": "creilly-J1", "unit": "p1154", "utc": "2026-11-01T12:26:09Z"}
+{"S": -3.684633, "cap": 2, "keys": ["nov01", "nov04"], "runs": 2, "step": "creilly-J1", "unit": "p119A1", "utc": "2026-11-01T12:26:09Z"}
+{"S": -3.332372, "cap": 2, "keys": ["nov04"], "runs": 1, "step": "creilly-J1", "unit": "p125B", "utc": "2026-11-01T12:26:09Z"}
+{"S": -3.484911, "cap": 2, "keys": ["nov04"], "runs": 1, "step": "creilly-J1", "unit": "p130B2", "utc": "2026-11-01T12:26:09Z"}
+{"S": -3.514136, "cap": 2, "keys": ["nov04"], "runs": 1, "step": "creilly-J1", "unit": "p139A2", "utc": "2026-11-01T12:26:09Z"}
+{"S": -3.514282, "cap": 2, "keys": ["nov04"], "runs": 1, "step": "creilly-J1", "unit": "p140A6", "utc": "2026-11-01T12:26:10Z"}
+{"S": -3.770582, "cap": 2, "keys": ["nov04"], "runs": 1, "step": "creilly-J1", "unit": "p140B", "utc": "2026-11-01T12:26:10Z"}
+{"S": -3.671262, "cap": 2, "keys": ["nov04"], "runs": 1, "step": "creilly-J1", "unit": "p141B.2", "utc": "2026-11-01T12:26:10Z"}
+{"S": -3.277392, "cap": 2, "keys": ["nov04"], "runs": 1, "step": "creilly-J1", "unit": "p142A2+p142A", "utc": "2026-11-01T12:26:10Z"}
+{"S": -3.837101, "cap": 2, "keys": ["nov04"], "runs": 1, "step": "creilly-J1", "unit": "p148A", "utc": "2026-11-01T12:26:10Z"}
+{"S": -3.639992, "cap": 2, "keys": ["nov04"], "runs": 1, "step": "creilly-J1", "unit": "p153B4+p153B", "utc": "2026-11-01T12:26:10Z"}
+{"S": -3.659741, "cap": 2, "keys": ["nov04", "nov07"], "runs": 2, "step": "creilly-J1", "unit": "p157A2", "utc": "2026-11-01T12:26:10Z"}
+{"S": -3.464615, "cap": 2, "keys": ["nov07"], "runs": 1, "step": "creilly-J1", "unit": "p166A", "utc": "2026-11-01T12:26:10Z"}
+{"S": -3.468198, "cap": 2, "keys": ["nov07"], "runs": 1, "step": "creilly-J1", "unit": "p166A.2", "utc": "2026-11-01T12:26:10Z"}
+{"S": -3.451914, "cap": 2, "keys": ["nov07"], "runs": 1, "step": "creilly-J1", "unit": "p167A", "utc": "2026-11-01T12:26:11Z"}
+{"S": -3.446918, "cap": 2, "keys": ["nov07"], "runs": 1, "step": "creilly-J1", "unit": "p167A5", "utc": "2026-11-01T12:26:11Z"}
+{"S": -3.272244, "cap": 2, "keys": ["nov07", "nov10"], "runs": 2, "step": "creilly-J1", "unit": "p170D", "utc": "2026-11-01T12:26:11Z"}
+{"S": -3.822623, "cap": 2, "keys": ["nov07"], "runs": 1, "step": "creilly-J1", "unit": "p173A", "utc": "2026-11-01T12:26:11Z"}
+{"S": -3.487423, "cap": 2, "keys": ["nov07", "nov10"], "runs": 2, "step": "creilly-J1", "unit": "p179A", "utc": "2026-11-01T12:26:11Z"}
+{"S": -3.282845, "cap": 2, "keys": ["nov07", "nov10"], "runs": 2, "step": "creilly-J1", "unit": "p179A6", "utc": "2026-11-01T12:26:12Z"}
+{"S": -3.303205, "cap": 2, "keys": ["nov10", "nov13_20", "nov13_16"], "runs": 3, "step": "creilly-J1", "unit": "p189B3", "utc": "2026-11-01T12:26:12Z"}
+{"S": -2.488096, "cap": 2, "keys": ["nov10", "nov13_20", "nov13_16"], "runs": 3, "step": "creilly-J1", "unit": "p190G", "utc": "2026-11-01T12:26:12Z"}
+{"S": -2.758831, "cap": 2, "keys": ["nov10", "nov13_20", "nov13_16"], "runs": 3, "step": "creilly-J1", "unit": "p194A.2", "utc": "2026-11-01T12:26:13Z"}
+{"S": -3.619338, "cap": 2, "keys": ["nov10", "nov13_16"], "runs": 2, "step": "creilly-J1", "unit": "p201A", "utc": "2026-11-01T12:26:14Z"}
+{"S": -3.346883, "cap": 2, "keys": ["nov10", "nov13_16", "chi_2017_comments"], "runs": 3, "step": "creilly-J1", "unit": "p201D", "utc": "2026-11-01T12:26:14Z"}
+{"S": -3.512949, "cap": 2, "keys": ["nov16"], "runs": 1, "step": "creilly-J1", "unit": "p207_2", "utc": "2026-11-01T12:26:14Z"}
+{"S": -2.73629, "cap": 2, "keys": ["nov19"], "runs": 1, "step": "creilly-J1", "unit": "p213D", "utc": "2026-11-01T12:26:14Z"}
+{"S": -4.105692, "cap": 2, "keys": ["nov22"], "runs": 1, "step": "creilly-J1", "unit": "p215A.3", "utc": "2026-11-01T12:26:15Z"}
+{"S": -3.703961, "cap": 2, "keys": ["nov22"], "runs": 1, "step": "creilly-J1", "unit": "p218A", "utc": "2026-11-01T12:26:15Z"}
+{"S": -3.60439, "cap": 2, "keys": ["nov22"], "runs": 1, "step": "creilly-J1", "unit": "p218B1", "utc": "2026-11-01T12:26:15Z"}
+{"S": -3.741799, "cap": 2, "keys": ["nov22"], "runs": 1, "step": "creilly-J1", "unit": "p218B3", "utc": "2026-11-01T12:26:16Z"}
+{"S": -3.16685, "cap": 2, "keys": ["nov22"], "runs": 1, "step": "creilly-J1", "unit": "p218C", "utc": "2026-11-01T12:26:16Z"}
+{"S": -3.330052, "cap": 2, "keys": ["nov22"], "runs": 1, "step": "creilly-J1", "unit": "p220B", "utc": "2026-11-01T12:26:16Z"}
+{"S": -4.166216, "cap": 2, "keys": ["nov25"], "runs": 1, "step": "creilly-J1", "unit": "p222C", "utc": "2026-11-01T12:26:17Z"}
+{"S": -3.707837, "cap": 2, "keys": ["nov28"], "runs": 1, "step": "creilly-J1", "unit": "p231B2", "utc": "2026-11-01T12:26:17Z"}
+{"pscore": -3.750175, "step": "creilly-J2", "test": "nov04", "utc": "2026-11-01T12:26:24Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"pscore": -3.825798, "step": "creilly-J2", "test": "nov07", "utc": "2026-11-01T12:26:38Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"pscore": -3.776862, "step": "creilly-J2", "test": "nov22", "utc": "2026-11-01T12:26:47Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"pscore": -3.546348, "step": "creilly-J2", "test": "nov07/nov10@nov07", "utc": "2026-11-01T12:26:52Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"pscore": -3.41322, "step": "creilly-J2", "test": "nov07/nov10@nov10", "utc": "2026-11-01T12:26:56Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}
+{"pscore": -3.552707, "step": "creilly-J3", "test": "nov07", "utc": "2026-11-01T12:27:10Z", "widths": [15, 16, 17, 18, 19, 20, 21, 22]}

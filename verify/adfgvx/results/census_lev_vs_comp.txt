@@ -1,0 +1,2 @@
+Levenshtein cost (mine, vs printed) == comp's cost on 590/591
+('p059B', 4.0, '3', 'C_page_reread', 'True')

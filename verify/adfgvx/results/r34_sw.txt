@@ -1,0 +1,74 @@
+{
+ "target": "p155E",
+ "source": "p139B",
+ "len_target": 104,
+ "len_source": 314,
+ "p_match_chance": 0.16716362103298357,
+ "sw_top5": [
+  [
+   "p139B",
+   170
+  ],
+  [
+   "p123B1",
+   20
+  ],
+  [
+   "p187B2",
+   20
+  ],
+  [
+   "p230D",
+   20
+  ],
+  [
+   "p134A4",
+   18
+  ]
+ ],
+ "sw_median": 12.0,
+ "sw_n": 682,
+ "sw_max_excluding_source": 20,
+ "sw_obs": 170,
+ "sw_shuffle_max": 26,
+ "sw_shuffle_mean": 13.46875,
+ "sw_shuffle_N": 20000,
+ "sw_shuffle_ge_obs": 0
+}
+{
+ "target": "p192A",
+ "source": "p188_.2",
+ "len_target": 90,
+ "len_source": 96,
+ "p_match_chance": 0.16716362103298357,
+ "sw_top5": [
+  [
+   "p188_.2",
+   87
+  ],
+  [
+   "p126A3",
+   21
+  ],
+  [
+   "p201E",
+   20
+  ],
+  [
+   "p131B1",
+   19
+  ],
+  [
+   "p123B1",
+   18
+  ]
+ ],
+ "sw_median": 12.0,
+ "sw_n": 682,
+ "sw_max_excluding_source": 21,
+ "sw_obs": 87,
+ "sw_shuffle_max": 27,
+ "sw_shuffle_mean": 11.83005,
+ "sw_shuffle_N": 20000,
+ "sw_shuffle_ge_obs": 0
+}

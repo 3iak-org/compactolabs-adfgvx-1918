@@ -1,0 +1,203 @@
+{
+ "R3_global_vs_tail104": {
+  "cost": 12.0,
+  "exact": 91,
+  "mismatch": 10,
+  "wild": 2,
+  "ndel": 1,
+  "nins": 1,
+  "del_idx": [
+   24
+  ],
+  "ins_idx": [
+   28
+  ],
+  "desc": [
+   "sub S[0]=X -> P[0]=F",
+   "sub S[1]=G -> P[1]=X",
+   "sub S[2]=X -> P[2]=V",
+   "sub S[3]=F -> P[3]=A",
+   "sub S[4]=F -> P[4]=D",
+   "sub S[22]=F -> P[22]=G",
+   "gap: S[24:25]=G absent from P (P idx 24)",
+   "extra: P[28:29]=V absent from S",
+   "sub S[64]=G -> P[64]=X",
+   "sub S[66]=F -> P[66]=V",
+   "sub S[67]=V -> P[67]=X",
+   "sub S[95]=V -> P[95]=X"
+  ]
+ },
+ "R3_chance": {
+  "n_compared": 101,
+  "k_exact": 91,
+  "p_match": 0.16716362103298357,
+  "expected_exact": 16.883525724331342,
+  "binom_tail_p": 6.377332625666115e-59
+ },
+ "R3_shuffle_null_cost": {
+  "obs_cost": 12.0,
+  "min": 54.0,
+  "mean": 67.6453,
+  "n_le_obs": 0,
+  "N": 20000
+ },
+ "R3_hamming_tail": 88,
+ "R3_hamming_best_offsets": [
+  [
+   88,
+   210
+  ],
+  [
+   29,
+   109
+  ],
+  [
+   28,
+   101
+  ]
+ ],
+ "R3_placed_decrypt": {
+  "letters_determined": 6,
+  "agree": 3,
+  "disagree": [
+   [
+    58,
+    "K",
+    "M"
+   ],
+   [
+    75,
+    "I",
+    "N"
+   ],
+   [
+    92,
+    "D",
+    "K"
+   ]
+  ],
+  "text": "??????????????????????????????????????????????????????????K????????????????I????????????????D????????????????D????????????????F????????????????T?????????????"
+ },
+ "R3_standalone_decrypt_LIT_perquad": {
+  "chi_2017_comments": -1.2059999704360962,
+  "ours_nov07_18col": -1.7619999647140503,
+  "nov13_16": -1.9160000085830688,
+  "childs_jul22": -1.968000054359436,
+  "dec09_history": -1.9869999885559082
+ },
+ "R3_standalone_nov04": "CTEKBU0MUOEAT9W?IYL64H7WZL249FT1PR0BZXHQFTCE4CEKU?NF",
+ "R4_global": {
+  "cost": 22.0,
+  "exact": 63,
+  "mismatch": 16,
+  "wild": 11,
+  "ndel": 6,
+  "nins": 0,
+  "del_idx": [
+   72,
+   74,
+   75,
+   76,
+   77,
+   94
+  ],
+  "ins_idx": [],
+  "desc": [
+   "sub S[25]=X -> P[25]=A",
+   "sub S[31]=A -> P[31]=G",
+   "sub S[37]=V -> P[37]=X",
+   "sub S[48]=G -> P[48]=V",
+   "sub S[49]=V -> P[49]=X",
+   "sub S[54]=F -> P[54]=V",
+   "sub S[58]=F -> P[58]=V",
+   "sub S[62]=V -> P[62]=X",
+   "sub S[63]=V -> P[63]=X",
+   "sub S[70]=X -> P[70]=V",
+   "gap: S[72:73]=F absent from P (P idx 72)",
+   "gap: S[74:78]=VFAD absent from P (P idx 73)",
+   "sub S[79]=G -> P[74]=X",
+   "sub S[82]=X -> P[77]=V",
+   "sub S[84]=F -> P[79]=V",
+   "sub S[88]=D -> P[83]=X",
+   "sub S[89]=F -> P[84]=D",
+   "gap: S[94:95]=F absent from P (P idx 89)",
+   "sub S[95]=F -> P[89]=V"
+  ]
+ },
+ "R4_chance": {
+  "n_compared": 79,
+  "k_exact": 63,
+  "p_match": 0.16716362103298357,
+  "expected_exact": 13.205926061605702,
+  "binom_tail_p": 1.3897403188985067e-34
+ },
+ "R4_shuffle_null_cost": {
+  "obs_cost": 22.0,
+  "min": 44.0,
+  "mean": 53.6275,
+  "n_le_obs": 0,
+  "N": 20000
+ },
+ "R4_reconstructed_stream": "D-GAGG-AAVV--AXFVXXVADAXXAGAVD-GXAXV-X-----VAVDXVXXXVGVXAAVAGAXXGAXXFXVX-X----FXXGVVVDFFXDXAXD-V",
+ "R4_decrypt_of_reconstruction": "GE?TC???NU??TOUNUO?GLI?H0B?FEH?ABA??WC?XIX??TN??",
+ "R4_decrypt_of_p188_.2": "GESTELLUNGAUTUUNMOEGLICHXBEFEHLABWARTENXIXVRENTE",
+ "R4_published_plaintext_p188_.2": "GESTELLUNGAUTUUNMOEGLICHXBEFEHLABWARTENXIXVRENTE",
+ "R4_letters_determined": 31,
+ "R4_letters_agree": 22,
+ "R4_disagree": [
+  [
+   4,
+   "C",
+   "E"
+  ],
+  [
+   9,
+   "U",
+   "G"
+  ],
+  [
+   13,
+   "O",
+   "U"
+  ],
+  [
+   16,
+   "U",
+   "M"
+  ],
+  [
+   24,
+   "0",
+   "X"
+  ],
+  [
+   33,
+   "A",
+   "W"
+  ],
+  [
+   36,
+   "W",
+   "T"
+  ],
+  [
+   37,
+   "C",
+   "E"
+  ],
+  [
+   44,
+   "T",
+   "E"
+  ]
+ ],
+ "R4_standalone_nov13_16": "WUH1MW??IEW?C0??I?XBT?U?AU?IS6C?H6WP?C?APM???",
+ "R4_standalone_decrypt_LIT_perquad": {
+  "oct04": -1.8559999465942383,
+  "ours_nov07_18col": -1.9550000429153442,
+  "nov04": -2.0,
+  "nov10": -2.0290000438690186,
+  "nov19": -2.0789999961853027
+ },
+ "R4_published_perquad_LIT": -1.180006980895996
+}

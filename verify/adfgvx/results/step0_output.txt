@@ -1,0 +1,9 @@
+solved entries with plaintext+key: 595
+{'mismatch': 31, 'ok': 511, 'strict': 317, 'len': 53}
+ciphertext==printed for 471 of 595
+period key, length repaired {'mismatch': 26, 'len': 53}
+known key reading from two blind readings of the page {'ok': 15, 'mismatch': 1}
+period key, as transcribed {'ok': 465}
+known key reading by a model read of the decode {'ok': 29, 'mismatch': 3}
+known key repair (2 edits) {'mismatch': 1}
+known key repair (0 edits) {'ok': 2}

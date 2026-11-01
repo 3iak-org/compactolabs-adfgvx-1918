@@ -1,0 +1,1338 @@
+{
+ "agent": 5,
+ "pages": [
+  {
+   "pdf_page": 177,
+   "page_date_line": "10th NOVEMBER, 1918.",
+   "blocks": [
+    {
+     "block_index": 0,
+     "heading": "A) --- v ZO'N (07.24 p.m., November 10th)",
+     "preamble": [
+      "17.50    3 TLE"
+     ],
+     "label": "1 TL RICHI-146",
+     "part": 1,
+     "count": 146,
+     "lines": [
+      "DVDXA VDVAF FDFFD DDDGG VAGAD DGAXG DVAAX GGDDD",
+      "ADVVV AVDDX XVAGD GFVDA GVDXX XFDDD XAAFD VVVVV",
+      "GXGDA DDGVV FXXFF XVVFF DVXXX XFXVD XXFXV DDFXV",
+      "AAAFX XDXAA FDDAX AGDDG GGVAG A"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "Heading time printed '07.24' with the 4 malformed (could be read 07.2\u00bc). Preamble '17.50' last digit faint (looks like C)."
+    },
+    {
+     "block_index": 1,
+     "heading": "A) --- v ZO'N (07.24 p.m., November 10th)",
+     "preamble": [],
+     "label": "2 TL RICHI-146",
+     "part": 2,
+     "count": 146,
+     "lines": [
+      "GVDVA AGADV FXXXX GAVDD FDAGD DXAXG FDFDF GGDVV",
+      "AVADD XVDDA GXXGD DAGDA AGVXX FXFXX FDVDD VGGGA",
+      "DVDDV ADVAG ADADA VVDXX XDXDX DVVDX AXFAV XDVGG",
+      "AVDDG DGDDA ADGFV DDVDV GDADV D"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": ""
+    },
+    {
+     "block_index": 2,
+     "heading": "A) --- v ZO'N (07.24 p.m., November 10th)",
+     "preamble": [],
+     "label": "3 TL RICHI-98",
+     "part": 3,
+     "count": 98,
+     "lines": [
+      "DDDVA DXVAX VAGDD DGADD DXDAG VVGAF AVGGA XDVVV",
+      "GAVGX XXXDV DDDAF XGVDG FXFXX ADDAX XXAVA XXDX"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 0,
+       "group": 0,
+       "read": "DDDVA",
+       "alt": "DD?VA",
+       "why": "3rd letter is a D with a horizontal bar/overstrike through it (looks like a struck-over character)"
+      }
+     ],
+     "notes": "Printed below groups: '(Did not finish)'. Only 79 symbols of 98 given; last group XXDX has 4 letters. 3rd letter of first group overstruck (D with bar)."
+    },
+    {
+     "block_index": 3,
+     "heading": "B) CM v CZ  (07.20 p.m., November 12th)",
+     "preamble": [
+      "19.30"
+     ],
+     "label": "RIZI-74",
+     "part": null,
+     "count": 74,
+     "lines": [
+      "DVFVG DFXFD ADAAF XFFDX DVXXF XAVAA AGXVA VVVVA",
+      "DAVDV AXFFV XDXVD FDDXA DDDDD XXXDD VDVD"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "Page section date '12th NOVEMBER, 1918.' printed above B). The '4' in the label is heavily inked/overstruck."
+    },
+    {
+     "block_index": 4,
+     "heading": "C) CM v CZ (08.11 p.m.,November 12th)",
+     "preamble": [
+      "21.00"
+     ],
+     "label": "RIZI-48",
+     "part": null,
+     "count": 48,
+     "lines": [
+      "VVVFF VDAVA XXVDA XXFAD DXGXV DDAAG DVFDV DXGFA",
+      "DAGVX DDA"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": -1,
+       "group": -1,
+       "read": "RIZI-48",
+       "alt": "RIZI-46",
+       "why": "label digits very faint; 2nd digit shaped like this typeface's 8 (loop with top stroke)"
+      }
+     ],
+     "notes": "Label digits very faint; best reading '48' (alt '46'); 48 symbols printed. A stray dot on the 2nd line to the right of DDA."
+    },
+    {
+     "block_index": 5,
+     "heading": "D) -- v -- (10.43 November 12th)",
+     "preamble": [
+      "11.30"
+     ],
+     "label": "RIZI-40",
+     "part": null,
+     "count": 40,
+     "lines": [
+      "ADFFD FVGAG VAFXD GAFDX DDVAG AXFGG XXFAX VXDXD"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": ""
+    },
+    {
+     "block_index": 6,
+     "heading": "E) CM v CZ (17.28 p.m.,November 12th)",
+     "preamble": [
+      "18.20"
+     ],
+     "label": "RIZI-46",
+     "part": null,
+     "count": 46,
+     "lines": [
+      "AVGDX DVADX AAVFF XVXGD XFDFD AVAGD XGFXV FXVAD",
+      "FFVDD V"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "pdf_page": 178,
+   "page_date_line": "10th NOVEMBER, 1918.",
+   "blocks": [
+    {
+     "block_index": 0,
+     "heading": "A) ZM v SY    (10.57 p.m., November 10th)",
+     "preamble": [
+      "VE (10)  2 TLE"
+     ],
+     "label": "1 TL RICHI-192",
+     "part": 1,
+     "count": 192,
+     "lines": [
+      "DGAAF GAVXD FGXXV AVFVF VDAVA AGVVV DVGVD VXXGG",
+      "XXDXD AVXAA FDGAG DAADD VDGDV DXADV DDFDA GAVGX",
+      "VGDGV VVXFX DXVXX XVDDX VGVFA DDAGG GVGVG GFAVV",
+      "VDDAF DXDXD AAFXX DXXXF VAGDD XGFXF XXGVG XGVAV",
+      "AVVAA AVAVD XFVXX DGGFX GAADF DGDDA AD"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "Heading time printed '10.57' with the 0 looking like C. A stray dot in the left margin of the last line. Page header: 'Employed between Berlin and the Black Sea Area', 'INTERCEPTED BY BRITISH STATIONS.'"
+    },
+    {
+     "block_index": 1,
+     "heading": "A) ZM v SY    (10.57 p.m., November 10th)",
+     "preamble": [],
+     "label": "2 TL RICHI-104",
+     "part": 2,
+     "count": 104,
+     "lines": [
+      "ADDAA ADFXX AADDV GGGFV XDXDF DAGAD GGDFX FXXAA",
+      "VAFVA GFFVX VFGVA DGVGV AAGGV DFADD DADXD XXAVD",
+      "VAXXA VVVAF DXFFX XFDAF AXGG"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": ""
+    },
+    {
+     "block_index": 2,
+     "heading": "B) LP v NKJ    (6.02 p.m., November 10th)",
+     "preamble": [],
+     "label": "2 TL RICHI-304",
+     "part": 2,
+     "count": 304,
+     "lines": [
+      "-ADVV -V-GG GGDXD GXVDV VGDDX ADVFG V-GDG DVDGG",
+      "GXDVV GVXXA GXDXX DXGAX FFXDA XDADA AVFFV XXDDD",
+      "DGGFG AGDDD VVXVG VDVGX VFFVF GGGFD VVAGG DDFDV",
+      "VDGXX VDVVX XXAAD XXGVG VVFXV VDGVF VA-F- FXVAD",
+      "VVAFG V-GXX DVXDV VDVXV VGDDD A-AXA XXDFD DXDXD",
+      "XV--"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": -1,
+       "group": -1,
+       "read": "RICHI-304",
+       "alt": "RICHI-204",
+       "why": "label printed '3C4'/'2C4': first digit looks like a 3 with a 2-like flat foot (possibly overstruck 2/3); middle digit is a C-shaped 0"
+      }
+     ],
+     "notes": "Only a '2 TL' part is given under B (no 1 TL on this page). Label first digit ambiguous 3/2; 204 symbol positions printed (incl. dashes). Many dashes in groups as printed."
+    },
+    {
+     "block_index": 3,
+     "heading": "C) LP v NKJ    (5.40 p.m., Nove mber 10th)",
+     "preamble": [
+      "VON UKS  KR 0915  (10/11)  6 TLE"
+     ],
+     "label": "1 TL RICHI-212",
+     "part": 1,
+     "count": 212,
+     "lines": [
+      "DAVAV AAGGD VVGFD XXDDX XVXVG DGXGD VVDVG FVDAA",
+      "VVGFG VAXDV XVGAA AVAGA GFGGA AGDVX DVFDD XVFDG",
+      "AVAAX DDVDG FDXGX AXXGX VFXGG AFGAG VDDAX DADVG",
+      "DAGDV GDAAA DVXXX VA--- DXXXG XDVXX VXXGV DXAXX",
+      "XFXFA FAGVF XDGVG GGDDV VAVVA AAAXX GVAXG VAXXD",
+      "AAGDX AFADD AA"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 0,
+       "group": 5,
+       "read": "DGXGD",
+       "alt": "DG?GD",
+       "why": "3rd letter is an inked overstrike blob (two characters struck on top of each other); upper part looks like X/V"
+      }
+     ],
+     "notes": "Heading has a space inside 'Nove mber'. Group DGXGD has a heavy overstrike on the 3rd letter. A dot printed right after GGDDV (line 4)."
+    },
+    {
+     "block_index": 4,
+     "heading": "C) LP v NKJ    (5.40 p.m., Nove mber 10th)",
+     "preamble": [],
+     "label": "2 TL RICHI-208",
+     "part": 2,
+     "count": 208,
+     "lines": [
+      "DXGVV FGVDV DDGDX DGXXV GDVDD XVDGA AVGAA AFGXF",
+      "FXXXX DXDFX FXDVD DVGAF VVDFV FDXXF FXGXG XVDGD",
+      "AAVAA DXADD GXXAD DXVDD GFXDD VFDDA DDAGA VDAGV",
+      "DDGDV FDDGX DXGFF VFXDF VXVAX GFXGA AFXGX DFXXG",
+      "FXVFX AXVXV VXFVG GAXAX ADDDX AXFDX FGAVD ADVDF",
+      "GGADD VDA"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": ""
+    },
+    {
+     "block_index": 5,
+     "heading": "C) LP v NKJ    (5.40 p.m., Nove mber 10th)",
+     "preamble": [],
+     "label": "3 TL RICHI-222",
+     "part": 3,
+     "count": 222,
+     "lines": [
+      "AVDVD DVADV AVADX XXFDG DXDXF XGGAF GAAVG VAGAD",
+      "DVAXX XDXGA FVFGV AD--- AGAGD VGXXV AGFFG DFDDX",
+      "DFDVA AVAXD FDAGA VGGXX VVVXX DVVAA AAVVD VAAF-",
+      "DGGAV AADAD DDAVX VGXDD VFGFD GXAFF DFVFA XXXDV",
+      "GFDAG AFGDF XGDAF XVDDD XADGG DAGAX XDDFX FFVVX",
+      "DVFGA DAVDV VAAAG XF"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "Label middle digit is smaller/raised but reads as 2. 217 symbol positions printed vs 222 in label. On line 2 the gap between VGGXX and VVVXX is narrower than usual. '(Continued)' printed at bottom of page; the message (6 TLE) continues on next page with further parts."
+    }
+   ]
+  },
+  {
+   "pdf_page": 179,
+   "page_date_line": "10th NOVEMBER, 1918.",
+   "blocks": [
+    {
+     "block_index": 0,
+     "heading": "A) LP v NKJ    (5.40 p.m., November 10th)",
+     "preamble": [
+      "VON UKS  KR 0915 (10/11)  6 TLE"
+     ],
+     "label": "4 TL RICHI-224",
+     "part": 4,
+     "count": 224,
+     "lines": [
+      "VVAVD ADDDD DFGGV DGAXG AVDAV AVDAD GAVD AV---",
+      "FXFXX XXAFA XAFGV ADAVV ADADD AXXFA ADAAD VDFGA",
+      "VDVAD VAADG VVVFX VFDDX DFFXX GXGVV VDXGD VVDVV",
+      "AFDV- ADV-- GFDAG XXFFD GFXDD AXFGD DAXDX AXVFF",
+      "DAGAG XXDXV DXVGA AVVGD GGFVA GF--- VXXVD VVFXX",
+      "VDVFV VDDDG ADAA-"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "Repeats the heading of message C on the previous page (parts 4-6 of the 6 TLE message). Group GAVD (line 0) has only 4 letters. A dot over/between the X's of VXXVD (line 4). Small dot after '4 TL'. 214 symbol positions vs label 224."
+    },
+    {
+     "block_index": 1,
+     "heading": "A) LP v NKJ    (5.40 p.m., November 10th)",
+     "preamble": [],
+     "label": "5 TL RICHI-168",
+     "part": 5,
+     "count": 168,
+     "lines": [
+      "VAADG ADAVF FXDFF VXGAX VDAVV DDAXD DFDGX VVDFX",
+      "GVGFA AGGVF ----- XGDGX ADAVV AVDGF DFAAX FXFXV",
+      "GDFXD AADAA GAAAG DGGDV ADVDX DXXXA XXGXV GXVVX",
+      "ADXVG FXAVG VFDVF XGADA VVADA DVDDA GXDXX XDVAD",
+      "VGDAD FGG"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": ""
+    },
+    {
+     "block_index": 2,
+     "heading": "A) LP v NKJ    (5.40 p.m., November 10th)",
+     "preamble": [],
+     "label": "6 TL RICHI-160",
+     "part": 6,
+     "count": 160,
+     "lines": [
+      "AVDAX DDGAG XGGXF XFVAD VVGAV VVDGX GXXDD XXXXX",
+      "FFVGA VVGAV AXDDX FXXXX DXDAD XAGFV FXAF- -----",
+      "----- ----- ----- ----- ----- ----- ----- -----",
+      "----- ----- ----- ----- ----- ----- ----- -----"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "Last two lines entirely dashes (lost symbols)."
+    },
+    {
+     "block_index": 3,
+     "heading": "B) LP v Z\u00d6N    (3.38 a.m., November 11th)",
+     "preamble": [
+      "2305 (10)  3 TLE"
+     ],
+     "label": "1 TL RICHI-240",
+     "part": 1,
+     "count": 240,
+     "lines": [
+      "GGDAA FXAVD FFFDG XXAGV XXXDV XAAFV GAGAF VFAGA",
+      "VDDDD AVXGF FAFXG XXXXX GAVAA AAGDV GGGVA AXDVX",
+      "XXFAD FXXXX DGVDG FDVGD DAADV XXXFV XGXXD XGGGG",
+      "AGVDG VAGGG DVVDF VAFAV VVXDF DFFFF XXXAX XGVDX",
+      "XFXDF FXXDX XXXXV GGGDA FGGDX VVVAA FDVFX XVXXF",
+      "VGGFG DAAFV GGGGX AVVVV"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "220 symbols printed vs label 240."
+    },
+    {
+     "block_index": 4,
+     "heading": "B) LP v Z\u00d6N    (3.38 a.m., November 11th)",
+     "preamble": [],
+     "label": "2 TL RICHI-252",
+     "part": 2,
+     "count": 252,
+     "lines": [
+      "GGFVV DVDGD GDAGV FXFXG FFXGX XDDDD XVDDV AADVA",
+      "DAGVD VVVAG XFXFX AAXXV VXVDD FDDVV VGVGD DAXVF",
+      "XGXFD XDVXD VXFVG VDAVF AVAAA VDAFF AXXVF AXGXG",
+      "VFGXX DFXDD VGGDG DDAVD DADAG DVAXA DDAVA GGXAX",
+      "GDXXV XGDDA XVDFV DAGXD AXAXG DXDXX AXFGD XXXDX",
+      "XXVDA GAGAD DVDVD DXAXD VFDXX XGDVX DVXFA XVGDD",
+      "FGAXV XDFAA DA"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "A dot printed after XGDDA (line 4)."
+    },
+    {
+     "block_index": 5,
+     "heading": "B) LP v Z\u00d6N    (3.38 a.m., November 11th)",
+     "preamble": [],
+     "label": "3 TL RICHI-272",
+     "part": 3,
+     "count": 272,
+     "lines": [
+      "VAVDD GDDDV DAVVF AGVAG XXVVA XXXXX DAGXA FDAAA",
+      "ADGAA FAVDG VXXDV DXFXG XGDXA GVVDX DAVDD VDAVA",
+      "DDDDD AXDDX GGGDF XXXFA GXADG FVAVA AVVAV DGVVF",
+      "FGGFG VXVGF XVXGX XGAGG VGDAA VFVVD VDVAV AVFAV",
+      "DDAAF DGFGD DXXGF FXDGF XFFAX XFVFX XXXGF FAFXA",
+      "XFDXX DAFXV XXDGX FXXAG VDGDF GVADV VGDDG DAGDX",
+      "VXFGX GXFFF GAFVA DVDXG DFFAD GVVAG FD"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": ""
+    }
+   ]
+  },
+  {
+   "pdf_page": 182,
+   "page_date_line": "11th, NOVEMBER, 1918.",
+   "blocks": [
+    {
+     "block_index": 0,
+     "heading": "A) KS CZ FG v XF ( 20.07          November 11th)",
+     "preamble": [],
+     "label": "RICHI-266",
+     "part": null,
+     "count": 266,
+     "lines": [
+      "DXAAD AGDVA AVFDA FFXVA AXVFA FGAVX DXXAG AAAVA",
+      "VAVFA ADVVX DDGVG FXXXF DXFXV FDGFD AVXVA ADADG",
+      "ADADG VAVGX XXDFD XXVXA FFFAD GADDV GVDGV DVVVD",
+      "XFXDD FXDFG XFFDD FAAGD VAVAD DGGDA AGAVA VDVVV",
+      "GGDDV DVVDV DADFX XFXAF AXFFX AXADX XFXFG AXADG",
+      "FADXA FXGGV XDXVV GVXXF AFGAV VDADD FAVAV DVXXG",
+      "XFFXA VGVGF XXAFA AVVVD FAXDG VXFAX F"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "STRIKE-THROUGH: the first group of line 2, ADADG, is struck through (overtyped with hyphens); it repeats the last group of line 1. It is included in 'lines' as printed; excluding it gives 266 symbols = label (271 with it). 'November' in heading printed 'Novemoer' (faint b). A small tick mark below the A of XXAFA (line 6); small dots near XFXFG and DADFX (line 4)."
+    },
+    {
+     "block_index": 1,
+     "heading": "B) WAU v LP (15.50, November 11th)",
+     "preamble": [
+      "KR (15.53)"
+     ],
+     "label": "RICHI-158",
+     "part": null,
+     "count": 158,
+     "lines": [
+      "GDXVG DADAD DDGXX FXGXA VDVAX AAVGA GDXDX VVXGA",
+      "DFVVD GGVDD DXFGV GDDDG AFXDD VGXVD XXDDF VVXFV",
+      "AVADX DGXVV AVFXV DFVDX DFDXA XXDGX VXFDD GVGAF",
+      "FFXXG XXFGG AAVDD VXDXX GXFDX XAAAD GDFAA FFA"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "Below the groups, in the group column, a trailer line 'NF  NF  NF' (not included in lines). In preamble '(15.53)' the second 5 is overstruck."
+    },
+    {
+     "block_index": 2,
+     "heading": "C) --- v ZO'N (10.25 p.m. November 11th)",
+     "preamble": [
+      "BERLIN W. 14 SN SN",
+      "TED von LP FUER UKS NV NV",
+      "2000 FUER LP   KK  11  KK   (11)   KR"
+     ],
+     "label": "RICHI-232",
+     "part": null,
+     "count": 232,
+     "lines": [
+      "FDAAA DXDDG VVVDA VAXXX AXXVD XGVDD GDAAV AADAD",
+      "DDAFX XXFDD XFAXX XADAV AVGDD AGFAX AFADG VVDFX",
+      "GXDXX XDADV ADAVV VADVA AAVVX FVXFF XDXDA XAVGD",
+      "GFAGG DDDAD DGGDG VDADV DDDDG XFAXD DVXXX VDFFX",
+      "DXDGX FVDDF GGFFV ADXXX VXADA FGDDG GVDVV GVDAG",
+      "GDAXV VDXXG GDDGF DXVDA AGADF VDDXV DG"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "Below the groups a trailer line 'WP  WP  WP  FF   NKJ v ZO'N' (not included in lines). After this block a date line '12th, NOVEMBER, 1918.' is printed (right side)."
+    },
+    {
+     "block_index": 3,
+     "heading": "D) FUER UKS (18.50, November 12th)  2 TLE",
+     "preamble": [],
+     "label": "1 TL RICHI-190",
+     "part": 1,
+     "count": 190,
+     "lines": [
+      "FDAVG AFFDG DGVXA FVVAG DGFFA XXVVF GADFD XVXAX",
+      "FVXFV DXVGX XFDVV FAAAX XVXAF FGFDX VAGGA XAGDF",
+      "GGXVV VGAAV XFGGD DFXAG XXGFG GDVDD AVGFG DFAAA",
+      "AADAV FFVXV XGXVX FGVAD GXGAA ADVAF VFGVA FFFAV",
+      "AAAAX AGFGV VVXVX VVFFX XAFGX FXXDA"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "Section date above D): '12th, NOVEMBER, 1918.'"
+    },
+    {
+     "block_index": 4,
+     "heading": "D) FUER UKS (18.50, November 12th)  2 TLE",
+     "preamble": [],
+     "label": "2 TL RICHI-212",
+     "part": 2,
+     "count": 212,
+     "lines": [
+      "AAVAF VFFAA GFFAF AVGFD FFGDF XVXXG XVVAF VAXAF",
+      "XAVAX XXVGX VAFFA FADGX FDXGD GDXVA XXVAX DXFFG",
+      "AFFFX GAGVF ADGFG AVFFX XXADX DXXFX VXAAX XVDDF",
+      "VGADA XAADG VAAFX VXFAF AFFVA VXAAA XXAXX GDVVA",
+      "DFFFF AGAVV GFGAG GAFVG VGFDX VGVXG AFXFF FVGFV",
+      "XVVXV VFAVF AX"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "'2 TL' is printed on its own line with a blank line before 'RICHI-212' and the groups. Several A's printed without crossbar."
+    }
+   ]
+  },
+  {
+   "pdf_page": 185,
+   "page_date_line": "12th NOVEMBER, 1918.",
+   "blocks": [
+    {
+     "block_index": 0,
+     "heading": "A) CM v CZ (19.35 p.m., November 12th)",
+     "preamble": [
+      "19.30"
+     ],
+     "label": "RIZI-74",
+     "part": null,
+     "count": 74,
+     "lines": [
+      "VVFVG XAVTA AGXVA VVVVA DAVDV AXFFI XD-VD FDDXA",
+      "DDDDD --NTD DVDVD"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "Non-ADFGVX letters printed as shown: XAVTA (T), AXFFI (I), --NTD (N, T). On line 1, after DVDVD and a gap, 'CZ UM' is printed in the 5th group column (looks like a call-sign trailer; not included in lines). Label 'RIZI' has its first I overstruck by another character. Only 55 symbol positions vs label 74."
+    },
+    {
+     "block_index": 1,
+     "heading": "B) CM v CZ (20.45 p.m., November 12th)",
+     "preamble": [
+      "20.20"
+     ],
+     "label": "RIZI-62",
+     "part": null,
+     "count": 62,
+     "lines": [
+      "DDVVD AXVDV XFGFD DVGAF VFAFV AXAFF AADXA ADDGX",
+      "AXFVD FXGAX DAGGG GDGVA AX"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "On line 1, after AX and a gap, 'CM UM' printed in the 6th group column (call-sign trailer; not included in lines)."
+    },
+    {
+     "block_index": 2,
+     "heading": "C) CM v CZ (21.25 p.m., November 12th)",
+     "preamble": [
+      "21.00"
+     ],
+     "label": "RIZI-56",
+     "part": null,
+     "count": 56,
+     "lines": [
+      "VVVFF VDAFA XXVDA XXFAD DXGXV DDAAG DVFDV DXGFA",
+      "DAGVX DDAX"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "On line 1, after DDAX and a gap, 'CZ' printed in the 4th group column (trailer; not included in lines). Preamble '21.00' first digit overstruck. 49 symbols vs label 56. This group sequence closely resembles RIZI-48 on pdf p177 (C)."
+    }
+   ]
+  },
+  {
+   "pdf_page": 186,
+   "page_date_line": "12th, NOVEMBER, 1918.",
+   "blocks": [
+    {
+     "block_index": 0,
+     "heading": "A) CZ v CM   (20.00p.m., November 12th)",
+     "preamble": [
+      "20.00"
+     ],
+     "label": "RIZI-64",
+     "part": null,
+     "count": 64,
+     "lines": [
+      "DDDDX XVGAG DDVGG FVDAD DXFXA GGDVV AGXDA GXGVV",
+      "GVDAD AVAXD DDDDA DDXDX AVAG"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 0,
+       "group": 0,
+       "read": "DDDDX",
+       "alt": "?DDDX",
+       "why": "first letter is a D overstruck by another character (blotted top)"
+      }
+     ],
+     "notes": "On line 1 after AVAG: 'NF   CM   UM' in the group columns (trailer; not included in lines). Heading '20.00p.m.' has the p overstruck."
+    },
+    {
+     "block_index": 1,
+     "heading": "B) CM v CZ   (18.54 p.m.  November 12th)",
+     "preamble": [
+      "19.10"
+     ],
+     "label": "RIZI -74",
+     "part": null,
+     "count": 74,
+     "lines": [
+      "DVFVZ DFXFD ADAAF XFFDX DVXXF XAVAA AZXVA VVVVA",
+      "DAWDV AXFFV XDXVD FDDXA BBBBB XXXDD VDVD"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 1,
+       "group": 2,
+       "read": "XDXVD",
+       "alt": "?DXVD",
+       "why": "first X is overstruck on another character"
+      }
+     ],
+     "notes": "Non-ADFGVX letters printed as shown: DVFVZ (Z), AZXVA (Z), DAWDV (W), BBBBB. Label printed with a space: 'RIZI -74'. After VDVD at end of line 1: 'CZ UM' (trailer; not included in lines)."
+    },
+    {
+     "block_index": 2,
+     "heading": "C) CM v CZ   (17.26 p.m., November 12th)",
+     "preamble": [
+      "18.20"
+     ],
+     "label": "RIZI-46",
+     "part": null,
+     "count": 46,
+     "lines": [
+      "AVXDX DVADX AAVFF XVXGD XFDFD AVAGD XGFXV FXVAD",
+      "FFVDD V"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "After V on line 1: 'CZ' in the 3rd group column (trailer; not included in lines). Preamble '18.20' first digits faint."
+    },
+    {
+     "block_index": 3,
+     "heading": "D) CZ v CM   (17.20 p.m., November 12th)",
+     "preamble": [
+      "12.40"
+     ],
+     "label": "RIZI-27",
+     "part": null,
+     "count": 27,
+     "lines": [
+      "AAXDF AVDFA AADAG FVVAG DDAGV DDVFF VGDVG DX"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 0,
+       "group": 0,
+       "read": "AAXDF",
+       "alt": "AA?DF",
+       "why": "3rd character is a small raised x/asterisk-like mark, not a full-size letter"
+      },
+      {
+       "line": 0,
+       "group": 2,
+       "read": "AADAG",
+       "alt": "?ADAG",
+       "why": "first A has a slash struck through it"
+      },
+      {
+       "line": 0,
+       "group": 5,
+       "read": "DDVFF",
+       "alt": "DDVFE",
+       "why": "last letter looks like F with a bottom serif (E-like)"
+      }
+     ],
+     "notes": "Next line under the groups: 'CM   UM' (trailer; not included in lines). Typing is poor/light in this block. 37 symbols printed vs label 27 (label clearly 27)."
+    },
+    {
+     "block_index": 4,
+     "heading": "E) CM v CZ   (17.12 p.m., November 12th)",
+     "preamble": [
+      "17.40"
+     ],
+     "label": "RIZI-36",
+     "part": null,
+     "count": 36,
+     "lines": [
+      "AAXXF AVDFA AADAG FVVAG DDAGV DDVFF VGDVG D"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": ""
+    },
+    {
+     "block_index": 5,
+     "heading": "F) -- v --   (14.05 p.m. November 12th)",
+     "preamble": [
+      "12.10"
+     ],
+     "label": "RICHI-230",
+     "part": null,
+     "count": 230,
+     "lines": [
+      "AAGAX AGAVV DVGAA XXXDV DXFDD DXXGF AGDAA FGAGG",
+      "DDGXF XFDVX XXFGX XXGDX VDGAG VGADA GDXGX XGXXD",
+      "XXFFX DGGFA AGDGD XADDA XGXXD DDXVG XXAVV AGADF",
+      "DGGAG AVGAG DGAAA GVFVG VADXX XXVFF GDXGV VGADD",
+      "FVAFG XDXXG DXDXX AFXXD XF--F GVXDG ADXGX AAGDA",
+      "VAVDA VGXXA AAXFD GAAAA DAVGA VFFVG"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 0,
+       "group": 7,
+       "read": "FGAGG",
+       "alt": "FGAAG",
+       "why": "4th letter is G and A struck on top of each other"
+      }
+     ],
+     "notes": "A blank line separates the first printed line from the rest. Heading 'p.m.' has the p overstruck/bold. Group spacing irregular in some lines (e.g. 'XXGDX VDGAG', 'GVFVG')."
+    },
+    {
+     "block_index": 6,
+     "heading": "G) CM v CZ   (01.25, November 12th)",
+     "preamble": [
+      "02.10"
+     ],
+     "label": "",
+     "part": null,
+     "count": null,
+     "lines": [],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "Heading and preamble only at the bottom of this page; no label or groups follow. The next PDF page (187) starts with a fresh page header and its own 'A) 2 TL RICHI-202' block, so no groups for G were found."
+    }
+   ]
+  },
+  {
+   "pdf_page": 187,
+   "page_date_line": "13th NOVEMBER, 1918.",
+   "blocks": [
+    {
+     "block_index": 0,
+     "heading": "A)",
+     "preamble": [],
+     "label": "2 TL RICHI-202",
+     "part": 2,
+     "count": 202,
+     "lines": [
+      "XAADG AFGVG ADXVA GGDFV VAFDA AFXGG GVXXD AGAFX",
+      "AFXFA XVVVX XFXXA XXXFA DVXFX AXVVV VGDFG AFFAG",
+      "FGAVD XGAVF FXXGX AVXDG DXGXD XXXAX GFAGF AFAVA",
+      "AFAGA AFAAG AGAFF AVGXA AFXAV AGAFD DXGFG XFVFF",
+      "AVDAF FFXGF FGXVA FFXVA FVAFF FFDGA DXXDV FXVFA",
+      "DG"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 2,
+       "group": 4,
+       "read": "DXGXD",
+       "alt": "D?GXD",
+       "why": "2nd letter X is overstruck/bold"
+      }
+     ],
+     "notes": "Heading is only 'A)' followed directly by '2 TL'; no station/time line. No 1 TL on this page. Right-hand column faint."
+    },
+    {
+     "block_index": 1,
+     "heading": "B) NKJ v LP (02.51 a.m., November 13th)",
+     "preamble": [
+      "FUER UKS  DRINGEND 13.40 (13/11)  3 TLE"
+     ],
+     "label": "1 TL RICHI-146",
+     "part": 1,
+     "count": 146,
+     "lines": [
+      "VFXVX GFXAG FXAFF VXDVA AFFDV VXDVX ADAFX XVXXX",
+      "AXXXX DAFVG XFAXF FXXVG VXVXD XXXXD XXFDF AFFFX",
+      "ADVFG VFVFX DGXVD GFXFA FVXDD VXXDV FVGDF DDAFF",
+      "DAXVD VFGAF FDGGX VFVXF GVDVV G"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "In FXAFF (line 0) and FXXVG (line 1) the 2nd letter X is overstruck/bold."
+    },
+    {
+     "block_index": 2,
+     "heading": "B) NKJ v LP (02.51 a.m., November 13th)",
+     "preamble": [],
+     "label": "2 TL RICHI-192",
+     "part": 2,
+     "count": 192,
+     "lines": [
+      "XXXXA XXAAF GVAVX FVVXA FXXXV XAXXX DVADV VXXVV",
+      "XAGXX XDXXG XVVXV XDXXX XVDVD XFAXD FDXXA XXXXA",
+      "XGAXX AXXDV XXAGV AFVFX XXVFF FFFDD XXXAV XAXDV",
+      "VVGGX AXXFV XVDXD DFGDX AAVVF XVAAV FXFXF FDAFG",
+      "XFDFD DXVVF GXVDX GVFDD GXVVX FD"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "187 symbols printed vs label 192. Slightly larger line gap before line 3."
+    },
+    {
+     "block_index": 3,
+     "heading": "B) NKJ v LP (02.51 a.m., November 13th)",
+     "preamble": [],
+     "label": "3 TL RICHI-110",
+     "part": 3,
+     "count": 110,
+     "lines": [
+      "XFXVA XFDVD VFVVV GXVGD VDGVD XAVDF XXXXA AXADX",
+      "FDXVV XXXVX DVAVV AAVVD DVDVF FADXA XXAAF GDFVG",
+      "AVXGV DAGVX VDVAX XXGGV GVFDX DGDVD"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": ""
+    },
+    {
+     "block_index": 4,
+     "heading": "C) ZO'N v NKJ (02.15 a.m.,November 13th)",
+     "preamble": [
+      "SS von LP FUER UKS 13.40 3 TLE (13/11)"
+     ],
+     "label": "1 TL RICHI-136",
+     "part": 1,
+     "count": 136,
+     "lines": [
+      "VFXDX XAXAX VFVVF FDVVV XFXXX VGVXD GAXXV XVXDF",
+      "XXXVX XVFAF GAFVG VFDAA XXXXD VFDDD VFGXD AVGDF",
+      "FVFDA FGFGF DVXAX XDAFF VFVFX FAVAA FADAX DDVVD",
+      "VXFGX FFFDF GGFXF X"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": ""
+    },
+    {
+     "block_index": 5,
+     "heading": "C) ZO'N v NKJ (02.15 a.m.,November 13th)",
+     "preamble": [],
+     "label": "2 TL RICHI-190",
+     "part": 2,
+     "count": 190,
+     "lines": [
+      "XXXXA DXXAF GVAVX DDFXA FXXXF FDXXX DVXXV VXDVA",
+      "VXVXA XAGXX XVXAG XVVXV XDXXX XVDVD XFFFF VDXXA",
+      "XXXAA XDAXX DXXXV XAGVX FVVXX XVFVD XGDDX XXAAD",
+      "VDDVV VGGFD DXFVX VDXVV XGXAA VVFAX AAVFX FAXXD",
+      "AFGXF DFXVX VVFGX AFVFV FDDGX XAXFD"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 3,
+       "group": 7,
+       "read": "FAXXD",
+       "alt": "FAX??",
+       "why": "rightmost column very faint; last two letters partly missing"
+      }
+     ],
+     "notes": "Right-hand column faintly printed."
+    },
+    {
+     "block_index": 6,
+     "heading": "C) ZO'N v NKJ (02.15 a.m.,November 13th)",
+     "preamble": [],
+     "label": "3 TL RICHI-108",
+     "part": 3,
+     "count": 108,
+     "lines": [
+      "XFXVA XFDVD VFVVV GXVGD VDGVD XAVDF XXXXA AXADX",
+      "FDXVV XXXVD VAVVA AVVDD VDVFF ADXAX XAAFG DFVGA",
+      "VXGVD AGVXV DVAXX XGGVG VFDXD GDV"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 0,
+       "group": 7,
+       "read": "AXADX",
+       "alt": "AXAD?",
+       "why": "rightmost column very faint"
+      },
+      {
+       "line": 1,
+       "group": 7,
+       "read": "DFVGA",
+       "alt": "DF?GA",
+       "why": "rightmost column very faint"
+      }
+     ],
+     "notes": "First line identical to the first line of B) 3 TL RICHI-110 on this page (as printed). Right column faint."
+    }
+   ]
+  },
+  {
+   "pdf_page": 188,
+   "page_date_line": "13th NOVEMBER, 1918.",
+   "blocks": [
+    {
+     "block_index": 0,
+     "heading": "A) NKJ v LP (03.08 a.m., November 13th)",
+     "preamble": [],
+     "label": "2 TL RICHI-244",
+     "part": 2,
+     "count": 244,
+     "lines": [
+      "XAXFV DFFXX AFVGA DXDFF FVAXX VXFVV XXDFX FAFGD",
+      "AAXXV XXVXA AXVXF XDXVX XFXXV XXXXA VXXFX XFXAV",
+      "XAFAV DFXAD FFXFD DGVXD XXXXV XGDXV DXXVV DXXAX",
+      "AGDGX ADXVX FFDXX FFVXF XVGVD GFDXX XFFAV XXXGD",
+      "GAVFV VGDDF XFDDX XFDAX XXGDV VVFXD XGDGD DDFGX",
+      "XXVDV XFGAG DFDXF D-VGV XXXAG XFDFX VDAVV VDXDX",
+      "FFDA"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 4,
+       "group": 3,
+       "read": "XFDAX",
+       "alt": "XXDAX",
+       "why": "2nd letter: F and X struck on top of each other"
+      }
+     ],
+     "notes": "Only a 2 TL part under A on this page (no 1 TL). Heading letter 'A)' partly cut at the page edge."
+    },
+    {
+     "block_index": 1,
+     "heading": "B) NKJ v LP (07.57 p.m., November 13th)",
+     "preamble": [
+      "FUER COS",
+      "SS GENERAL V KRESS TIFLIS 19.59 (13/11)"
+     ],
+     "label": "RICHI-268",
+     "part": null,
+     "count": 268,
+     "lines": [
+      "FAAVX AXAAG XGVXD GXGDV AAXFX GXDAX XGXXX XFXDX",
+      "FXXXF XXGFX XAXXX AAVXX VVXAD AFGDV XXADV AXXXX",
+      "DXVXA XXXXX XAGFD XDFXV DFVXF DAFFX XXAGV XFXXD",
+      "GXDAA XXDFX AAGXV GAXXF ADDFX FXVGX ADDAF VVXXD",
+      "VXFDV FFDDX FXXVD XFXDX XXFAX GFDVF GGVXF VVXGX",
+      "DVFFF XDXVX XXVGD VXXVX DFFVG XGVFX FVXXA XADVX",
+      "GGDAX XFVVF DXXVG XFVVF DXXVG VDDXA FXAVV DXXD"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 5,
+       "group": 5,
+       "read": "XGVFX",
+       "alt": "XGVEX",
+       "why": "4th letter is an overstrike (F/E-like over another letter, possibly X)"
+      }
+     ],
+     "notes": "Preamble time printed '1$.59': second digit overstruck (9 with a vertical stroke; could be 3/8/9). Heading '(07.57' has a mark over the parenthesis; 'November' printed 'Novemoer'. 279 symbols printed vs label 268."
+    },
+    {
+     "block_index": 2,
+     "heading": "C) CM v CZ (18.03 p.m., November 13th)",
+     "preamble": [
+      "18.35"
+     ],
+     "label": "RIZI-96",
+     "part": null,
+     "count": 96,
+     "lines": [
+      "DXGAG GXAAV VFFAX FVXXV ADAXX XGAVD FAXAX VFVFF",
+      "VVAVA VDXGV XXVGF XAAFA GAVVG AXXFX XXFXV FADFG",
+      "XGXVF DFFDF XAXDF F"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": ""
+    },
+    {
+     "block_index": 3,
+     "heading": "D) CM v CZ (20.15 p.m., November 13th)",
+     "preamble": [
+      "21.00"
+     ],
+     "label": "RIZI-198",
+     "part": null,
+     "count": 198,
+     "lines": [
+      "DFVVX AGAFA GVVFX FGVGA XGFAX XVXXD AXFXX XGAFX",
+      "VXAXV GXDXX VXGDF GFXAX FAVXG XXXXV GFFFA VFVVV",
+      "FDDXA XAVAX GFXDV FFGDF VXGVD XXFAD GXAVF GADFF",
+      "VGDAF GFAVF AFAXG GDDGX GGXGD AGGFV AFGFD ADVDX",
+      "DGVGA AAGGV VFXXA FDGDA FXGXA DAGXG VAD"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "193 symbols printed vs label 198. Right column faint."
+    }
+   ]
+  },
+  {
+   "pdf_page": 189,
+   "page_date_line": "13th, NOVEMBER, 1918.",
+   "blocks": [
+    {
+     "block_index": 0,
+     "heading": "A) SU v LP  (06.33 a.m.,November 13th)",
+     "preamble": [
+      "20.50 (13/11) 2 TLE"
+     ],
+     "label": "1 TL RICHI-170",
+     "part": 1,
+     "count": 170,
+     "lines": [
+      "FAFAA VFGFX XAFFF FGAVF DXGGG GXVVA GFXVF FVXVX",
+      "AVAVA VXVGA FXXGD XGGXG FFFFX FFGAG FDGAA FXFXX",
+      "FGXXG AXXFX AGVFX FGFVF DXFGF GFAGF AFVFG VXFFF",
+      "VAGGA AVVXV XFAAA XFXAA DFXFX GF--- GGVAF XAAAG",
+      "VXADX XDXGG"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "Preamble '2 TLE': the 2 is overstruck/bold."
+    },
+    {
+     "block_index": 1,
+     "heading": "A) SU v LP  (06.33 a.m.,November 13th)",
+     "preamble": [],
+     "label": "2 TL RICHI-174",
+     "part": 2,
+     "count": 174,
+     "lines": [
+      "FXFVV VDFAA GFAFA AGGAV XDXDX AVDFV FDGFG FAXAX",
+      "DXDXX GVXVX GXAGD VXFFX XAADV GAXFG AADFV VXVXX",
+      "FFFXV DFDVG FXXXF XFADD GGDDA AAGVG FGGGG FAVDX",
+      "VXAXA XXXXD AFAFG VVGAV VFDXA FAFFD ADAAA AFAFV",
+      "VFDVA XXGXX GXAV"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 0,
+       "group": 4,
+       "read": "XDXDX",
+       "alt": "VDXDX",
+       "why": "first letter is X and V struck on top of each other (looks like M)"
+      },
+      {
+       "line": 0,
+       "group": 5,
+       "read": "AVDFV",
+       "alt": "AVDFX",
+       "why": "last letter V has a bar/underline below, possible overstrike"
+      }
+     ],
+     "notes": ""
+    },
+    {
+     "block_index": 2,
+     "heading": "B) NKJ v LP  (06.23 a.m., November 13th)",
+     "preamble": [
+      "FUER WAU  07.00  2 TLE"
+     ],
+     "label": "1 TL RICHI-308",
+     "part": 1,
+     "count": 308,
+     "lines": [
+      "VGXVF ADGVF GFFAA GXDFV VDAFD DGDAA GGAGX FGAAA",
+      "FDDDG XXFXX XAXGX GXXDA DFDDV XDGFA GXAAA VDXVD",
+      "VFXDV FDGDD XVVXX ADGXG VDGXG XXGDG AVXXG AAVFV",
+      "GFDXG ????? ????? FGGGA AFGFA GVXVD DXXXF AFFVF",
+      "GXFVV VVAGX DGFXF XDAVF FXVXV XVVVA FDAFV VGAFD",
+      "VVGVX VGVXV FVVFX FGAGG FVXGD DDDDG AVXVV XVFGG",
+      "AXAGV DVFDF GVDFX FFGXF FXVGG GVAAV XVGVF VFAXV",
+      "GFADD VVXAX FAAFA AFFAD FDDAV DAVGX XXXXA GXX"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 2,
+       "group": 2,
+       "read": "XVVXX",
+       "alt": "X?VXX",
+       "why": "2nd letter is a Y-like mark (V with a lower stem / overstrike), read as V"
+      },
+      {
+       "line": 7,
+       "group": 5,
+       "read": "DAVGX",
+       "alt": "DAVQX",
+       "why": "4th letter printed like Q (G with tail/stroke below)"
+      }
+     ],
+     "notes": "Line 3 groups 2 and 3 are illegible: the scan shows only scattered speckle (erased/blotted area); transcribed as ?????. Small dots near DAVGX (line 7). 318 symbol positions (incl. 10 ?) vs label 308."
+    },
+    {
+     "block_index": 3,
+     "heading": "B) NKJ v LP  (06.23 a.m., November 13th)",
+     "preamble": [],
+     "label": "2 TL RICHI-242",
+     "part": 2,
+     "count": 242,
+     "lines": [
+      "FGAFF VAAFF AFVDA ADVAA GFXAV FAVDV VXGVX XAVGF",
+      "FGVDD FXXVX AVXGV FXFVD DXFVV XVVDF FFXDF XAXGA",
+      "XXVXD XXDDG GFAVA AFVVF XAAGV FXXAD VXGVX VXADD",
+      "DXXDV VXXVF AFAFD XAFFA GDVFV FGVDA XAFFV DVAFX",
+      "AFAFA VVXVV XXAAF VAXVD DDXAF VFAXA FGFXV XGAGA",
+      "AFVVA FAFVV GGVDV VAAAG AGFAV DVGXF GXXAA XXXXA",
+      "DA"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": "Line 4 (AFAFA ... XGAGA) is printed in an italic typeface, unlike the rest. Label printed 'RICHI\u25ac242' with a heavy dash."
+    },
+    {
+     "block_index": 4,
+     "heading": "C) KQN v LP  (06.26 a.m., November 13th)",
+     "preamble": [
+      "17.40 (13/11) 2 TLE"
+     ],
+     "label": "1 TL RICHI-182",
+     "part": 1,
+     "count": 182,
+     "lines": [
+      "GFGFV AXVGD GDDVX FDGGF VFAAV VFGGV XGFVV FVVVG",
+      "FFAAX AGGXV XXXVV GXFVD XXGAX FFXAF GXFFF AADXG",
+      "DXDAF XXXVX XFDDV FXXAD XGXGV VFFXV FFAFF VGFAV",
+      "FFGAA AXDXX FVVXG XAVGF AGFXA DXGXA FDDGF VVVVD",
+      "DVDGG AAGXF GFAFX VXADX FF"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 2,
+       "group": 6,
+       "read": "FFAFF",
+       "alt": "?FAFF",
+       "why": "first F overstruck/bold"
+      }
+     ],
+     "notes": "Heading call sign printed 'KQN' with bold/overstruck Q and N (could be KON/KOW). After FF: '(Continued)'. The message is 2 TLE but the 2 TL part does not appear at the top of the next PDF page (190 starts with a new page header and A) SU v LP); this 1 TL block itself is complete (182 symbols)."
+    }
+   ]
+  },
+  {
+   "pdf_page": 190,
+   "page_date_line": "13th NOVEMBER,1918.",
+   "blocks": [
+    {
+     "block_index": 0,
+     "heading": "A) SU v LP  (07.52 a.m., November 13th)",
+     "preamble": [
+      "10.50 MK (13/11) 2 TLE"
+     ],
+     "label": "1 TL CHI-212",
+     "part": 1,
+     "count": 212,
+     "lines": [
+      "FFVXV GVVXA XFAFA DAXVX GADDV VVAVV VXVFV GVAAX",
+      "VVADA DVFAD XGDDF GVAAD VAVGA VFDAF FFDFF AVAFV",
+      "DXFAF AAFXA FXXAG XXDXA DGFAX GFGAD XFGFF VAAXG",
+      "FADAA AFDXG VGAFX FXDXX ADADD FGADA GVAFA AGXGD",
+      "XGXAX VGGXF FDXAG XDAGX AXFAV FFVVV AAFAV FFVAA",
+      "ADFAG FAFDV DF"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 3,
+       "group": 0,
+       "read": "FADAA",
+       "alt": "FAD?A",
+       "why": "4th letter is A overstruck on another character (possibly B/D)"
+      }
+     ],
+     "notes": "Label printed 'CHI-212' (the 'RI' of RICHI is missing as printed, not cut off: blank margin to its left). Heavy dash in label."
+    },
+    {
+     "block_index": 1,
+     "heading": "A) SU v LP  (07.52 a.m., November 13th)",
+     "preamble": [],
+     "label": "2 TL RICHI-142",
+     "part": 2,
+     "count": 142,
+     "lines": [
+      "AFAFF AXDVA VVVVF ADVFA GXGVX AGVAX AXGGA AAAAA",
+      "ADDVV XVGAG AGXVV FGAAF VVXGD GGAVG VFDVD VDDDV",
+      "DXFAD DDDAX ADVVG AAFFG XGXAG GDADF VFXDA DGDDG",
+      "GAAXD VDFAD FFDDX VADDV GD"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [],
+     "notes": ""
+    },
+    {
+     "block_index": 2,
+     "heading": "B) POT v NKJ (16.30 p.m.,November 13th)",
+     "preamble": [
+      "SSD 16.20  UND LEG (13/11) NV BESSER GEBEN GRUPPEN ABSTAENDE",
+      "SSD 22.30  (6/11)KR DTY von LP 3 TLE"
+     ],
+     "label": "1 TL RICHI-214",
+     "part": 1,
+     "count": 214,
+     "lines": [
+      "ADFAX GGVFX FAFAA AVXVA FXAXV FXDFF XAVVG FGXAV",
+      "AAGFA AVFXA AVXVD AVXVD DAGVD FXFAF XDXAV XDXV-",
+      "DXDGA DXDGA XXXXF GVGFA AGVAX AXDFA XXAXV GAAXV",
+      "DFVVX VGXGV XXVFA AGFXV"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 0,
+       "group": 4,
+       "read": "FXAXV",
+       "alt": "FXAVV",
+       "why": "4th letter: X and V struck on top of each other"
+      }
+     ],
+     "notes": "Below the groups: '(Jammed by FL unable to read NKJ)'. Preamble: '16.20' overstruck (16.2O bold, could be 16.30), 'GRUPPEN' has overstruck N, '22.30' has an overstruck/underlined second 2. 140 symbol positions vs label 214."
+    },
+    {
+     "block_index": 3,
+     "heading": "C) NKJ v LP (16.09,p.m.,November 13th)",
+     "preamble": [
+      "FUER UKS 12.45 (13/11)"
+     ],
+     "label": "RICHI-134",
+     "part": null,
+     "count": 134,
+     "lines": [
+      "DGGXX XAFGX AAADV AAXVX VXXXX VVXGD FFXDX FADFD",
+      "XVFFX VFXFV FVVXX XVXXX XXGXX XXGGX AFVGA ADXFG",
+      "AFXVX AVFFV XVXDF ADDXA AVDFX FFDXX FFXXV DGVAX",
+      "DDXVF DGXXD XXDX"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 2,
+       "group": 6,
+       "read": "FFXXV",
+       "alt": "FXXXV",
+       "why": "2nd letter is a bold overstrike looking like E (F over X or similar); first F also has a dot"
+      }
+     ],
+     "notes": "A small raised mark (like ' or I) right after FFDXX on line 2. Preamble '12.45' with 4 malformed."
+    },
+    {
+     "block_index": 4,
+     "heading": "D) NKJ v LP (03.04a.m., November 13th)",
+     "preamble": [
+      "FUER UKS 20.12, (13/11)  2 TLE"
+     ],
+     "label": "1 TL RICHI-252",
+     "part": 1,
+     "count": 252,
+     "lines": [
+      "XXFAX GDXXX XXXGD DDXFD VDGXX FFFAD FVVAA AFXAV",
+      "XXVXX XXXXX VXFGX FADXF VXXXG XXFXV FXFAF XAAVA",
+      "XVXDA XXGFV VAADX VFFVX FAXXD XXVXD XXAVF VFVXA",
+      "AAXXF XDGFX AVGXD GXAVX VDDXX XDAXX VDDVD GXAFV",
+      "DXVDD AVDFV DVDXV GFVVV VVXFD XDVDD XDGDX ADXVG",
+      "FFXXX XDFXF XXVXD VXVFX AXAFG XAXGD AGVFD VVVGA",
+      "DDDAA DG"
+     ],
+     "continued_from_previous_page": false,
+     "continues_on_next_page": false,
+     "uncertain": [
+      {
+       "line": 0,
+       "group": 4,
+       "read": "VDGXX",
+       "alt": "VDGXV",
+       "why": "last letter is X and V struck together (looks like M)"
+      }
+     ],
+     "notes": "A thin hand-drawn-looking stroke precedes GFVVV (line 4), in the gap; not a typed dash, not transcribed. After DG: '(Continued)'; the 2 TL part does not appear on the next PDF page (191 starts a new page header with A) ---vZON). Preamble '2 TLE' has an overstruck 2. 247 symbols vs label 252."
+    }
+   ]
+  }
+ ]
+}

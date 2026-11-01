@@ -1,0 +1,9 @@
+claimed key, stage-2 full tier, 10 seeds: max -0.9432, found in 8/10
+solver budget: {'r1': 6000, 'topk': 400, 'quick': (10, 3), 'full_top': 20, 'full': (100, 20)} (run with topk 300, full_top 5)
+real     n=  3 mean -1.0584 sd 0.0147 max -1.0415  cpu/run 17.0s
+shuffle  n= 60 mean -1.0691 sd 0.0242 max -0.9963  cpu/run 16.6s
+decoy    n= 60 mean -1.0413 sd 0.0290 max -0.9775  cpu/run 16.5s
+planted  n= 12 mean -1.0253 sd 0.0306 max -0.9551  cpu/run 16.6s
+real runs that returned the claimed key: 0 of 3
+search-family null: n=120, max -0.9775 ; claimed-key score -0.9432 exceeds all: True ; margin 0.034 per quad
+power: planted (true key unknown to solver) best-found scores vs null max: 1 of 12 planted exceed null max

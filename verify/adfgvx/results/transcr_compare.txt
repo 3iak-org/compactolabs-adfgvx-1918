@@ -1,0 +1,27 @@
+p156C3 {'len_creilly': 132, 'len_schmeh': 132, 'diffs': [], 'lost_creilly': 0, 'lost_schmeh': 0}
+p156C6 {'len_creilly': 108, 'len_schmeh': 108, 'diffs': [], 'lost_creilly': 15, 'lost_schmeh': 15}
+p179B1 {'len_creilly': 220, 'len_schmeh': 220, 'diffs': [], 'lost_creilly': 0, 'lost_schmeh': 0}
+p155E {'len_creilly': 104, 'len_schmeh': 104, 'diffs': [(29, '-', 'V'), (69, '-', 'V')], 'lost_creilly': 2, 'lost_schmeh': 0}
+p192A {'len_creilly': 90, 'len_schmeh': 90, 'diffs': [(1, '-', 'V'), (30, '-', 'V'), (36, '-', 'V'), (38, '-', 'V'), (39, '-', 'V')], 'lost_creilly': 11, 'lost_schmeh': 6}
+p179B1 creilly: symbols_in_log 220 count_in_log(header) 240; any '-' in printed: False ; Schmeh: any '-' in entry: False
+sep19              known-both 24 agree  1
+oct04              known-both 24 agree  0
+oct28              known-both 24 agree  0
+nov01              known-both 24 agree  0
+nov04              known-both 24 agree  0
+nov07              known-both 22 agree  1
+nov10              known-both 21 agree  1
+nov13_20           known-both 19 agree  0
+nov13_16           known-both 16 agree  0
+nov16              known-both 18 agree  1
+nov19              known-both 24 agree  0
+nov22              known-both 24 agree  0
+nov25              known-both 24 agree  0
+nov28              known-both 24 agree  0
+childs_aug08       known-both 21 agree  1
+childs_jul22       known-both 17 agree  0
+childs_jul18       known-both 16 agree  1
+childs_aug20       known-both 15 agree  0
+childs_aug03       known-both 17 agree  0
+dec09_history      known-both 24 agree  1
+chi_2017_comments  known-both 16 agree  0

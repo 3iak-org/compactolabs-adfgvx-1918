@@ -1,0 +1,5 @@
+p062A, J1(ii) with the edit cap varied (claimed key sep19; 21 other keys; R1 random keys, randkeys.py seeds)
+cap 0  S -4.420 (-)  best wrong chi_2017_comments -3.599  margin -0.821  wrong keys >= S: 13/21  |  R1 n 1000 max -3.644  >=S 436
+cap 1  S -3.500 (del5@200)  best wrong nov13_20 -3.525  margin +0.024  wrong keys >= S: 0/21  |  R1 n 1000 max -3.536  >=S 0
+cap 2  S -3.452 (ins1@131,del5@200)  best wrong nov13_20 -3.463  margin +0.011  wrong keys >= S: 0/21  |  R1 n 0 max -  >=S 0
+cap 3  S -3.312 (del1@93,ins1@83,del5@200)  best wrong nov13_20 -3.369  margin +0.057  wrong keys >= S: 0/21  |  R1 n 200 max -3.469  >=S 0

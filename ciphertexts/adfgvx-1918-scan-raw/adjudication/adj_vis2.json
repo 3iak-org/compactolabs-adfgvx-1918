@@ -1,0 +1,9 @@
+[
+ {"page":139,"block":1,"line":2,"group":1,"vision":"FDFXA","other":"FDXFA","channel":"reader2","verdict":"vision","final":"FDFXA","note":"clear at 2x"},
+ {"page":140,"block":6,"line":2,"group":6,"vision":"AX-","other":"AX--","channel":"reader2","verdict":"ambiguous","final":"AX-","note":"printed 'AX.-': a dot then a dash; the dot may be a second lost mark"},
+ {"page":141,"block":2,"line":0,"group":1,"vision":"FAAGG","other":"FAAFG","channel":"reader2","verdict":"ambiguous","final":"FAAGG","note":"4th letter overstruck: E/F typed over G (or the reverse)"},
+ {"page":167,"block":1,"line":3,"group":0,"vision":"VGVJV","other":"VGVVV","channel":"reader2","verdict":"other","final":"VGVVV","note":"J-like glyph is a V whose left stroke did not print (serif tick visible at 4x)"},
+ {"page":174,"block":1,"line":2,"group":2,"vision":"G-VVA","other":"(omitted)","channel":"reader2","verdict":"vision","final":"G-VVA","note":"typed group struck through on the page; kept in lines and listed in struck_groups"},
+ {"page":175,"block":5,"line":4,"group":3,"vision":"VDXVV","other":"VDVXV","channel":"reader2","verdict":"other","final":"VDVXV","note":"same as OCR adjudication"},
+ {"page":195,"block":2,"line":3,"group":0,"vision":"EXAXF","other":"FXAXF","channel":"reader2","verdict":"ambiguous","final":"EXAXF","note":"first letter E/F overstrike"}
+]

@@ -1,0 +1,4 @@
+{
+ "p153B": {"spans": [[153, 4, 80, 202]], "reason": "creilly's p153B4 is lines 0-1 of 4 TL (80 symbols); p153B is the rest of the same block (lines 2-5). The page prints lines 2 and 3 overlapping by half a line; creilly's row merges them into one, so the automatic semi-global alignment matched only its tail [134:202]. Both our readers read lines 2-5 identically."},
+ "p220C": {"spans": [], "reason": "No cipher block on p.220 corresponds to creilly's 6-symbol row 'VD-A-D'. Heading C) has one block only, RICHI-170 = p220C.2 (Solved). The row is not ciphertext on the page."}
+}

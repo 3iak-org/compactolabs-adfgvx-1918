@@ -1,0 +1,6 @@
+Referee scorer, fixed 2026-11-01 before running it on any entry:
+quadgram log10 model over plaintext alphabet A-Z plus '#'(any digit), trained on creilly plaintexts of
+all solved entries whose key is NOT nov10 (period held out), add-0.5 smoothing over 27^4.
+Statistic: mean log10 per quadgram fully free of masked letters ('-' from lost symbols, '?' blank cell); need >=40.
+Grid: L in 0..20, g in 0..len(ct); every one of 22 keys on p179B1. Plus every solved 200-250 symbol entry
+(no '-') under each of its 21 wrong keys over the same grid (its own period held out of training is NOT done: one model, nov10 held out).

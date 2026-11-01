@@ -1,0 +1,596 @@
+id	key	n_sent	n_log	model	cost	n_events	events	E4_unreadable	wild_S
+p059A	sep19	222	223	cipher-space	1.05	1	E2:1	1	2
+p059B	sep19	168	169	cipher-space	4.05	4	E2:1;E5:1;E5:1;E5:1	2	0
+p059B.2	sep19	152	152	cipher-space	0.0	0		0	0
+p060A1	sep19	226	226	cipher-space	0.0	0		1	2
+p060A2	sep19	220	220	cipher-space	0.0	0		1	2
+p060A3	sep19	176	199	cipher-space	4.15	3	E2:22;E5:1;E2:1	22	0
+p061B	sep19	148	148	cipher-space	0.0	0		1	2
+p062A2	sep19	220	220	cipher-space	0.0	0		7	14
+p062A3	sep19	230	230	cipher-space	0.0	0		31	60
+p062B	sep19	172	171	cipher-space	1.05	1	E1:1	1	4
+p063A1	sep19	176	176	cipher-space	0.0	0		1	2
+p063A2	sep19	154	154	cipher-space	0.0	0		1	2
+p063B	sep19	226	226	cipher-space	0.0	0		1	2
+p064A	sep19	176	176	cipher-space	0.0	0		5	10
+p065A	oct04	124	124	cipher-space	0.0	0		0	0
+p065B	oct04	188	188	cipher-space	0.0	0		0	0
+p066A	oct04	270	270	cipher-space	0.0	0		2	4
+p0674	oct04	176	176	cipher-space	0.0	0		1	2
+p067A	oct04	346	346	cipher-space	0.0	0		3	6
+p067A2	oct04	354	358	cipher-space	2.2	2	E2:2;E2:2	3	0
+p068A	oct04	260	260	cipher-space	0.0	0		0	0
+p069A	oct04	190	190	cipher-space	0.0	0		0	0
+p069B	oct04	284	284	cipher-space	0.0	0		1	2
+p069B1	oct04	286	287	cipher-space	1.05	1	E2:1	1	2
+p070A3	oct04	220	223	cipher-space	2.15	2	E2:1;E2:2	3	0
+p070B	oct04	224	224	cipher-space	0.0	0		2	4
+p070C	oct04	60	60	cipher-space	0.0	0		0	0
+p072B3	oct04	66	67	cipher-space	1.05	1	E2:1	3	4
+p073A1	oct04	322	332	cipher-space	7.5	7	E5:1;E5:1;E5:1;E5:1;E3:5;E5:1;E3:5	5	0
+p073A2	oct04	246	246	cipher-space	0.0	0		1	2
+p074A	oct04	170	170	cipher-space	0.0	0		12	24
+p075A1	oct04	178	204	cipher-space	2.3	1	E2:26	4	0
+p075A2	oct04	226	251	cipher-space	2.25	1	E3:25	4	58
+p075A3	oct04	124	124	cipher-space	0.0	0		2	4
+p075B	oct04	274	276	cipher-space	3.1	3	E2:1;E5:1;E2:1	1	0
+p077A	oct28	154	154	cipher-space	0.0	0		0	0
+p077B	oct28	170	170	cipher-space	0.0	0		0	0
+p077C	oct28	148	108	cipher-space	3.0	1	E3:40	0	0
+p077C2	oct28	130	130	cipher-space	0.0	0		0	0
+p078A	oct28	154	154	cipher-space	0.0	0		0	0
+p078B	oct28	394	394	cipher-space	0.0	0		0	0
+p078B.2	oct28	204	204	cipher-space	0.0	0		0	0
+p07943	oct28	238	259	cipher-space	3.05	2	E2:1;E2:20	2	2
+p080A	oct28	314	315	cipher-space	1.05	1	E2:1	1	2
+p080B	oct28	350	350	cipher-space	0.0	0		0	0
+p081A	oct28	240	240	cipher-space	0.0	0		0	0
+p081A2	oct28	170	170	cipher-space	0.0	0		0	0
+p082A1	oct28	262	263	cipher-space	1.05	1	E2:1	1	2
+p082A2	oct28	336	336	cipher-space	0.0	0		0	0
+p083A	oct28	274	274	cipher-space	0.0	0		0	0
+p083B1	oct28	242	242	cipher-space	0.0	0		0	0
+p084A	oct28	338	338	cipher-space	0.0	0		1	2
+p084B	oct28	132	132	cipher-space	0.0	0		0	0
+p084C	oct28	274	290	cipher-space	3.8	3	E2:1;E2:14;E2:1	13	0
+p085A	oct28	118	118	cipher-space	0.0	0		1	2
+p085A1	oct28	242	242	cipher-space	0.0	0		0	0
+p085A2	oct28	248	249	cipher-space	1.05	1	E2:1	1	0
+p085A3	oct28	210	210	cipher-space	0.0	0		0	0
+p086A	oct28	244	244	cipher-space	0.0	0		1	2
+p086B2	oct28	336	336	cipher-space	0.0	0		1	2
+p087A	oct28	244	244	cipher-space	0.0	0		0	0
+p087B	oct28	202	202	cipher-space	0.0	0		0	0
+p088A	oct28	296	296	cipher-space	0.0	0		0	0
+p088B	oct28	198	198	cipher-space	0.0	0		0	0
+p089A	oct28	298	298	cipher-space	0.0	0		0	0
+p089B2	oct28	78	78	cipher-space	0.0	0		0	0
+p089C1	oct28	168	168	cipher-space	0.0	0		1	2
+p090A1	nov01	166	166	cipher-space	0.0	0		1	2
+p091A1	nov01	172	173	cipher-space	2.05	2	E5:1;E2:1	1	0
+p091A3	nov01	134	134	cipher-space	0.0	0		0	0
+p091B	nov01	204	200	cipher-space	1.2	1	E1:4	0	0
+p091C1	nov01	298	298	cipher-space	0.0	0		0	0
+p09244	nov01	360	361	cipher-space	1.05	1	E2:1	1	2
+p09345	nov01	398	398	cipher-space	0.0	0		0	0
+p093B1	nov01	338	338	cipher-space	0.0	0		0	0
+p094_2	nov01	344	344	cipher-space	0.0	0		0	0
+p094_3	nov01	236	236	cipher-space	0.0	0		1	2
+p095A	nov01	428	428	cipher-space	0.0	0		0	0
+p095B1	nov01	328	328	cipher-space	0.0	0		0	0
+p096A	nov01	394	389	cipher-space	1.25	1	E3:5	0	10
+p096A2	nov01	252	252	cipher-space	0.0	0		0	0
+p096A4	nov01	328	328	cipher-space	0.0	0		0	0
+p097A5	nov01	368	369	cipher-space	1.05	1	E2:1	2	4
+p097A6	nov01	350	350	cipher-space	0.0	0		0	0
+p098A	nov01	282	283	cipher-space	1.05	1	E2:1	1	0
+p098A2	nov01	464	464	cipher-space	0.0	0		0	0
+p099A	nov01	320	320	cipher-space	0.0	0		0	0
+p099B	nov01	362	362	cipher-space	0.0	0		0	0
+p1004	nov01	196	196	cipher-space	0.0	0		1	2
+p100B	nov01	246	246	cipher-space	0.0	0		0	0
+p100C	nov01	196	197	cipher-space	1.05	1	E2:1	1	0
+p101A	nov01	252	252	cipher-space	0.0	0		0	0
+p101A2	nov01	264	266	cipher-space	2.1	2	E2:1;E2:1	0	0
+p102B	nov01	172	172	cipher-space	0.0	0		0	0
+p102C3	nov01	102	102	cipher-space	0.0	0		5	10
+p102D	nov01	100	100	cipher-space	0.0	0		0	0
+p103A	nov01	122	122	cipher-space	2.1	2	E2:1;E1:1	1	0
+p103B	nov01	194	194	cipher-space	0.0	0		0	0
+p103C	nov01	158	158	cipher-space	0.0	0		0	0
+p103D1	nov01	136	136	cipher-space	0.0	0		1	2
+p104A2	nov01	132	132	cipher-space	0.0	0		0	0
+p104B2	nov01	200	200	cipher-space	0.0	0		0	0
+p104_1	nov01	190	190	cipher-space	0.0	0		33	64
+p105B1	nov01	208	208	cipher-space	0.0	0		0	0
+p105B2	nov01	200	200	cipher-space	0.0	0		0	0
+p105B3	nov01	192	192	cipher-space	0.0	0		0	0
+p105C	nov01	262	262	cipher-space	0.0	0		0	0
+p105D	nov01	180	180	cipher-space	0.0	0		0	0
+p105D.2	nov01	258	258	cipher-space	0.0	0		0	0
+p106A	nov01	124	124	cipher-space	0.0	0		0	0
+p106B	nov01	254	254	cipher-space	0.0	0		2	4
+p106B1	nov01	274	274	cipher-space	0.0	0		0	0
+p106C	nov01	156	156	cipher-space	0.0	0		0	0
+p106D	nov01	180	180	cipher-space	0.0	0		0	0
+p107A3	nov01	148	148	cipher-space	0.0	0		0	0
+p107B	nov01	102	102	cipher-space	0.0	0		1	2
+p107C	nov01	228	227	cipher-space	1.05	1	E1:1	0	2
+p107C2	nov01	140	140	cipher-space	0.0	0		0	0
+p107D	nov01	148	149	cipher-space	1.05	1	E2:1	0	0
+p107E3	nov01	140	140	cipher-space	0.0	0		0	0
+p108A	nov01	300	300	cipher-space	0.0	0		0	0
+p108BB	nov01	290	290	cipher-space	2.1	2	E2:1;E1:1	0	0
+p108C	nov01	238	238	cipher-space	0.0	0		0	0
+p109A	nov01	250	250	cipher-space	0.0	0		0	0
+p109A3	nov01	148	148	cipher-space	0.0	0		0	0
+p109B	nov01	180	180	cipher-space	0.0	0		0	0
+p110A	nov01	130	130	cipher-space	0.0	0		0	0
+p110B1	nov01	164	164	cipher-space	0.0	0		0	0
+p110B2	nov01	110	110	cipher-space	0.0	0		1	2
+p110C	nov01	348	348	cipher-space	0.0	0		0	0
+p111A	nov01	282	282	cipher-space	0.0	0		0	0
+p111B2	nov01	130	130	cipher-space	0.0	0		0	0
+p111B2.2	nov01	136	135	cipher-space	1.05	1	E1:1	1	4
+p112A2	nov01	162	162	cipher-space	0.0	0		0	0
+p112A3	nov01	228	228	cipher-space	0.0	0		0	0
+p112B	nov01	248	248	cipher-space	0.0	0		6	12
+p112C	nov01	122	122	cipher-space	0.0	0		2	4
+p112C1	nov01	210	210	cipher-space	0.0	0		0	0
+p113A	nov01	280	280	cipher-space	0.0	0		0	0
+p113B	nov01	150	150	cipher-space	0.0	0		0	0
+p113C	nov01	398	398	cipher-space	0.0	0		0	0
+p114B	nov01	308	310	cipher-space	2.1	2	E2:1;E2:1	2	0
+p115A1	nov01	202	202	cipher-space	0.0	0		1	2
+p115A2	nov01	218	203	cipher-space	2.75	2	E1:2;E1:13	6	0
+p115A2.2	nov01	108	108	cipher-space	0.0	0		7	14
+p115B	nov04	188	188	cipher-space	0.0	0		0	0
+p115D	nov04	230	230	cipher-space	0.0	0		2	4
+p116A	nov01	262	262	cipher-space	0.0	0		0	0
+p116B9	nov01	216	216	cipher-space	0.0	0		0	0
+p116C	nov01	212	212	cipher-space	0.0	0		0	0
+p116D1	nov01	352	362	cipher-space	1.5	1	E3:10	3	0
+p117A1	nov01	482	482	cipher-space	0.0	0		6	12
+p117A4	nov01	204	204	cipher-space	0.0	0		1	2
+p118A5	nov01	194	194	cipher-space	0.0	0		0	0
+p118A6	nov01	226	226	cipher-space	0.0	0		0	0
+p118A7	nov01	206	206	cipher-space	0.0	0		0	0
+p118A8	nov01	214	214	cipher-space	0.0	0		0	0
+p119A	nov01	218	218	cipher-space	0.0	0		15	28
+p119A.2	nov01	220	219	cipher-space	1.05	1	E1:1	16	32
+p119A.3	nov01	236	237	cipher-space	1.05	1	E2:1	6	12
+p120A	nov01	320	320	cipher-space	0.0	0		3	6
+p120B	nov01	256	256	cipher-space	0.0	0		0	0
+p120C3	nov01	160	160	cipher-space	0.0	0		0	0
+p120C4	nov01	112	117	cipher-space	1.25	1	E3:5	0	0
+p120D	nov01	68	68	cipher-space	0.0	0		0	0
+p121A	nov01	378	377	cipher-space	1.05	1	E1:1	0	2
+p122A	nov04	286	286	cipher-space	0.0	0		0	0
+p123A	nov04	236	237	cipher-space	1.05	1	E2:1	2	4
+p123B1	nov04	394	394	cipher-space	0.0	0		0	0
+p124A1	nov04	236	236	cipher-space	0.0	0		0	0
+p124A2	nov04	236	236	cipher-space	0.0	0		1	2
+p124B1	nov04	262	263	cipher-space	1.05	1	E2:1	2	4
+p125A2	nov04	182	182	cipher-space	0.0	0		0	0
+p125C	nov04	114	114	cipher-space	0.0	0		0	0
+p126A2	nov04	232	207	cipher-space	4.25	3	E5:1;E1:15;E3:10	3	0
+p126A3	nov04	296	297	cipher-space	1.05	1	E2:1	0	0
+p126B	nov04	340	340	cipher-space	0.0	0		10	20
+p127B	nov04	184	183	cipher-space	1.05	1	E1:1	24	48
+p127B1	nov04	352	352	cipher-space	0.0	0		0	0
+p127B2	nov04	266	266	cipher-space	0.0	0		0	0
+p127B3	nov04	48	48	cipher-space	0.0	0		0	0
+p128A1	nov04	244	244	cipher-space	0.0	0		0	0
+p128A2	nov04	238	239	cipher-space	1.05	1	E2:1	1	2
+p128A3	nov04	200	200	cipher-space	0.0	0		0	0
+p128A4	nov04	212	212	cipher-space	0.0	0		1	2
+p129A5	nov04	266	267	cipher-space	1.05	1	E2:1	2	4
+p129A6	nov04	242	242	cipher-space	0.0	0		1	2
+p129B	nov04	134	134	cipher-space	0.0	0		0	0
+p130A3	nov04	200	197	cipher-space	3.35	3	E3:5;E2:1;E2:1	7	22
+p130B1	nov04	160	160	cipher-space	0.0	0		4	8
+p131A1	nov04	226	226	cipher-space	0.0	0		0	0
+p131A2	nov04	282	282	cipher-space	0.0	0		7	14
+p131B1	nov04	196	196	cipher-space	0.0	0		1	2
+p132A7	nov04	248	248	cipher-space	0.0	0		2	4
+p132A8	nov04	140	140	cipher-space	0.0	0		0	0
+p132B1	nov04	398	398	cipher-space	0.0	0		1	2
+p133A1	nov04	394	394	cipher-space	0.0	0		0	0
+p133A2	nov04	330	330	cipher-space	0.0	0		0	0
+p134A3	nov04	396	396	cipher-space	0.0	0		1	2
+p134A4	nov04	170	170	cipher-space	0.0	0		0	0
+p134B	nov04	168	168	cipher-space	0.0	0		2	4
+p135B	nov04	154	155	E6:ins@54	1.0	1	E6:1	2	7
+p135C	nov04	198	198	cipher-space	0.0	0		0	0
+p135_	nov04	242	242	cipher-space	0.0	0		1	2
+p136A2	nov04	452	447	cipher-space	3.25	3	E5:1;E3:5;E5:1	2	0
+p136A3	nov04	486	486	cipher-space	0.0	0		1	2
+p137A4	nov04	424	424	cipher-space	0.0	0		0	0
+p137B	nov04	102	102	cipher-space	0.0	0		0	0
+p138A	nov04	400	400	cipher-space	0.0	0		4	8
+p139A1	nov04	244	244	cipher-space	0.0	0		0	0
+p139B	nov04	314	314	cipher-space	0.0	0		0	0
+p139B3	nov04	268	269	cipher-space	1.05	1	E2:1	0	0
+p140A4	nov04	264	258	cipher-space	2.3	2	E1:1;E1:5	2	16
+p140B.2	nov04	134	134	cipher-space	0.0	0		1	2
+p140B.3	nov04	102	98	cipher-space	2.3	2	E3:5;E2:1	1	0
+p140B4	nov04	212	210	cipher-space	1.1	1	E1:2	0	4
+p141A	nov04	242	232	cipher-space	2.5	2	E1:5;E3:5	0	20
+p141A.2	nov04	236	236	cipher-space	0.0	0		1	2
+p141B	nov04	104	106	E6:ins@103	2.05	2	E2:1;E6:1	1	3
+p142A.2	nov04	212	212	cipher-space	0.0	0		0	0
+p142A1	nov04	200	200	cipher-space	0.0	0		0	0
+p143B	nov04	336	336	cipher-space	0.0	0		1	2
+p143_1	nov04	112	113	cipher-space	1.05	1	E2:1	1	0
+p143_2	nov04	134	134	cipher-space	0.0	0		2	4
+p143_3	nov04	102	102	cipher-space	0.0	0		4	8
+p143_4	nov04	98	98	cipher-space	0.0	0		3	6
+p144A1	nov04	304	304	cipher-space	0.0	0		2	4
+p144A2	nov04	422	422	cipher-space	0.0	0		6	12
+p144B	nov04	340	340	cipher-space	0.0	0		0	0
+p145A	nov04	128	128	cipher-space	0.0	0		0	0
+p145B	nov04	286	286	cipher-space	0.0	0		0	0
+p145C	nov04	242	240	cipher-space	1.1	1	E1:2	2	8
+p146A	nov04	188	188	cipher-space	0.0	0		10	20
+p147A8	nov04	270	270	cipher-space	0.0	0		0	0
+p147B	nov04	192	192	cipher-space	0.0	0		3	6
+p147C1	nov04	142	142	cipher-space	0.0	0		10	20
+p148B	nov04	214	214	cipher-space	0.0	0		0	0
+p148B.2	nov04	182	183	cipher-space	1.05	1	E2:1	0	0
+p148B.3	nov04	134	129	cipher-space	1.25	1	E3:5	0	10
+p149A1	nov04	112	117	cipher-space	1.25	1	E3:5	4	8
+p149B	nov04	244	244	cipher-space	2.5	2	E3:5;E3:5	0	10
+p149C1	nov04	176	367	cipher-space	13.65	4	E5:1;E1:1;E2:192;E5:1	6	0
+p150A	nov04	254	254	cipher-space	0.0	0		0	0
+p150B1	nov04	120	120	cipher-space	0.0	0		0	0
+p150C1	nov04	96	96	cipher-space	0.0	0		0	0
+p150D1	nov04	140	140	cipher-space	0.0	0		0	0
+p151A1	nov04	130	125	cipher-space	1.25	1	E3:5	0	4
+p151B1	nov04	328	328	cipher-space	0.0	0		1	2
+p151C1	nov04	242	242	cipher-space	0.0	0		1	2
+p152A2	nov04	236	236	cipher-space	0.0	0		0	0
+p152B	nov04	168	168	cipher-space	0.0	0		0	0
+p152C	nov04	336	336	cipher-space	0.0	0		0	0
+p153A2	nov04	180	181	cipher-space	1.05	1	E2:1	2	2
+p153B1	nov04	194	194	cipher-space	0.0	0		4	8
+p153B2	nov04	198	198	cipher-space	0.0	0		8	16
+p153B3	nov04	204	185	cipher-space	2.95	2	E1:14;E3:5	12	0
+p153B5	nov04	214	214	cipher-space	0.0	0		6	12
+p154A1	nov07	190	189	cipher-space	1.05	1	E1:1	0	2
+p154A2	nov07	186	181	cipher-space	1.25	1	E3:5	0	10
+p154B	nov07	156	162	cipher-space	2.3	2	E2:6;E5:1	1	2
+p154C	nov07	154	154	cipher-space	0.0	0		0	0
+p154E2	nov07	224	224	cipher-space	0.0	0		2	8
+p154_2	nov07	136	136	cipher-space	0.0	0		0	2
+p155A2	nov04	128	128	cipher-space	0.0	0		2	4
+p155B2	nov04	190	190	cipher-space	0.0	0		5	10
+p155D	nov04	140	141	cipher-space	1.05	1	E2:1	0	0
+p155E2	nov04	270	270	cipher-space	0.0	0		0	0
+p155GC	nov07	108	108	cipher-space	0.0	0		0	0
+p156A3	nov07	180	180	cipher-space	0.0	0		0	0
+p156B1	nov07	160	160	cipher-space	0.0	0		0	0
+p156D2	nov07	136	136	cipher-space	0.0	0		0	2
+p156E1	nov07	268	259	cipher-space	3.55	3	E2:1;E1:5;E1:5	0	22
+p157B	nov04	172	172	cipher-space	0.0	0		3	6
+p158A	nov07	170	170	cipher-space	0.0	0		0	0
+p158A2	nov07	186	185	cipher-space	1.05	1	E1:1	2	6
+p158B	nov07	160	160	cipher-space	0.0	0		4	8
+p158C1	nov07	186	186	cipher-space	2.1	2	E2:1;E1:1	1	0
+p158C3	nov07	136	136	cipher-space	0.0	0		0	4
+p158D	nov07	316	316	cipher-space	0.0	0		4	10
+p159A	nov07	84	84	cipher-space	0.0	0		0	0
+p159B1	nov07	80	77	cipher-space	3.25	3	E2:1;E1:4;E5:1	1	14
+p159D	nov07	44	44	cipher-space	0.0	0		0	0
+p159E1	nov07	78	78	cipher-space	0.0	0		0	0
+p159_1	nov07	102	102	cipher-space	0.0	0		0	0
+p160A.2	nov07	200	200	cipher-space	0.0	0		0	0
+p160A3	nov07	218	211	cipher-space	6.35	6	E5:1;E1:5;E5:1;E5:1;E1:2;E5:1	0	0
+p160A4	nov07	210	210	cipher-space	0.0	0		0	0
+p160A5	nov07	128	128	cipher-space	0.0	0		1	2
+p160B	nov07	170	170	cipher-space	0.0	0		4	8
+p160B2	nov07	272	272	cipher-space	0.0	0		15	30
+p161A1	nov07	100	100	cipher-space	0.0	0		0	0
+p161A2	nov07	106	106	cipher-space	0.0	0		0	0
+p161B1	nov07	76	76	cipher-space	0.0	0		0	0
+p161C3	nov07	136	136	cipher-space	0.0	0		0	2
+p162A	nov07	272	272	cipher-space	7.0	6	E3:5;E3:5;E5:1;E2:5;E1:5;E5:1	1	4
+p162B.2	nov07	242	244	cipher-space	2.1	2	E2:1;E2:1	0	0
+p162_	nov07	196	196	cipher-space	0.0	0		1	2
+p163A2	nov07	238	240	cipher-space	2.1	2	E2:1;E2:1	2	6
+p163B	nov07	282	257	cipher-space	5.15	3	E3:5;E2:9;E1:29	1	0
+p163B.2	nov07	84	84	cipher-space	0.0	0		1	4
+p163C	nov07	308	309	cipher-space	1.05	1	E2:1	2	4
+p163C2	nov07	144	147	cipher-space	3.15	3	E2:1;E2:1;E2:1	0	4
+p163D1	nov07	140	141	cipher-space	1.05	1	E2:1	6	20
+p164B1	nov07	98	98	cipher-space	0.0	0		0	0
+p164D1	nov07	254	254	cipher-space	0.0	0		0	0
+p164D3	nov07	190	190	cipher-space	0.0	0		0	0
+p164_	nov07	204	204	cipher-space	0.0	0		5	12
+p164_2	nov07	128	129	cipher-space	1.05	1	E2:1	0	0
+p164_2.2	nov07	154	154	cipher-space	0.0	0		0	0
+p165B1	nov07	182	161	cipher-space	5.05	4	E1:1;E1:10;E1:10;E5:1	3	0
+p165C2	nov07	100	100	cipher-space	0.0	0		1	2
+p165D1	nov07	100	100	cipher-space	0.0	0		0	0
+p166A1	nov07	268	268	cipher-space	0.0	0		8	16
+p166A1.2	nov07	244	247	cipher-space	2.15	2	E2:1;E2:2	4	4
+p166A1.3	nov07	264	264	cipher-space	0.0	0		6	14
+p166A1.4	nov07	310	310	cipher-space	0.0	0		24	48
+p167A4	nov07	198	198	cipher-space	0.0	0		14	26
+p167C1	nov07	248	248	cipher-space	0.0	0		4	8
+p167D	nov07	116	116	cipher-space	0.0	0		0	0
+p167_	nov07	140	140	cipher-space	0.0	0		0	2
+p168A	nov07	458	453	cipher-space	1.25	1	E3:5	0	10
+p168A.2	nov07	380	380	cipher-space	0.0	0		0	0
+p168A1	nov07	380	380	cipher-space	0.0	0		0	0
+p168A5	nov07	500	485	cipher-space	4.75	4	E3:5;E5:1;E3:5;E3:5	0	0
+p169A	nov07	174	174	cipher-space	0.0	0		0	0
+p169A2	nov07	212	212	cipher-space	0.0	0		0	2
+p169B	nov07	200	200	cipher-space	0.0	0		0	0
+p169C1	nov07	312	311	cipher-space	1.05	1	E1:1	0	4
+p169C3	nov07	100	100	cipher-space	0.0	0		0	0
+p170A	nov07	204	200	cipher-space	5.2	5	E5:1;E5:1;E5:1;E5:1;E1:4	1	0
+p170B	nov07	190	190	cipher-space	0.0	0		0	0
+p170B3	nov07	192	192	cipher-space	0.0	0		0	0
+p170B3.2	nov07	144	144	cipher-space	0.0	0		0	0
+p170C1	nov07	132	132	cipher-space	0.0	0		2	10
+p170E	nov07	98	98	cipher-space	0.0	0		0	0
+p171A	nov07	184	184	cipher-space	0.0	0		0	0
+p171B	nov07	160	160	cipher-space	0.0	0		0	0
+p171C	nov07	280	282	E6:ins@280	2.05	2	E2:1;E6:1	2	5
+p171D	nov07	242	243	cipher-space	1.05	1	E2:1	0	2
+p171E	nov07	272	271	cipher-space	1.05	1	E1:1	2	8
+p172A	nov07	184	185	cipher-space	1.05	1	E2:1	0	0
+p172B	nov07	224	224	cipher-space	0.0	0		0	8
+p173B	nov07	236	236	cipher-space	0.0	0		0	2
+p173B.2	nov07	238	238	cipher-space	0.0	0		1	4
+p174A1	nov07	314	315	cipher-space	3.55	3	E3:5;E2:1;E3:5	5	70
+p174A3.2	nov07	152	152	cipher-space	0.0	0		2	4
+p174B	nov07	186	187	cipher-space	1.05	1	E2:1	1	4
+p174B1	nov07	200	200	cipher-space	0.0	0		2	4
+p174C	nov10	252	252	cipher-space	0.0	0		4	8
+p175A	nov10	136	136	cipher-space	0.0	0		0	0
+p175A.2	nov10	40	40	cipher-space	0.0	0		0	2
+p175C1	nov10	116	116	cipher-space	0.0	0		0	0
+p175C3	nov10	84	84	cipher-space	0.0	0		0	0
+p175D1	nov07	198	197	cipher-space	1.05	1	E1:1	2	6
+p175D8	nov07	204	204	cipher-space	0.0	0		4	10
+p176A1	nov10	242	242	cipher-space	0.0	0		0	4
+p176A3	nov10	160	160	cipher-space	0.0	0		1	2
+p177A	nov10	146	146	cipher-space	0.0	0		0	0
+p177A1	nov10	146	146	cipher-space	0.0	0		0	0
+p177B	nov10	74	74	cipher-space	0.0	0		0	0
+p177C	nov10	48	48	cipher-space	0.0	0		0	0
+p177D	nov10	40	40	cipher-space	0.0	0		0	2
+p177E	nov10	46	46	cipher-space	0.0	0		0	0
+p178A	nov10	104	104	cipher-space	0.0	0		0	2
+p178A1	nov10	192	192	cipher-space	0.0	0		0	0
+p178B2	nov07	204	204	cipher-space	0.0	0		10	24
+p178C	nov10	212	212	cipher-space	0.0	0		3	6
+p178C2	nov10	208	208	cipher-space	0.0	0		0	4
+p178C3	nov10	222	217	cipher-space	5.85	5	E2:3;E1:3;E1:5;E2:3;E1:3	4	0
+p179A3	nov10	168	168	cipher-space	0.0	0		5	10
+p179B	nov10	252	252	cipher-space	0.0	0		0	2
+p179B3	nov10	272	272	cipher-space	0.0	0		0	0
+p180A	nov10	186	180	cipher-space	1.3	1	E1:6	0	0
+p180B	nov10	330	330	cipher-space	0.0	0		0	6
+p180B.2	nov10	296	295	cipher-space	1.05	1	E1:1	1	6
+p180B3	nov10	374	374	cipher-space	0.0	0		0	8
+p181A	nov10	238	238	cipher-space	0.0	0		0	0
+p181A2	nov10	308	309	cipher-space	1.05	1	E2:1	0	12
+p181A3	nov10	278	279	cipher-space	1.05	1	E2:1	0	14
+p181A4	nov10	288	288	cipher-space	0.0	0		0	0
+p181A5	nov10	322	325	cipher-space	3.15	3	E2:1;E2:1;E2:1	3	14
+p182A	nov10	266	271	cipher-space	1.25	1	E3:5	0	10
+p182B	nov10	158	166	cipher-space	1.4	1	E2:8	5	0
+p182C	nov10	232	232	cipher-space	0.0	0		0	0
+p182D	nov13_16	190	190	cipher-space	0.0	0		0	8
+p182D.2	nov13_16	212	212	cipher-space	0.0	0		0	12
+p183A	nov10	156	156	cipher-space	0.0	0		1	2
+p183B	nov10	86	86	cipher-space	0.0	0		0	0
+p183B2	nov10	240	235	cipher-space	1.25	1	E3:5	2	20
+p183D1	nov10	196	197	cipher-space	8.05	8	E5:1;E5:1;E5:1;E5:1;E5:1;E5:1;E5:1;E2:1	9	0
+p183E	nov13_16	224	224	cipher-space	0.0	0		0	4
+p184A	nov10	184	184	cipher-space	0.0	0		0	0
+p184B	nov10	234	234	cipher-space	0.0	0		0	0
+p185B	nov10	62	62	cipher-space	0.0	0		0	0
+p186A	nov10	64	66	cipher-space	1.1	1	E2:2	1	0
+p186B	nov10	74	60	cipher-space	4.8	4	E1:1;E2:1;E5:1;E1:14	2	0
+p186C	nov10	46	46	cipher-space	0.0	0		0	0
+p186E	nov10	36	36	cipher-space	0.0	0		0	0
+p186F	nov10	230	230	cipher-space	0.0	0		2	10
+p187B	nov13_20	146	146	cipher-space	0.0	0		0	0
+p187B2	nov13_20	192	187	cipher-space	1.25	1	E3:5	0	10
+p187B3	nov13_20	110	110	cipher-space	0.0	0		0	30
+p187C	nov13_20	190	190	cipher-space	0.0	0		1	6
+p187C1	nov13_20	136	136	cipher-space	0.0	0		0	0
+p187_	nov13_16	202	202	cipher-space	0.0	0		0	12
+p188_	nov13_20	268	279	cipher-space	2.55	2	E3:5;E2:6	0	18
+p188_.2	nov13_16	96	96	cipher-space	0.0	0		0	0
+p188_.3	nov13_16	198	193	cipher-space	1.25	1	E3:5	1	16
+p188_2	nov13_20	244	244	cipher-space	0.0	0		1	16
+p189A	nov13_16	170	170	cipher-space	0.0	0		3	6
+p189A2	nov13_16	174	175	cipher-space	1.05	1	E2:1	0	10
+p189B1	nov13_16	308	309	cipher-space	1.05	1	E2:1	7	28
+p189C1	nov13_16	182	182	cipher-space	0.0	0		1	6
+p190A	chi_2017_comments	142	142	cipher-space	0.0	0		0	14
+p190A1	chi_2017_comments	212	212	cipher-space	0.0	0		1	2
+p190D1	nov13_20	252	248	cipher-space	2.3	2	E2:1;E3:5	1	104
+p191A	nov13_16	224	226	cipher-space	2.1	2	E2:1;E2:1	6	14
+p191B2	nov13_16	176	176	cipher-space	0.0	0		0	8
+p191_1	nov13_16	268	268	cipher-space	0.0	0		0	6
+p192B	nov13_16	70	70	cipher-space	0.0	0		0	0
+p192C	nov13_16	124	124	cipher-space	0.0	0		0	2
+p192D	nov13_16	102	102	cipher-space	0.0	0		1	6
+p192E	nov13_16	94	94	cipher-space	0.0	0		1	6
+p193A	nov13_16	236	236	cipher-space	0.0	0		0	2
+p193B	nov13_16	176	176	cipher-space	0.0	0		5	12
+p193C	nov13_16	126	126	cipher-space	0.0	0		0	8
+p193D	nov13_20	186	186	cipher-space	0.0	0		0	2
+p193_	nov13_20	176	175	cipher-space	4.75	4	E2:7;E1:8;E5:1;E5:1	3	0
+p194A	nov13_16	214	214	cipher-space	0.0	0		1	10
+p195A	nov13_16	232	227	cipher-space	1.25	1	E3:5	0	12
+p195A.2	nov13_16	350	350	cipher-space	0.0	0		0	6
+p195A2	nov13_16	230	230	cipher-space	0.0	0		0	0
+p195_	nov13_16	266	267	cipher-space	1.05	1	E2:1	0	20
+p196A	nov13_16	188	188	cipher-space	0.0	0		3	12
+p196C	nov13_16	212	212	cipher-space	0.0	0		2	4
+p196D	nov13_16	82	82	cipher-space	0.0	0		0	2
+p196E	nov13_16	88	88	cipher-space	0.0	0		0	2
+p196F	nov13_16	74	75	cipher-space	1.05	1	E2:1	0	2
+p197A	nov13_16	174	174	cipher-space	0.0	0		0	2
+p197B	nov13_20	280	280	cipher-space	0.0	0		0	2
+p197C	nov13_16	224	224	cipher-space	0.0	0		0	2
+p197E	nov13_16	240	240	cipher-space	0.0	0		0	0
+p198A2	nov10	98	98	cipher-space	0.0	0		0	2
+p199A	nov13_16	74	74	cipher-space	0.0	0		0	0
+p199B	nov13_16	174	174	cipher-space	0.0	0		0	4
+p200A1	nov13_16	198	193	cipher-space	1.25	1	E3:5	1	18
+p200A3	nov13_16	144	144	cipher-space	0.0	0		0	8
+p200B	nov13_16	124	124	cipher-space	0.0	0		0	4
+p200D	nov13_16	142	142	cipher-space	0.0	0		1	10
+p200E	nov13_16	186	186	cipher-space	0.0	0		1	10
+p201B	nov13_16	190	190	cipher-space	0.0	0		1	12
+p201C	nov13_16	186	186	cipher-space	0.0	0		0	4
+p202A	nov13_16	204	205	cipher-space	1.05	1	E2:1	0	0
+p202A1	nov13_16	292	293	cipher-space	2.05	2	E2:1;E5:1	0	0
+p202A3	nov13_16	344	344	cipher-space	0.0	0		0	2
+p202_	nov13_16	262	262	cipher-space	0.0	0		0	4
+p203A	nov13_16	330	330	cipher-space	0.0	0		1	4
+p203B1	nov13_16	394	394	cipher-space	0.0	0		0	4
+p203B3	nov13_16	360	355	cipher-space	1.25	1	E3:5	0	18
+p204A1	nov16	254	254	cipher-space	0.0	0		0	6
+p204A2	nov16	236	236	cipher-space	0.0	0		0	2
+p204B	nov16	210	210	cipher-space	0.0	0		0	0
+p204B2	nov16	178	178	cipher-space	0.0	0		0	6
+p204C	nov16	324	324	cipher-space	0.0	0		0	18
+p205A1	nov16	212	212	cipher-space	0.0	0		0	2
+p205A2	nov16	142	142	cipher-space	0.0	0		0	8
+p205B	nov16	228	223	cipher-space	1.25	1	E3:5	0	16
+p205B2	nov16	220	220	cipher-space	0.0	0		0	0
+p205B3	nov16	210	210	cipher-space	0.0	0		0	2
+p205B4	nov16	224	225	cipher-space	1.05	1	E2:1	3	16
+p206A2	nov13_16	132	132	cipher-space	0.0	0		2	6
+p206_	nov16	164	164	cipher-space	0.0	0		0	2
+p206_.2	nov16	192	192	cipher-space	0.0	0		0	6
+p207A	nov16	140	140	cipher-space	0.0	0		0	2
+p207B	nov16	92	92	cipher-space	0.0	0		0	0
+p207D	nov16	84	84	cipher-space	0.0	0		0	6
+p207_	nov16	244	244	cipher-space	0.0	0		4	12
+p208A2	nov16	304	304	cipher-space	0.0	0		0	0
+p208A3	nov16	234	234	cipher-space	0.0	0		0	0
+p208A4	nov16	236	236	cipher-space	0.0	0		0	0
+p208A4.2	nov16	198	198	cipher-space	0.0	0		0	10
+p208B	nov16	320	320	cipher-space	0.0	0		1	2
+p208B8	nov16	222	222	cipher-space	0.0	0		0	4
+p209A	nov16	368	368	cipher-space	0.0	0		2	18
+p209A.2	nov16	400	400	cipher-space	0.0	0		7	42
+p209A3	nov16	248	248	cipher-space	0.0	0		5	18
+p209B	nov16	248	248	cipher-space	0.0	0		6	18
+p209B.2	nov16	236	236	cipher-space	0.0	0		0	10
+p210A	nov16	318	318	cipher-space	0.0	0		12	26
+p210A.2	nov16	220	221	cipher-space	1.05	1	E2:1	0	16
+p210B	nov16	228	228	cipher-space	0.0	0		5	18
+p210C	nov16	140	140	cipher-space	0.0	0		0	6
+p210C1	nov16	208	208	cipher-space	0.0	0		0	6
+p211A	nov16	246	246	cipher-space	0.0	0		1	2
+p211A.2	nov16	228	228	cipher-space	0.0	0		0	10
+p212A1	nov19	224	224	cipher-space	0.0	0		8	16
+p212B	nov19	310	310	cipher-space	0.0	0		0	0
+p212B2	nov19	230	230	cipher-space	0.0	0		0	0
+p212C	nov19	182	182	cipher-space	0.0	0		0	0
+p212C1	nov19	242	242	cipher-space	0.0	0		0	0
+p213A	nov19	230	230	cipher-space	0.0	0		0	0
+p213A1	nov19	186	186	cipher-space	0.0	0		0	0
+p213B	nov19	316	316	cipher-space	0.0	0		0	0
+p213C	nov19	408	408	cipher-space	0.0	0		0	0
+p214A	nov19	176	176	cipher-space	0.0	0		0	0
+p214B	nov19	68	68	cipher-space	0.0	0		0	0
+p214B.2	nov04	134	134	cipher-space	0.0	0		1	2
+p214B1	nov04	214	214	cipher-space	0.0	0		0	0
+p214B2	nov04	184	184	cipher-space	0.0	0		0	0
+p215A	nov22	344	339	cipher-space	1.25	1	E3:5	0	10
+p215A.2	nov22	224	224	cipher-space	0.0	0		0	0
+p215A.4	nov22	280	283	cipher-space	3.15	3	E2:1;E2:1;E2:1	1	2
+p216A6	nov22	318	318	cipher-space	0.0	0		1	2
+p216A7	nov22	276	276	cipher-space	0.0	0		0	0
+p216_1	nov22	200	200	cipher-space	0.0	0		0	0
+p216_2	nov22	208	208	cipher-space	0.0	0		0	0
+p216_3	nov22	162	163	cipher-space	1.05	1	E2:1	3	80
+p217A1	nov22	180	180	cipher-space	0.0	0		0	0
+p217B	nov22	292	292	cipher-space	0.0	0		5	10
+p217C	nov22	88	88	cipher-space	0.0	0		0	0
+p218B4	nov22	300	300	cipher-space	0.0	0		21	42
+p219A	nov22	242	242	cipher-space	0.0	0		0	0
+p219A.2	nov22	244	245	cipher-space	1.05	1	E2:1	0	0
+p219A1	nov22	246	246	cipher-space	0.0	0		0	0
+p219A4	nov22	198	198	cipher-space	0.0	0		1	2
+p219B	nov22	190	190	cipher-space	0.0	0		1	2
+p219B1	nov22	200	201	cipher-space	1.05	1	E2:1	1	2
+p220A	nov22	228	228	cipher-space	0.0	0		0	0
+p220A.2	nov22	240	240	cipher-space	0.0	0		0	0
+p220A.3	nov22	122	115	cipher-space	2.35	2	E3:5;E1:2	0	28
+p220A3	nov22	228	228	cipher-space	0.0	0		0	0
+p220A4	nov22	196	196	cipher-space	0.0	0		0	0
+p220B2	nov22	176	176	cipher-space	0.0	0		0	0
+p220C.2	dec09_history	170	170	cipher-space	0.0	0		0	0
+p221A	nov25	282	282	cipher-space	0.0	0		1	2
+p221A2	nov25	284	284	cipher-space	0.0	0		1	2
+p221A6	nov25	278	278	cipher-space	0.0	0		1	2
+p221B2	nov25	188	188	cipher-space	0.0	0		0	0
+p221B3	nov25	200	205	cipher-space	1.25	1	E3:5	6	2
+p222A1	nov25	334	334	cipher-space	0.0	0		0	0
+p222A2	nov25	230	230	cipher-space	0.0	0		0	0
+p222B	nov25	354	354	cipher-space	0.0	0		0	0
+p222D1	nov25	166	166	cipher-space	0.0	0		0	0
+p223A2	nov25	244	244	cipher-space	0.0	0		0	0
+p223B	nov25	220	220	cipher-space	0.0	0		0	0
+p223C1	nov25	222	222	cipher-space	0.0	0		0	0
+p223C2	nov25	264	264	cipher-space	0.0	0		0	0
+p223C3	nov25	206	206	cipher-space	0.0	0		0	0
+p223C4	nov25	244	244	cipher-space	0.0	0		0	0
+p224A5	nov25	232	222	cipher-space	1.5	1	E3:10	3	26
+p224A6	nov25	194	194	cipher-space	0.0	0		0	0
+p224B	nov25	348	348	cipher-space	0.0	0		0	0
+p224B1	nov25	298	297	cipher-space	1.05	1	E1:1	0	2
+p224B2	nov25	344	345	cipher-space	1.05	1	E2:1	1	2
+p224B4	nov25	266	270	cipher-space	2.3	2	E1:1;E2:5	5	12
+p225A	nov25	214	214	cipher-space	0.0	0		0	0
+p225A2	nov25	200	200	cipher-space	0.0	0		0	0
+p226A	nov25	248	248	cipher-space	0.0	0		0	0
+p226A1	nov25	342	341	cipher-space	1.05	1	E1:1	0	2
+p226A3	nov25	410	410	cipher-space	0.0	0		3	6
+p226B	nov25	246	246	cipher-space	0.0	0		0	0
+p226B.2	nov25	230	235	cipher-space	1.25	1	E3:5	2	4
+p227A1	nov25	238	238	cipher-space	0.0	0		3	6
+p227A2	nov25	176	176	cipher-space	0.0	0		0	0
+p227B	nov25	92	92	cipher-space	0.0	0		0	0
+p227C1	nov25	260	260	cipher-space	0.0	0		0	0
+p227C2	nov25	298	302	cipher-space	1.2	1	E2:4	2	0
+p228A	nov28	232	240	cipher-space	2.4	2	E5:1;E2:8	12	0
+p228B	nov28	212	212	cipher-space	0.0	0		0	0
+p228B1	nov28	254	254	cipher-space	0.0	0		5	10
+p229A2	nov28	186	186	cipher-space	0.0	0		4	8
+p229B	nov28	338	339	cipher-space	1.05	1	E2:1	1	2
+p229B1	nov28	344	344	cipher-space	0.0	0		0	0
+p229B2	nov28	208	209	cipher-space	1.05	1	E2:1	1	2
+p229B2.2	nov28	324	324	cipher-space	0.0	0		0	0
+p230A4	nov28	392	387	cipher-space	1.25	1	E3:5	0	10
+p230B	nov28	152	150	cipher-space	1.1	1	E1:2	0	4
+p230D	nov28	272	272	cipher-space	0.0	0		0	0
+p231A	nov28	374	386	cipher-space	4.6	4	E3:10;E2:1;E2:1;E5:1	3	0
+p231B1	nov28	246	246	cipher-space	0.0	0		6	12
+p231B3	nov28	186	186	cipher-space	0.0	0		1	2
+p231C1	nov28	176	176	cipher-space	0.0	0		0	0
+p231C2	nov28	144	144	cipher-space	0.0	0		0	0
+p232A	nov28	192	192	cipher-space	0.0	0		1	2
+p232A1	nov28	228	228	cipher-space	0.0	0		0	0
+p232A3	nov28	176	176	cipher-space	0.0	0		0	0
+p232B	nov28	268	268	cipher-space	0.0	0		3	6
+p232B2	nov28	248	248	cipher-space	0.0	0		6	12
+p232_	nov28	330	330	cipher-space	0.0	0		33	66
+p233A3	nov28	232	232	cipher-space	0.0	0		0	0
+p233A4	nov28	230	230	cipher-space	0.0	0		0	0
+p233B	nov28	136	136	cipher-space	0.0	0		0	0
+p233C	nov28	78	78	cipher-space	0.0	0		0	0
+p233D	nov28	188	188	cipher-space	0.0	0		0	0
+p233D.2	nov28	88	88	cipher-space	0.0	0		0	0

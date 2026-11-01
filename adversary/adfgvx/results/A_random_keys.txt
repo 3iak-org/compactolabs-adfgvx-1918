@@ -1,0 +1,10 @@
+p152_FXVAD rand samples=200000 mean=-8.4987 sd=0.1267 max=-7.3813
+p170_AAGVG rand samples=200000 mean=-8.4935 sd=0.1359 max=-7.4171
+p153_AXVAA rand samples=200000 mean=-8.4954 sd=0.1408 max=-7.0454
+p189_DVGAG rand samples=200000 mean=-8.4916 sd=0.1546 max=-7.1797
+p73_DFXGD rand samples=200000 mean=-8.4930 sd=0.1093 max=-7.6643
+p153_VFVAX rand samples=200000 mean=-8.4987 sd=0.1125 max=-7.6749
+p158_GDDFV rand samples=200000 mean=-8.4937 sd=0.0972 max=-7.8107
+p176_GGDAA rand samples=200000 mean=-8.4984 sd=0.0876 max=-7.9048
+p198_DFVXV rand samples=200000 mean=-8.4973 sd=0.1030 max=-7.6855
+p217_DXXXG rand samples=200000 mean=-8.4960 sd=0.1035 max=-7.7167

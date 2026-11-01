@@ -1,0 +1,122 @@
+[
+ {
+  "page": 170,
+  "block": 4,
+  "line": 2,
+  "group": 7,
+  "vision": "VXGVV",
+  "other": "VXVGV",
+  "channel": "ocr",
+  "verdict": "other",
+  "final": "VXVGV",
+  "note": "adjacent transposition by reader; image clear"
+ },
+ {
+  "page": 175,
+  "block": 5,
+  "line": 4,
+  "group": 3,
+  "vision": "VDXVV",
+  "other": "VDVXV",
+  "channel": "ocr",
+  "verdict": "other",
+  "final": "VDVXV",
+  "note": "adjacent transposition by reader; image clear"
+ },
+ {
+  "page": 186,
+  "block": 5,
+  "line": 1,
+  "group": 6,
+  "vision": "GDXGX",
+  "other": "GDGXG",
+  "channel": "ocr",
+  "verdict": "other",
+  "final": "GDGXG",
+  "note": "reader error; image clear at 2x"
+ },
+ {
+  "page": 200,
+  "block": 4,
+  "line": 2,
+  "group": 4,
+  "vision": "XVFXF",
+  "other": "XVFXX",
+  "channel": "ocr",
+  "verdict": "other",
+  "final": "XVFXX",
+  "note": "reader error; image clear"
+ },
+ {
+  "page": 217,
+  "block": 1,
+  "line": 7,
+  "group": 0,
+  "vision": "VDFVX",
+  "other": "VDVFX",
+  "channel": "ocr",
+  "verdict": "other",
+  "final": "VDVFX",
+  "note": "adjacent transposition by reader; image clear"
+ },
+ {
+  "page": 189,
+  "block": 1,
+  "line": 0,
+  "group": 4,
+  "vision": "XDXDX",
+  "other": "VDXDX",
+  "channel": "ocr",
+  "verdict": "ambiguous",
+  "final": "XDXDX",
+  "note": "first letter is an X/V overstrike (M-like); both readings possible"
+ },
+ {
+  "page": 218,
+  "block": 4,
+  "line": 5,
+  "group": 2,
+  "vision": "FDDFX",
+  "other": "FDFFX",
+  "channel": "ocr",
+  "verdict": "ambiguous",
+  "final": "FDDFX",
+  "note": "3rd letter D/F overstrike"
+ },
+ {
+  "page": 218,
+  "block": 1,
+  "line": 1,
+  "group": 4,
+  "vision": "XVAVG",
+  "other": "?XV?VG",
+  "channel": "ocr",
+  "verdict": "ambiguous",
+  "final": "XVAVG",
+  "note": "3rd glyph caret-like: A without bar, inverted V, or X"
+ },
+ {
+  "page": 141,
+  "block": 3,
+  "line": 3,
+  "group": 6,
+  "vision": "OXGDA",
+  "other": "GXGDA",
+  "channel": "ocr",
+  "verdict": "vision",
+  "final": "OXGDA",
+  "note": "round O at 2x; OCR has no O template"
+ },
+ {
+  "page": 186,
+  "block": 3,
+  "line": 0,
+  "group": 0,
+  "vision": "AAXDF",
+  "other": "AAXXF",
+  "channel": "ocr-rerun",
+  "verdict": "vision",
+  "final": "AAXDF",
+  "note": "rerun OCR matched the near-duplicate RIZI-36 line; on RIZI-27 the 3rd glyph is a small raised x, kept as X and flagged"
+ }
+]

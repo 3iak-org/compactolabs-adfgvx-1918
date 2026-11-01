@@ -1,0 +1,2 @@
+wrongkeys: 483 rows, max |score diff| 5.00e-07, plaintext mismatches 0
+randkeys: 1696 rows (top 500 + every 50th), max |score diff| 5.00e-07, plaintext mismatches 0
