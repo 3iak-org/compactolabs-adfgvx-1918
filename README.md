@@ -24,7 +24,8 @@ still open, and whether the known daily keys read any of them. In short:
   668 messages under the same keys and published no per-entry list, so these may well have
   been read already. "No public reading" is as of our run on 2026-11-01: a public edition,
   [icekylinx/adfgvx-cipher](https://github.com/icekylinx/adfgvx-cipher), created on 2026-11-02, has
-  since published readings of many of these units.
+  since published readings of all 15, 11 agreeing with ours at 89% or more of comparable letters.
+  Our run was earlier and independent but private, so public priority on those units is theirs.
 - A 23rd detection (p218A) was beaten by a wrong key with many blank cells, so it stays a
   detection and is not counted as a reading.
 - Four outside claims about Klaus Schmeh's 2017 list of open messages were tested by replication
