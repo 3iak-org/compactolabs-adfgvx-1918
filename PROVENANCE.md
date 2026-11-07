@@ -1,6 +1,6 @@
 # Provenance
 
-Exported on 2026-11-01 from `3iak-org/ciphers` at commit `4972f74bbd91ca5b05a40a3c0edc37e67b3e2548`.
+Exported on 2026-11-07 from `3iak-org/ciphers` at commit `4972f74bbd91ca5b05a40a3c0edc37e67b3e2548`.
 The source repository is the team's working notebook; this repository holds only what this result needs.
 Absolute home-directory paths were shortened to `~` on export; otherwise files are as at that commit.
 
